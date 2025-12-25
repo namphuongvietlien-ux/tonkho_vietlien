@@ -2,7 +2,9 @@ from http.server import BaseHTTPRequestHandler
 import json
 import os
 import sys
-import subprocess
+
+# Add parent directory to path
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 class handler(BaseHTTPRequestHandler):
     def do_POST(self):
@@ -57,14 +59,16 @@ class handler(BaseHTTPRequestHandler):
                 json.dump(config, f, ensure_ascii=False, indent=2)
             
             # Run conversion
-            conversion_script = os.path.join(parent_dir, 'convert_to_json.py')
             try:
-                subprocess.run(
-                    [sys.executable, conversion_script],
-                    capture_output=True,
-                    text=True,
-                    timeout=30
-                )
+                import convert_to_json
+                
+                # Change to parent directory temporarily
+                old_cwd = os.getcwd()
+                os.chdir(parent_dir)
+                
+                convert_to_json.convert_excel_to_json()
+                
+                os.chdir(old_cwd)
             except Exception as e:
                 print(f"Conversion error: {e}")
             

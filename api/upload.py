@@ -2,9 +2,11 @@ from http.server import BaseHTTPRequestHandler
 import json
 import os
 import sys
-import subprocess
 import tempfile
 from datetime import datetime
+
+# Add parent directory to path to import convert module
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 class handler(BaseHTTPRequestHandler):
     def do_POST(self):
@@ -18,7 +20,12 @@ class handler(BaseHTTPRequestHandler):
             # Parse multipart form data
             content_type = self.headers['Content-Type']
             if 'boundary' not in content_type:
-                self.send_error(400, "No boundary in Content-Type")
+                self.send_response(400)
+                self.send_header('Content-Type', 'application/json')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                response = json.dumps({'success': False, 'message': 'No boundary in Content-Type'})
+                self.wfile.write(response.encode())
                 return
             
             boundary = content_type.split('boundary=')[1].encode()
@@ -52,6 +59,18 @@ class handler(BaseHTTPRequestHandler):
                 self.wfile.write(response.encode())
                 return
             
+            # Import conversion function
+            try:
+                import convert_to_json
+            except ImportError as e:
+                self.send_response(500)
+                self.send_header('Content-Type', 'application/json')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                response = json.dumps({'success': False, 'message': f'Import error: {str(e)}'})
+                self.wfile.write(response.encode())
+                return
+            
             # Get the /tmp directory for Vercel
             tmp_dir = tempfile.gettempdir()
             
@@ -65,51 +84,37 @@ class handler(BaseHTTPRequestHandler):
             with open(file_path, 'wb') as f:
                 f.write(file_data)
             
-            # Get the directory of the current script
-            current_dir = os.path.dirname(os.path.abspath(__file__))
-            parent_dir = os.path.dirname(current_dir)
-            
-            # Path to conversion script
-            conversion_script = os.path.join(parent_dir, 'convert_to_json.py')
-            
-            # Run conversion
+            # Run conversion directly
             try:
-                result = subprocess.run(
-                    [sys.executable, conversion_script, file_path],
-                    capture_output=True,
-                    text=True,
-                    timeout=30
-                )
+                # Change to parent directory temporarily
+                current_dir = os.getcwd()
+                parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+                os.chdir(parent_dir)
                 
-                if result.returncode == 0:
-                    self.send_response(200)
-                    self.send_header('Content-Type', 'application/json')
-                    self.send_header('Access-Control-Allow-Origin', '*')
-                    self.end_headers()
-                    response = json.dumps({
-                        'success': True,
-                        'message': 'File uploaded and converted successfully',
-                        'filename': new_filename
-                    })
-                    self.wfile.write(response.encode())
-                else:
-                    self.send_response(500)
-                    self.send_header('Content-Type', 'application/json')
-                    self.send_header('Access-Control-Allow-Origin', '*')
-                    self.end_headers()
-                    response = json.dumps({
-                        'success': False,
-                        'message': f'Conversion failed: {result.stderr}'
-                    })
-                    self.wfile.write(response.encode())
-            except subprocess.TimeoutExpired:
+                # Run conversion with the uploaded file
+                sys.argv = ['convert_to_json.py', file_path]
+                convert_to_json.convert_excel_to_json()
+                
+                os.chdir(current_dir)
+                
+                self.send_response(200)
+                self.send_header('Content-Type', 'application/json')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                response = json.dumps({
+                    'success': True,
+                    'message': 'File uploaded and converted successfully',
+                    'filename': new_filename
+                })
+                self.wfile.write(response.encode())
+            except Exception as e:
                 self.send_response(500)
                 self.send_header('Content-Type', 'application/json')
                 self.send_header('Access-Control-Allow-Origin', '*')
                 self.end_headers()
                 response = json.dumps({
                     'success': False,
-                    'message': 'Conversion timeout'
+                    'message': f'Conversion failed: {str(e)}'
                 })
                 self.wfile.write(response.encode())
                 
