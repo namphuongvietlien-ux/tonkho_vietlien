@@ -1,0 +1,460 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+    overflow: hidden;
+}
+
+header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+}
+
+.upload-section {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+    padding: 15px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 10px;
+}
+
+.upload-btn {
+    background: white;
+    color: #667eea;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.upload-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.file-name {
+    color: white;
+    font-size: 14px;
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.btn-process {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+.btn-process:hover:not(:disabled) {
+    background: #218838;
+    transform: translateY(-2px);
+}
+
+.btn-process:disabled {
+    background: #6c757d;
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.metadata {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.info-box {
+    background: rgba(255,255,255,0.2);
+    padding: 10px 20px;
+    border-radius: 8px;
+    backdrop-filter: blur(10px);
+}
+
+.info-box .label {
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.info-box .value {
+    font-size: 1.1em;
+}
+
+.controls {
+    display: flex;
+    gap: 15px;
+    padding: 20px 30px;
+    background: #f8f9fa;
+    border-bottom: 2px solid #e9ecef;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.search-box {
+    flex: 1;
+    min-width: 250px;
+}
+
+#search-input {
+    width: 100%;
+    padding: 12px 15px;
+    border: 2px solid #667eea;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: all 0.3s;
+}
+
+#search-input:focus {
+    outline: none;
+    border-color: #764ba2;
+    box-shadow: 0 0 10px rgba(102, 126, 234, 0.3);
+}
+
+.filter-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.filter-box label {
+    font-weight: bold;
+    color: #495057;
+}
+
+#column-filter {
+    padding: 10px 15px;
+    border: 2px solid #667eea;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    background: white;
+}
+
+/* Tabs Styles */
+.tabs-container {
+    display: flex;
+    gap: 5px;
+    padding: 0 30px;
+    background: #f8f9fa;
+    overflow-x: auto;
+    border-bottom: 3px solid #667eea;
+}
+
+.tab {
+    padding: 15px 25px;
+    background: #e9ecef;
+    border: none;
+    border-radius: 8px 8px 0 0;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    white-space: nowrap;
+    color: #495057;
+}
+
+.tab:hover {
+    background: #dee2e6;
+    transform: translateY(-2px);
+}
+
+.tab.active {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 -3px 10px rgba(102, 126, 234, 0.3);
+}
+
+.sheet-contents {
+    min-height: 400px;
+}
+
+.sheet-content {
+    display: none;
+}
+
+.sheet-content.active {
+    display: block;
+}
+
+.sheet-header {
+    padding: 20px 30px;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+    border-bottom: 2px solid #667eea;
+}
+
+.sheet-header h2 {
+    color: #667eea;
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.sheet-stats {
+    color: #6c757d;
+    font-size: 1.1em;
+}
+
+.table-container {
+    overflow-x: auto;
+    max-height: 600px;
+    overflow-y: auto;
+    padding: 30px;
+    position: relative;
+}
+
+.btn-refresh {
+    padding: 12px 24px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn-refresh:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+}
+
+.btn-refresh:active {
+    transform: translateY(0);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+thead {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+th {
+    padding: 15px;
+    text-align: left;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+tbody tr {
+    border-bottom: 1px solid #e9ecef;
+    transition: background-color 0.2s;
+}
+
+tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+tbody tr:nth-child(even):hover {
+    background-color: #e9ecef;
+}
+
+td {
+    padding: 12px 15px;
+    color: #495057;
+}
+
+.no-data {
+    text-align: center;
+    padding: 60px;
+    color: #6c757d;
+    font-size: 1.2em;
+}
+
+footer {
+    background: #f8f9fa;
+    padding: 20px 30px;
+    text-align: center;
+    color: #6c757d;
+    border-top: 2px solid #e9ecef;
+}
+
+footer span {
+    font-weight: bold;
+    color: #667eea;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+    
+    .metadata {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .controls {
+        flex-direction: column;
+    }
+    
+    .search-box {
+        width: 100%;
+    }
+    
+    .table-container {
+        padding: 15px;
+    }
+    
+    th, td {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
+
+/* Loading Animation */
+.loading {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgba(255,255,255,.3);
+    border-radius: 50%;
+    border-top-color: white;
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Highlight search results */
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+/* Shelf life percentage highlights */
+.medium-shelf-life {
+    background-color: #fff3cd !important;
+    color: #856404 !important;
+    font-weight: bold;
+}
+
+.low-shelf-life {
+    background-color: #f8d7da !important;
+    color: #721c24 !important;
+    font-weight: bold;
+}
+
+.expired {
+    background-color: #dc3545 !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+/* Dropdown selector for shelf life */
+.shelf-life-selector {
+    padding: 6px 10px;
+    border: 2px solid #667eea;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: white;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.shelf-life-selector:hover {
+    border-color: #764ba2;
+    box-shadow: 0 0 5px rgba(102, 126, 234, 0.3);
+}
+
+.shelf-life-selector:focus {
+    outline: none;
+    border-color: #764ba2;
+    box-shadow: 0 0 10px rgba(102, 126, 234, 0.5);
+}
+/* Highlight cho hạn sử dụng */
+.medium-shelf-life {
+    background-color: #fff3cd !important;  /* Vàng - dưới 70% */
+    color: #856404 !important;
+    font-weight: bold;
+}
+
+.low-shelf-life {
+    background-color: #ff9800 !important;  /* Cam đậm - dưới 50% */
+    color: white !important;
+    font-weight: bold;
+}
+
+.expired {
+    background-color: #dc3545 !important;  /* Đỏ - hết hạn */
+    color: white !important;
+    font-weight: bold;
+    animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+/* Dropdown cho chọn thời hạn sử dụng */
+.shelf-life-selector {
+    padding: 8px 12px;
+    border: 2px solid #667eea;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: white;
+    transition: all 0.3s;
+}
+
+.shelf-life-selector:hover {
+    border-color: #764ba2;
+    box-shadow: 0 0 8px rgba(102, 126, 234, 0.3);
+}
+
+.shelf-life-selector:focus {
+    outline: none;
+    border-color: #764ba2;
+    box-shadow: 0 0 10px rgba(118, 75, 162, 0.5);
+}

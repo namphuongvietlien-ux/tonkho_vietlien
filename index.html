@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản Lý Tồn Kho</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📦 Hệ Thống Quản Lý Tồn Kho</h1>
+            
+            <!-- Upload file section -->
+            <div class="upload-section">
+                <label for="file-upload" class="upload-btn">
+                    📂 Chọn File Excel
+                    <input type="file" id="file-upload" accept=".xlsx,.xls" style="display: none;">
+                </label>
+                <span id="file-name" class="file-name">Chưa chọn file</span>
+                <button id="process-btn" class="btn-process" disabled>⚡ Xử Lý File</button>
+            </div>
+            
+            <div class="metadata">
+                <div class="info-box">
+                    <span class="label">📅 Ngày tồn kho:</span>
+                    <span id="date-ton-kho" class="value">--</span>
+                </div>
+                <div class="info-box">
+                    <span class="label">📊 Tổng sản phẩm:</span>
+                    <span id="total-products" class="value">--</span>
+                </div>
+                <div class="info-box">
+                    <span class="label">� Tổng số sheet:</span>
+                    <span id="total-sheets" class="value">--</span>
+                </div>
+                <div class="info-box">
+                    <span class="label">🕐 Cập nhật lúc:</span>
+                    <span id="last-updated" class="value">--</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="tabs-container" id="tabs-container">
+            <!-- Tabs sẽ được tạo động từ dữ liệu -->
+        </div>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder="🔍 Tìm kiếm sản phẩm...">
+            </div>
+            <div class="filter-box">
+                <label for="column-filter">Lọc theo cột:</label>
+                <select id="column-filter">
+                    <option value="all">Tất cả</option>
+                </select>
+            </div>
+            <button id="refresh-btn" class="btn-refresh">🔄 Làm mới dữ liệu</button>
+        </div>
+
+        <div class="sheet-contents" id="sheet-contents">
+            <!-- Nội dung các sheet sẽ được tạo động -->
+        </div>
+
+        <div id="no-data" class="no-data" style="display: none;">
+            <p>⚠️ Không tìm thấy dữ liệu. Vui lòng chạy script convert_to_json.py trước.</p>
+        </div>
+
+        <footer>
+            <p>Nguồn dữ liệu: <span id="source-file">--</span></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

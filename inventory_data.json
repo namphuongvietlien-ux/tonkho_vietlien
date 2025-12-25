@@ -1,0 +1,5218 @@
+{
+  "metadata": {
+    "date_ton_kho": "25/12/2025",
+    "source_file": "04.Inventory 22.12_1766631491.xlsx",
+    "last_updated": "25/12/2025 10:01:07",
+    "total_sheets": 5,
+    "total_products": 896
+  },
+  "sheets": [
+    {
+      "sheet_name": "COLEMAN",
+      "products": [
+        {
+          "Mã": "1610011",
+          "Tên": "COL_Áo đồng phục Coleman - Nữ",
+          "Số lượng tồn": 29
+        },
+        {
+          "Mã": "1610012",
+          "Tên": "COL_Áo đồng phục Coleman - Nam",
+          "Số lượng tồn": 33
+        },
+        {
+          "Mã": "1610013",
+          "Tên": "COL_Mũ Coleman",
+          "Số lượng tồn": 36
+        },
+        {
+          "Mã": "4010001",
+          "Tên": "Bình Coleman 5542B718G-1.2L- B     (4938)",
+          "Số lượng tồn": 1362
+        },
+        {
+          "Mã": "4010002",
+          "Tên": "Bình Coleman 5542B763G-1.2L-R    (4914)",
+          "Số lượng tồn": 1431
+        },
+        {
+          "Mã": "4010003",
+          "Tên": "Bình Coleman giữ lạnh 3000001489-1.2L-Hồng  (9105)",
+          "Số lượng tồn": 476
+        },
+        {
+          "Mã": "4010004",
+          "Tên": "Bình Coleman giữ lạnh 3000001490-1.2L-Tím  (9112)",
+          "Số lượng tồn": 18
+        },
+        {
+          "Mã": "4010005",
+          "Tên": "Bình Coleman giữ lạnh 3000001491-1.2L-Đen     (9129)",
+          "Số lượng tồn": 11
+        },
+        {
+          "Mã": "4010006",
+          "Tên": "Bình Coleman giữ lạnh 3000001492-1.2L-Xanh lá  (9136)",
+          "Số lượng tồn": 412
+        },
+        {
+          "Mã": "4010007",
+          "Tên": "Bình Coleman giữ lạnh 3000001617-1.2L-Cam (9440)",
+          "Số lượng tồn": 389
+        },
+        {
+          "Mã": "4010015",
+          "Tên": "Bình Coleman giữ lạnh 3000001016(5693A718G)-1.8L-Xanh (7255)",
+          "Số lượng tồn": 139
+        },
+        {
+          "Mã": "4010016",
+          "Tên": "Bình  Coleman giữ lạnh 3000001017(5693A703G)-1.8L-Đỏ    (7248) (5218)",
+          "Số lượng tồn": 341
+        },
+        {
+          "Mã": "4010017",
+          "Tên": "Bình Coleman giữ lạnh 2000010448-1.8L-Xanh dương (8290)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4010018",
+          "Tên": "Bình Coleman giữ lạnh 2000010449-1.8L-Đỏ (8306)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010019",
+          "Tên": "Bình Coleman giữ lạnh 2000010450-1.8L-Xanh lá (8313)",
+          "Số lượng tồn": -3
+        },
+        {
+          "Mã": "4010020",
+          "Tên": "Bình Coleman giữ lạnh 2000010451-1.8L-Xanh da trời (8320)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4010021",
+          "Tên": "Bình Coleman giữ lạnh 3000001534-1.8L-Xanh lá      (8054)",
+          "Số lượng tồn": 464
+        },
+        {
+          "Mã": "4010022",
+          "Tên": "Bình Coleman giữ lạnh 3000001235-1.8L-Đen       (8061)",
+          "Số lượng tồn": 158
+        },
+        {
+          "Mã": "4010023",
+          "Tên": "Bình Coleman giữ lạnh 3000001616-1.8L-Cam (9457)",
+          "Số lượng tồn": 116
+        },
+        {
+          "Mã": "4010024",
+          "Tên": "Bình Coleman giữ lạnh 3000001487-1.8L-Hồng  (9082)",
+          "Số lượng tồn": 137
+        },
+        {
+          "Mã": "4010025",
+          "Tên": "Bình Coleman giữ lạnh 3000001488 -1.8L-Tím     (9099)",
+          "Số lượng tồn": 71
+        },
+        {
+          "Mã": "4010030",
+          "Tên": "Thùng Coleman giữ lạnh Esky-1257458-2.5L (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010037",
+          "Tên": "Bình Coleman giữ lạnh 3000001615-3.8L-Cam    (9501)",
+          "Số lượng tồn": 19
+        },
+        {
+          "Mã": "4010038",
+          "Tên": "Bình Coleman giữ lạnh 3000001619-3.8L-Hồng    (9464)",
+          "Số lượng tồn": 69
+        },
+        {
+          "Mã": "4010039",
+          "Tên": "Bình Coleman giữ lạnh 3000001620-3.8L-Tím (9471)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4010040",
+          "Tên": "Bình Coleman giữ lạnh 3000001621-3.8L-Đen    (9495)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4010041",
+          "Tên": "Bình Coleman giữ lạnh 3000001622-3.8L-Xanh lá  (9488)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010042",
+          "Tên": "Bình Coleman giữ lạnh 3000000731-3.8L-Đỏ  (6128)",
+          "Số lượng tồn": 34
+        },
+        {
+          "Mã": "4010043",
+          "Tên": "Bình Coleman giữ lạnh 3000000739-3.8L-Xanh (6197)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4010050",
+          "Tên": "Thùng Coleman giữ lạnh 5205A753G-4.7L-Đỏ    (8419)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4010051",
+          "Tên": "Thùng Coleman giữ lạnh 5205A758G-4.7L-Xanh dương    (8433)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010052",
+          "Tên": "Thùng Coleman giữ lạnh 20033010-4.7L-Đỏ  (4883)",
+          "Số lượng tồn": 344
+        },
+        {
+          "Mã": "4010053",
+          "Tên": "Thùng Coleman giữ lạnh 2000033009- 4.7L-Xanh (4876)",
+          "Số lượng tồn": 76
+        },
+        {
+          "Mã": "4010054",
+          "Tên": "Thùng Coleman giữ lạnh 2207047- 4.7L- Xám - (4489)",
+          "Số lượng tồn": 46
+        },
+        {
+          "Mã": "4010055",
+          "Tên": "Thùng Coleman giữ lạnh  2220154 - 4.7L- Cam (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010060",
+          "Tên": "Bình Coleman giữ lạnh 1363293-5L (nắp ly)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010071",
+          "Tên": "Thùng Coleman giữ lạnh 2000014641-6L-Đỏ (4157)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4010073",
+          "Tên": "Thùng Coleman giữ lạnh 2000014643-6L-Xanh da trời (4171)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010074",
+          "Tên": "Thùng Coleman giữ lạnh 2000014644-6L-Hồng (4188)",
+          "Số lượng tồn": 35
+        },
+        {
+          "Mã": "4010080",
+          "Tên": "Thùng Coleman giữ lạnh 1219809-6L-Xanh dương - Esky (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010083",
+          "Tên": "Nắp Thùng Coleman 6L  (Mẫu)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4010085",
+          "Tên": "Bình Coleman giữ lạnh 5592C703G-7.5L-Đỏ (4169)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4010086",
+          "Tên": "Bình Coleman giữ lạnh 5592C718G-7.5L-Xanh dương (4183)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010092",
+          "Tên": "Bình Coleman giữ lạnh 3000000730-7.6L-Đỏ (6135)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4010093",
+          "Tên": "Bình Coleman giữ lạnh 3000000736-7.6L-Xanh (6180)",
+          "Số lượng tồn": 11
+        },
+        {
+          "Mã": "4010094",
+          "Tên": "Bình Coleman giữ lạnh 3000000877-7.6L-Xanh lá (6920)",
+          "Số lượng tồn": 23
+        },
+        {
+          "Mã": "4010100",
+          "Tên": "BO-Thùng Coleman giữ lạnh 3000000166-8.5L-Xanh  (0099)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010101",
+          "Tên": "BO-Thùng Coleman giữ lạnh 3000000168-8.5L-Đỏ (0105)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010102",
+          "Tên": "Thùng Coleman giữ lạnh 3005085 (6209)-8.5L- Đỏ  (7710)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4010103",
+          "Tên": "Thùng Coleman giữ lạnh 3000000166(5084)-8.5L-Xanh (0099) (7710)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010107",
+          "Tên": "Thùng Coleman giữ lạnh 2160823 - Xanh - 8.5L (1051)",
+          "Số lượng tồn": 284
+        },
+        {
+          "Mã": "4010211",
+          "Tên": "Thùng Coleman giữ lạnh 2000014645-12L-Đỏ    (4218)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010212",
+          "Tên": "Thùng Coleman giữ lạnh  2000014646-12L- Xanh lá (4225)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010213",
+          "Tên": "Thùng Coleman giữ lạnh 2000014647-12L-Xanh da trời (4232)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010214",
+          "Tên": "Thùng Coleman giữ lạnh 2000014648-12L-Hồng (4249)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010220",
+          "Tên": "Thùng Coleman giữ lạnh Esky 1257470-12L-Xanh lá (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010221",
+          "Tên": "Thùng Coleman giữ lạnh 2000033056-12 Lon-Xanh (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010229",
+          "Tên": "Thùng Coleman giữ lạnh 2220152 -15L - Xanh lơ (7282)",
+          "Số lượng tồn": 97
+        },
+        {
+          "Mã": "4010230",
+          "Tên": "Thùng Coleman giữ lạnh 2220151 - 15L - Cam- (7299)",
+          "Số lượng tồn": 41
+        },
+        {
+          "Mã": "4010231",
+          "Tên": "Thùng Coleman giữ lạnh 2000027859 - 15L - Xanh (4067)",
+          "Số lượng tồn": 66
+        },
+        {
+          "Mã": "4010232",
+          "Tên": "Thùng Coleman giữ lạnh 30000027860 - 15L - Đỏ (4074)",
+          "Số lượng tồn": 67
+        },
+        {
+          "Mã": "4010233",
+          "Tên": "Thùng Coleman giữ lạnh 30000036784 - 15L - Xám (3018)",
+          "Số lượng tồn": 45
+        },
+        {
+          "Mã": "4010234",
+          "Tên": "Thùng Coleman giữ lạnh 3000005895-15.1L - Xám     (9357)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010236",
+          "Tên": "Thùng Coleman giữ lạnh 3000000157-15.1L - Xanh (0143)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010237",
+          "Tên": "Thùng Coleman giữ lạnh 3000001989-15L - Đỏ    (0712)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010238",
+          "Tên": "Thùng Coleman giữ lạnh 3000001990-15L-Xanh Dương (nap xam) (0736)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010240",
+          "Tên": "Thùng Coleman giữ lạnh 3000005909-15L-Đen (9418)",
+          "Số lượng tồn": 17
+        },
+        {
+          "Mã": "4010241",
+          "Tên": "Thùng Coleman giữ lạnh 2207634 -15L- Xám (4601)",
+          "Số lượng tồn": 18
+        },
+        {
+          "Mã": "4010245",
+          "Tên": "Thùng Coleman giữ lạnh 300001169 (3884) (5007) -15L-Đỏ - tay kéo (5206) (6784)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010246",
+          "Tên": "Thùng Coleman giữ lạnh  3000001170 (3883) (1815)-15L-Xanh-tay kéo (5190)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010247",
+          "Tên": "Thùng Coleman giữ lạnh 2000010444 (5006) -15L- Hồng- tay kéo (8269)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010248",
+          "Tên": "Thùng Coleman giữ lạnh 200010445 (5005) -15L-Xanh Biển-tay kéo (8252)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010249",
+          "Tên": "Thùng Coleman giữ lạnh 2000010447 (5008)-15L-Xanh Lá - tay kéo (8283)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010260",
+          "Tên": "Bình Coleman giữ lạnh 3000000733-19L-Cam (6142)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4010261",
+          "Tên": "Bình Coleman giữ lạnh 3000001044-19L-Đỏ  (7583)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010262",
+          "Tên": "Bình Coleman giữ lạnh 3000000735-19L-Xanh dương  (6173)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010263",
+          "Tên": "Bình Coleman giữ lạnh 200033396-19L-Xanh",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4010264",
+          "Tên": "Bình Coleman giữ lạnh 200033397-19L-Đỏ (7583)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4010275",
+          "Tên": "Thùng Coleman giữ lạnh - 2218854 - 24L  (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010278",
+          "Tên": "Thùng Coleman giữ lạnh - 221068 - 28L  - Xám (Mẫu 27.05)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010282",
+          "Tên": "Thùng Coleman 6278703G-26.4L-R    (7142)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4010283",
+          "Tên": "Thùng Coleman 6278718G-26.4L-B      (7159)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4010284",
+          "Tên": "Thùng Coleman giữ lạnh 6277-718G-26.4L-Xanh (7173)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010288",
+          "Tên": "Thùng Coleman giữ lạnh 3000002009-26.4L-Xanh Nhạt (0767)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010289",
+          "Tên": "Thùng Coleman giữ lạnh 200010029-26L - Tay kéo - Xanh    (7869)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010290",
+          "Tên": "Thùng Coleman giữ lạnh 200010028-26L -Tay kéo - Hồng   (7868)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4010291",
+          "Tên": "Thùng Coleman giữ lạnh 2205749 - 26L - Nâu    (4311)",
+          "Số lượng tồn": 99
+        },
+        {
+          "Mã": "4010292",
+          "Tên": "Thùng Coleman giữ lạnh 2205748 - 26L - Xanh Rêu   (4281)",
+          "Số lượng tồn": 93
+        },
+        {
+          "Mã": "4010295",
+          "Tên": "Thùng Coleman giữ lạnh Combo 6277-790G-26.4L-Xanh  (3776)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010303",
+          "Tên": "Thùng Coleman giữ lạnh 300001842-28.4L - Xanh  (0811)",
+          "Số lượng tồn": 53
+        },
+        {
+          "Mã": "4010304",
+          "Tên": "Thùng Coleman giữ lạnh 300002001-28.4L - Đỏ (0828)",
+          "Số lượng tồn": 161
+        },
+        {
+          "Mã": "4010305",
+          "Tên": "Thùng Coleman giữ lạnh 300005939-28.4L - Xanh ngọc    (9593)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010306",
+          "Tên": "Thùng Coleman giữ lạnh 300005911-28.4L - Đen    (9432)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010307",
+          "Tên": "Thùng Coleman giữ lạnh 2000034682 - Xanh rêu - 28L (5093)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4010308",
+          "Tên": "Thùng Coleman giữ lạnh 2000036681 - Vàng cát - 28L (2684)",
+          "Số lượng tồn": 58
+        },
+        {
+          "Mã": "4010309",
+          "Tên": "Thùng Coleman giữ lạnh 2000036787 - Xám - 28L (3049)",
+          "Số lượng tồn": 19
+        },
+        {
+          "Mã": "4010310",
+          "Tên": "Thùng Coleman giữ lạnh Combo 6281A758G -34L-Xanh +1.2L + 4.7L (5492)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010315",
+          "Tên": "Thùng Coleman 6240A718G-37.8L- Xanh    (9970)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010318",
+          "Tên": "Thùng Coleman giữ lạnh 2218855 - 43L (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010320",
+          "Tên": "Thùng Giữ Nhiệt Coleman 3000000153-45.4L-Xanh    (3810)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010321",
+          "Tên": "Thùng Giữ Nhiệt Coleman  3000000154-45.4L-Đỏ    (3797)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010322",
+          "Tên": "Thùng Giữ Nhiệt Coleman  2000033007 - 45L-Xanh (4852)",
+          "Số lượng tồn": 71
+        },
+        {
+          "Mã": "4010323",
+          "Tên": "Thùng Giữ Nhiệt Coleman  2000033008 - 45L - Đỏ       (4869)",
+          "Số lượng tồn": 68
+        },
+        {
+          "Mã": "4010333",
+          "Tên": "Thùng Coleman giữ lạnh 3000000188-47.3L-Xanh dương (5072)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010334",
+          "Tên": "Thùng Coleman giữ lạnh  6250A763G -47.3L-Trắng (6640)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010339",
+          "Tên": "Thùng Coleman giữ lạnh 3000001840-47.3L-Xanh nhạt- tay kéo (0866)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010410",
+          "Tên": "Thùng Coleman Combo 5295A784G ( 5295A780G )-51.1L-Xanh + 1.2L +4.7L (4020)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4010415",
+          "Tên": "Thùng Coleman giữ lạnh 2207174 - 51L - Trắng  (2713)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4010419",
+          "Tên": "Thùng Coleman giữ lạnh 2218856-52L (Mẫu 09.24)_",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010430",
+          "Tên": "Thùng Coleman giữ lạnh 2000036781 - 56L - Xám - tay kéo (2981)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4010431",
+          "Tên": "Thùng Coleman giữ lạnh 3000001838(5152)-57L - Xanh - tay kéo (0910)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010433",
+          "Tên": "Thùng Coleman giữ lạnh  2000027863 - 56L - Xanh - tay kéo (4104)",
+          "Số lượng tồn": 75
+        },
+        {
+          "Mã": "4010434",
+          "Tên": "Thùng Coleman giữ lạnh 30005144 (1998)- 57L - Đỏ - tay kéo (0927)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010435",
+          "Tên": "Thùng Coleman giữ lạnh 30005184 - 57L - tay kéo    (5655)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4010437",
+          "Tên": "Thùng Coleman giữ lạnh 2000027864 - 56L - Đỏ - tay kéo (4111)",
+          "Số lượng tồn": 108
+        },
+        {
+          "Mã": "4010440",
+          "Tên": "Thùng Coleman giữ lạnh 6262A748-58L-Xanh dương- tay kéo   (4332)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010441",
+          "Tên": "Thùng Coleman giữ lạnh 3004025 (1257078 ) - 58L - Xanh (2791)",
+          "Số lượng tồn": 62
+        },
+        {
+          "Mã": "4010450",
+          "Tên": "Thùng Coleman giữ lạnh Esky 1219815-65L-Xám (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010461",
+          "Tên": "Thùng Coleman giữ lạnh 6270A763-66L-Trắng-tay kéo (3496)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010480",
+          "Tên": "Thùng Coleman giữ lạnh 3000001146-77L-Xám (7880)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010500",
+          "Tên": "Thùng Coleman giữ lạnh 3000000187-95L-Xanh (8362)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010501",
+          "Tên": "Thùng Coleman giữ lạnh 3000002232-95L-Trắng (3707)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010502",
+          "Tên": "Thùng Coleman giữ lạnh 3000002234-95L-Trắng (7531)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010507",
+          "Tên": "Thùng Coleman giữ lạnh 6200A763-95L-Trắng (5445)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010508",
+          "Tên": "Thùng Coleman giữ lạnh 6201A748-95L-Xanh - tay keo (5537)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010509",
+          "Tên": "Thùng Coleman giữ lạnh 6200A748 (-95L-Xanh (4356)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4010515",
+          "Tên": "Thùng Coleman giữ lạnh 3000002458-113L-Trắng  (1979)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010516",
+          "Tên": "Thùng Coleman giữ lạnh 3000006569 - 113L - Xám  (3629)",
+          "Số lượng tồn": 58
+        },
+        {
+          "Mã": "4010520",
+          "Tên": "Thùng Coleman giữ lạnh 3000000938-142L-Xanh (6626)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4010560",
+          "Tên": "Thùng Coleman giữ lạnh 3000000484 (5346) -20 lon-Đỏ (5251)",
+          "Số lượng tồn": 73
+        },
+        {
+          "Mã": "4010561",
+          "Tên": "Thùng Coleman giữ lạnh 3000000485-20 lon-Xanh    (5268)",
+          "Số lượng tồn": 29
+        },
+        {
+          "Mã": "4010562",
+          "Tên": "Thùng  Coleman giữ lạnh 3000000486 (5347) -20 lon-Xanh lá  (5275)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010563",
+          "Tên": "Thùng Coleman giữ lạnh 3000000487-20 lon-Xám     (5282)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010570",
+          "Tên": "Thùng Coleman giữ lạnh 3000000433(5354)-24 lon-Xanh (5145)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010571",
+          "Tên": "Thùng Coleman giữ lạnh 3000000450 (5591) -24 lon-Đỏ (5152)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4010572",
+          "Tên": "Thùng Coleman giữ lạnh 3000000451-24 lon-Xanh lá (5169)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4010595",
+          "Tên": "Thùng Coleman giữ lạnh 3000000480 (5342) -48 lon-Xanh Dương (5220)",
+          "Số lượng tồn": 43
+        },
+        {
+          "Mã": "4010596",
+          "Tên": "Thùng Coleman giữ lạnh 3000000482 -48 lon- Xanh (5237)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4010597",
+          "Tên": "Thùng Coleman giữ lạnh 3000000483 (5345) -48 lon-Xám  (5244)",
+          "Số lượng tồn": -2
+        },
+        {
+          "Mã": "4010598",
+          "Tên": "Thùng Coleman giữ lạnh 3000000481 (5344) -48 lon-Đỏ  (5213)",
+          "Số lượng tồn": 18
+        },
+        {
+          "Mã": "4020001",
+          "Tên": "Áo cứu sinh Coleman 2000016488 (825-364T)    (0888)",
+          "Số lượng tồn": 33
+        },
+        {
+          "Mã": "4020005",
+          "Tên": "Áo đi mưa  Coleman 2000014625-S/M-Tím (2467)",
+          "Số lượng tồn": 20
+        },
+        {
+          "Mã": "4020006",
+          "Tên": "Áo đi mưa  Coleman 2000014626-L/XL-Tím (2474)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4020007",
+          "Tên": "Áo đi mưa  Coleman 2000014628-L/XL-Xanh lá (2498)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020008",
+          "Tên": "Áo đi mưa Coleman 2000014627-S/M-Xanh lá (2481)",
+          "Số lượng tồn": 22
+        },
+        {
+          "Mã": "4020009",
+          "Tên": "Áo đi mưa  Coleman 2000014629-S/M-Xanh dương (2504)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4020010",
+          "Tên": "Áo đi mưa  Coleman 2000014630-L/XL-Xanh dương (2511)",
+          "Số lượng tồn": 16
+        },
+        {
+          "Mã": "4020011",
+          "Tên": "Áo đi mưa  Coleman 2000014631-S/M-Vàng (2528)",
+          "Số lượng tồn": 23
+        },
+        {
+          "Mã": "4020012",
+          "Tên": "Áo đi mưa  Coleman 2000014632-L/XL-Vàng (2535)",
+          "Số lượng tồn": 19
+        },
+        {
+          "Mã": "4020013",
+          "Tên": "Áo đi mưa  Coleman 2000014349-L/XL-Xanh dương   (2634)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4020014",
+          "Tên": "Áo mưa Coleman 2000014351-S/M-Xanh lá (2658)",
+          "Số lượng tồn": 25
+        },
+        {
+          "Mã": "4020016",
+          "Tên": "Áo mưa Coleman 2000014370-XL-Xanh lá (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020017",
+          "Tên": "Áo mưa Coleman 2000014348-X/M-Xanh dương (2627)",
+          "Số lượng tồn": 18
+        },
+        {
+          "Mã": "4020018",
+          "Tên": "Áo mưa Coleman 2000014352-L/Xl-Xanh lá (2665)",
+          "Số lượng tồn": 306
+        },
+        {
+          "Mã": "4020019",
+          "Tên": "Áo mưa Coleman 20014977 (3020) - L - Xanh đen",
+          "Số lượng tồn": 159
+        },
+        {
+          "Mã": "4020020",
+          "Tên": "Áo mưa Coleman 20014354 - S/M - Xanh Navy (2689)",
+          "Số lượng tồn": 34
+        },
+        {
+          "Mã": "4020021",
+          "Tên": "Áo mưa Coleman 2000014355-L/XL-Xanh Navy    (2696)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4020022",
+          "Tên": "Áo mưa Coleman 2000014974 (3884) -S- Trắng trong",
+          "Số lượng tồn": 160
+        },
+        {
+          "Mã": "4020023",
+          "Tên": "Áo mưa Coleman 2000014976 (3013) -M- Xanh đen",
+          "Số lượng tồn": 270
+        },
+        {
+          "Mã": "4020024",
+          "Tên": "Áo mưa Coleman 2000014978 (3037) -XL- Xanh đen",
+          "Số lượng tồn": 62
+        },
+        {
+          "Mã": "4020025",
+          "Tên": "Áo mưa Coleman 2000024907 (2066) -XL - Xám",
+          "Số lượng tồn": 36
+        },
+        {
+          "Mã": "4020027",
+          "Tên": "Áo mưa Coleman 2000024893 (1922)- L - Xám",
+          "Số lượng tồn": 72
+        },
+        {
+          "Mã": "4020028",
+          "Tên": "Bộ áo mưa Coleman 2004103 (1306916)-XL (5932)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4020029",
+          "Tên": "Bộ áo mưa Coleman 20014767-1306913-S (3594)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4020030",
+          "Tên": "Bộ áo mưa Coleman 2000004101-M-Xanh (5918)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020031",
+          "Tên": "Bộ áo mưa Coleman 2000004102-L-Xanh (5925)",
+          "Số lượng tồn": 21
+        },
+        {
+          "Mã": "4020037",
+          "Tên": "Bộ áo mưa Coleman 2000024895 (1946) -XL (1922)",
+          "Số lượng tồn": 179
+        },
+        {
+          "Mã": "4020040",
+          "Tên": "Bộ áo mưa Coleman 2000004473-Mẫu",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020041",
+          "Tên": "Bộ áo mưa Coleman 2000015027-Mẫu",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020043",
+          "Tên": "Bộ áo mưa Coleman 2000015014-Mẫu",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020050",
+          "Tên": "Bao áo mưa  cho Balo CBA 8261L6R (Pack Cover) (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020070",
+          "Tên": "Ba lô Coleman CBB0011BE-15L-Tím (4051)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4020072",
+          "Tên": "Ba lô Coleman CBB0011BL-15L-Xanh dương (4068)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4020073",
+          "Tên": "Ba lô Coleman CBB0011LM-15L-Vàng chanh    (4044)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4020084",
+          "Tên": "Ba lô Coleman Day Back -20L 200013006 - Đen (3239)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020091",
+          "Tên": "Ba lô Coleman CBB0021LM-23L-Vàng chanh (4082)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4020100",
+          "Tên": "Ba lô Coleman CBB0031BK-30L-Đen (4112)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4020102",
+          "Tên": "Ba lô Coleman CBB0031LM-30L-Vàng chanh (4129)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4020103",
+          "Tên": "Ba lô Coleman CBB0031BE-30L-Tím (4136)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4020170",
+          "Tên": "Ba lô + Túi xách Coleman CBB3371ND - Xanh Navy (8584)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4020171",
+          "Tên": "Ba lô + Túi xách Coleman CBB3371GA - Xám     (8560)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4020172",
+          "Tên": "Ba lô + Túi xách Coleman CBB3371RD - Đỏ (8607)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4020173",
+          "Tên": "Ba lô + Túi xách Coleman CBB3371TQ - Xanh ngọc   (8638)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4020181",
+          "Tên": "Ba lô Coleman 2000021676-1371214-Hồng-Trẻ em (8309)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4020185",
+          "Tên": "Ba lô Coleman Grear box 200021463 - Xanh dương  (2511)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020187",
+          "Tên": "Ba lô Coleman 200031181 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020190",
+          "Tên": "Ba lô Coleman Magic Lite 200021745-15L-Hồng (9009)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4020191",
+          "Tên": "Ba lô Coleman Magic Lite 2000021748 -23L-Xanh lá (9030)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4020192",
+          "Tên": "Ba lô Coleman Magic Lite 2000021750-23L-Xanh (9054)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4020195",
+          "Tên": "Ba lô Coleman 200034355-15L- Xanh bộ đội (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020200",
+          "Tên": "Ba lô Coleman Walker 2000021363-25L-Xanh dương (9108)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4020201",
+          "Tên": "Ba lô Coleman Walker CBB4501BK-25L-Đen (5339)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4020203",
+          "Tên": "Ba lô Coleman Walker 2000034302 - 25L - Màu kem (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020205",
+          "Tên": "Ba lô Coleman Magic Lite 2000021756-30L-Đen (0402)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4020208",
+          "Tên": "Ba lô Coleman 2000034307 - 30L - Xanh Jean (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020210",
+          "Tên": "Ba lô Coleman Walker 2000021391-33L-Đen sọc (5605)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4020211",
+          "Tên": "Ba lô Coleman Walker 2000021392-33L-Xám (5612)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4020220",
+          "Tên": "Ba lô C-Banana Coleman 2000032561 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020221",
+          "Tên": "Ba lô C-Banana Coleman 2000032568 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020222",
+          "Tên": "Ba lô C-Banana Coleman 2000032968 (Mẫu)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4020224",
+          "Tên": "Ba lô Cube Coleman 34402 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4020225",
+          "Tên": "Ba lô Cube Coleman 34374 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4030001",
+          "Tên": "Bàn xếp Coleman  4 trong 1 PackAway 2000003098 (1285)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4030002",
+          "Tên": "Bàn xếp Coleman  2000009901 (20279) (2203)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4030004",
+          "Tên": "Bàn xếp Coleman 2000007821 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4030006",
+          "Tên": "Bàn xếp Mosaic Coleman 2000026754 - 60x60x40/70 (h)cm       (3421)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4030007",
+          "Tên": "Bàn Spider Coleman 120 - 2196345 - (3581)",
+          "Số lượng tồn": 21
+        },
+        {
+          "Mã": "4030008",
+          "Tên": "Bàn gấp Coleman 2000024715     (6329)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4030009",
+          "Tên": "Bàn Coleman Spider 90 - 2196342 (3598) (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4030010",
+          "Tên": "Bàn gấp Coleman 2000026760 - khung nhôm    (3476)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4030011",
+          "Tên": "Bàn xếp Coleman 2000026751 - khung nhôm (3407)",
+          "Số lượng tồn": 19
+        },
+        {
+          "Mã": "4030012",
+          "Tên": "Bàn xếp Coleman 2205811 - 140x70x50(h)     (4250)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4030013",
+          "Tên": "Bàn xếp Coleman Mini 2000026756 -53x40x23  khung nhôm     (3438)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4030014",
+          "Tên": "Bàn xếp Coleman 2000034610 - khung nhôm (4317)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4030015",
+          "Tên": "Bàn xếp Coleman 2000034611      (4324)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4030017",
+          "Tên": "Bàn xếp Coleman 2205812 - 53x40x23(h)cm    (4274)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4030018",
+          "Tên": "Bàn xếp Coleman 2205816 - 90x70x40(h)cm   (4267)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4030019",
+          "Tên": "Bàn xếp Coleman 2205813 - 120x70x40(h)cm    (4243)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4030020",
+          "Tên": "Bộ bàn ghế xếp Coleman 2000003097 (1278)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4030021",
+          "Tên": "Bộ bàn ghế xếp Mosaic Picnic Coleman 2000017002 (8773)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4030022",
+          "Tên": "Bộ bàn ghế Mosaic Coleman 2000014235 (8766)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4030035",
+          "Tên": "Bàn xếp Coleman 2219644 - 55x35x25 (h) (6544))",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4040001",
+          "Tên": "Bếp nhiên liệu Coleman 3000003654 (792) (2150)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4040002",
+          "Tên": "Bếp nhiên liệu đôi Coleman 3000003648 (788) (2342)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4040005",
+          "Tên": "Bếp nướng Coleman 170-9367 (9309) (6760)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4040006",
+          "Tên": "Bếp nướng Coleman 2000010394 (2660)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4040007",
+          "Tên": "Bếp nướng Coleman 170-9310 (6166)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4040009",
+          "Tên": "Bếp nướng để bàn Coleman 170-9368 (6777)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4040010",
+          "Tên": "Bếp nướng Roadtrip Coleman 20010586 (6921) (1410)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4040011",
+          "Tên": "Bếp nướng Coleman 401016418 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4040016",
+          "Tên": "Bếp ga nấu, nướng Coleman 200037239     (4312)",
+          "Số lượng tồn": 17
+        },
+        {
+          "Mã": "4040017",
+          "Tên": "Bếp thanh hình chảo Coleman 200031235 (Mẫu 10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4040031",
+          "Tên": "Vỉ nường cỡ vừa Coleman 170 - 9223 (5213)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4040034",
+          "Tên": "Bếp -Vỉ nướng Coleman - Cool Spider Pro L Boost - 20035724  - 55x35x75(h)  (Mẫu 11.23)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4040040",
+          "Tên": "Kiềng xếp nấu, nướng 2000038862 (46x21x12)cm (8167)",
+          "Số lượng tồn": 20
+        },
+        {
+          "Mã": "4040041",
+          "Tên": "Kiềng xếp nấu, nướng 2000010397 (100x100x27)cm (3268)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4040100",
+          "Tên": "Bình đựng nước giữ nhiệt Coleman 2220141 - 350mL  (7626)",
+          "Số lượng tồn": 54
+        },
+        {
+          "Mã": "4040101",
+          "Tên": "Bình đựng nước giữ nhiệt Coleman 2220143 - 350ml (7602)",
+          "Số lượng tồn": 55
+        },
+        {
+          "Mã": "4040105",
+          "Tên": "Bình đựng nước giữ nhiệt Coleman 2220142 - 590ml (7657)",
+          "Số lượng tồn": 58
+        },
+        {
+          "Mã": "4040106",
+          "Tên": "Bình đựng nước giữ nhiệt Coleman 2220144 - 590ml (7633)",
+          "Số lượng tồn": 60
+        },
+        {
+          "Mã": "4050001",
+          "Tên": "Bình uống nước Coleman - 0.35L - 170-6980 (6472)",
+          "Số lượng tồn": 14
+        },
+        {
+          "Mã": "4050002",
+          "Tên": "Bình uống nước Coleman - 0.5L - 200016355- nhôm (3407)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4050003",
+          "Tên": "Bình uống nước Coleman - 0.5L - 170-6976 (6434)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4050004",
+          "Tên": "Bình uống nước Coleman - 0.75L - 2000016368 - Tritan (0535)",
+          "Số lượng tồn": 66
+        },
+        {
+          "Mã": "4050006",
+          "Tên": "Bình uống nước Coleman - 1L - 2000016359 (0498)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4050007",
+          "Tên": "Bình đựng nước Coleman - 1L - nhôm - 200016358 (6891) (0511)",
+          "Số lượng tồn": 83
+        },
+        {
+          "Mã": "4050009",
+          "Tên": "Ấm nấu nước nhôm Coleman - 0.6L - 200010532 (Mẫu 07.25 )",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4050010",
+          "Tên": "Ấm nấu nước lò sưởi Coleman - 200026788 (Mẫu 07.25 )",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4050011",
+          "Tên": "Bình đựng nước giữ nhiệt Coleman 2160480 - 720mL - Xám  (3422)",
+          "Số lượng tồn": 101
+        },
+        {
+          "Mã": "4050012",
+          "Tên": "Bình đựng nước giữ nhiệt Coleman 2000038936 - 350mL  (8433)",
+          "Số lượng tồn": 55
+        },
+        {
+          "Mã": "4050014",
+          "Tên": "Bình đựng nước giữ nhiệt Coleman 2190948 - 720mL - Xanh biển  (0730)",
+          "Số lượng tồn": 230
+        },
+        {
+          "Mã": "4050015",
+          "Tên": "Bình đựng nước giữ nhiệt Coleman 21604278 - 720mL - Trắng  (3408)",
+          "Số lượng tồn": 102
+        },
+        {
+          "Mã": "4050017",
+          "Tên": "Ly uống nước (giữ nhiệt)  Coleman 2016916 - 600ml - Đen    (1791)",
+          "Số lượng tồn": 110
+        },
+        {
+          "Mã": "4050018",
+          "Tên": "Ly uống nước (giữ nhiệt)  Coleman 2148890 - 600ml - Xanh   (8725)",
+          "Số lượng tồn": 114
+        },
+        {
+          "Mã": "4050020",
+          "Tên": "Bộ dụng cụ ăn đa năng Coleman 2000016410 (7840)    (1878)",
+          "Số lượng tồn": 92
+        },
+        {
+          "Mã": "4050022",
+          "Tên": "Lò  nấu  Inox Coleman 2218402 (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4050023",
+          "Tên": "Bộ đồ ăn : 2 dĩa+2Ly+2 tô Coleman (Mẫu - 20.10.23)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4050024",
+          "Tên": "Bộ dụng cụ nấu ăn Coleman 200026808 (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4050025",
+          "Tên": "Bật nắp chai Coleman 2000001658 (6835)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4050027",
+          "Tên": "Búa nện Coleman bằng nhựa  2000025211-16 (7039)",
+          "Số lượng tồn": 14
+        },
+        {
+          "Mã": "4050028",
+          "Tên": "Búa nện Coleman bằng nhựa  2000000236 (6101)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4050032",
+          "Tên": "Bộ sạc dự phòng Coleman CPX 6V 2000002673 (0291)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4050038",
+          "Tên": "Bồn rửa chén 200006863 (3155)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4050040",
+          "Tên": "Bơm chân Coleman 60420A    (5780)",
+          "Số lượng tồn": 401
+        },
+        {
+          "Mã": "4050041",
+          "Tên": "Bơm pin Coleman 5999E300    (1590)",
+          "Số lượng tồn": 55
+        },
+        {
+          "Mã": "4050042",
+          "Tên": "Bơm tay Coleman 20019225 (5734)",
+          "Số lượng tồn": 26
+        },
+        {
+          "Mã": "4050043",
+          "Tên": "Bơm pin Coleman 200021937 (4D) (0383)",
+          "Số lượng tồn": 55
+        },
+        {
+          "Mã": "4050044",
+          "Tên": "Bơm tay Coleman 170-6829 (1364245) (4904)",
+          "Số lượng tồn": 25
+        },
+        {
+          "Mã": "4050045",
+          "Tên": "Bơm tay Coleman 2001074 (20012142)-Đỏ/Đen       (8759)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4050046",
+          "Tên": "Bơm điện Coleman 240V - 60030A    (0144)",
+          "Số lượng tồn": 23
+        },
+        {
+          "Mã": "4050047",
+          "Tên": "Bơm tay 20014816 (bơm thuyền) (7004)",
+          "Số lượng tồn": 31
+        },
+        {
+          "Mã": "4050050",
+          "Tên": "Chăn du lịch  Coleman 203976 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4050052",
+          "Tên": "Ca thép Coleman 170A5023 (0355)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4050054",
+          "Tên": "Cưa gập Coleman 2000025203 (6964)",
+          "Số lượng tồn": 27
+        },
+        {
+          "Mã": "4050056",
+          "Tên": "Cưa gập Coleman 2000015164 (3340) (1191)",
+          "Số lượng tồn": 16
+        },
+        {
+          "Mã": "4050057",
+          "Tên": "Cưa hình cánh cung Coleman 2000016460 (5823)",
+          "Số lượng tồn": 55
+        },
+        {
+          "Mã": "4050058",
+          "Tên": "Cưa tay bỏ túi Coleman 2000016513     (0536)",
+          "Số lượng tồn": 15
+        },
+        {
+          "Mã": "4050065",
+          "Tên": "Còi Coleman 5 trong 1 - 200006628 (16442)        (8336)",
+          "Số lượng tồn": 25
+        },
+        {
+          "Mã": "4050075",
+          "Tên": "Dây phơi Coleman 827E140T - Laundry (4703)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4050076",
+          "Tên": "Dây treo đồ Coleman 2000016959 - Màu cam (5400)",
+          "Số lượng tồn": 15
+        },
+        {
+          "Mã": "4050087",
+          "Tên": "Đầu đốt bếp gas mini-FL1 Lte Stove - 68178 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4050088",
+          "Tên": "Đầu đốt bếpgas mini-F1LiteLantern- 69188 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4060002",
+          "Tên": "Gậy Đi Rừng Coleman 802-251T (3148)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4060008",
+          "Tên": "Gậy đi rừng Coleman 2000016535 (0894)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4060009",
+          "Tên": "Gậy đi rừng Coleman 2000016536 (8945)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4070001",
+          "Tên": "Ghế câu Coleman 51260A (7043)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070002",
+          "Tên": "Ghế câu Coleman 200019117 (6150)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4070004",
+          "Tên": "Ghế đẩu Coleman 2000021982 - Đen (0086)",
+          "Số lượng tồn": 32
+        },
+        {
+          "Mã": "4070005",
+          "Tên": "Ghế đẩu Coleman 2000023169 - Đỏ (0574)",
+          "Số lượng tồn": 59
+        },
+        {
+          "Mã": "4070009",
+          "Tên": "Ghế Coleman 2220524 - 58x64x98 - bánh xe - đỏ (Mẫu )",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070010",
+          "Tên": "Ghế xếp Coleman 200035688 - 870x 520x 500 (Mẫu 29.09.22)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070011",
+          "Tên": "Ghế xếp Coleman 570x 580x 410 (Mẫu 13.11.23)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070012",
+          "Tên": "Ghế xếp Coleman 870 x 520 x 410 (Mẫu 13.11.23)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070013",
+          "Tên": "Ghế xếp Coleman Alminium Deck 870 x 520 x 410 (Mẫu 13.11.23)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070014",
+          "Tên": "Ghế xếp Coleman 2219647 (lưng ngã)    (6575)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4070015",
+          "Tên": "Ghế xếp Coleman 51170B -2003277 -1242317 (8705)",
+          "Số lượng tồn": -3
+        },
+        {
+          "Mã": "4070016",
+          "Tên": "Ghế xếp Coleman 2000003743 (Mẫu)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070019",
+          "Tên": "Ghế xếp cỡ lớn Coleman 2000002188 - Xanh (3830)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070020",
+          "Tên": "Ghế xếp lưng lưới Coleman 200009888 (19421) (2005)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4070021",
+          "Tên": "Ghế xếp lưng lưới Coleman 200019423 (6140)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4070022",
+          "Tên": "Ghế  xếp du lịch Coleman 2196344 - Healing (3642)",
+          "Số lượng tồn": 60
+        },
+        {
+          "Mã": "4070023",
+          "Tên": "Ghế  xếp du lịch Coleman 2196346 - Healing (3628)",
+          "Số lượng tồn": 59
+        },
+        {
+          "Mã": "4070024",
+          "Tên": "Ghế  xếp du lịch Coleman 2199216 - Healing (3475)",
+          "Số lượng tồn": 29
+        },
+        {
+          "Mã": "4070025",
+          "Tên": "Ghế  xếp du lịch Coleman 2000020261 (3744)      (1377) - (51377)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4070026",
+          "Tên": "Ghế  xếp du lịch Coleman 2000020262 (0262) (1322)",
+          "Số lượng tồn": 30
+        },
+        {
+          "Mã": "4070027",
+          "Tên": "Ghế  xếp du lịch Coleman 2199217 - Healing (3468)",
+          "Số lượng tồn": 44
+        },
+        {
+          "Mã": "4070028",
+          "Tên": "Ghế xếp Coleman 2000007752 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070030",
+          "Tên": "Ghế xếp Coleman 2000010498 - Đỏ (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070033",
+          "Tên": "Ghế xếp Coleman 2000022015 - Hồng (0321)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4070034",
+          "Tên": "Ghế xếp Coleman 20016996 - 1357060 - Xanh lá (8704)",
+          "Số lượng tồn": -3
+        },
+        {
+          "Mã": "4070035",
+          "Tên": "Ghế xếp Coleman 20016998 - 1357062 - Đỏ (8728)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070038",
+          "Tên": "Ghế xếp Aluminun Canvas Coleman 2000010502 - Nâu (5983)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4070039",
+          "Tên": "Ghế xếp Coleman Healing - 2206794 - 530x630x410 (4519)",
+          "Số lượng tồn": 11
+        },
+        {
+          "Mã": "4070041",
+          "Tên": "Ghế xếp Kick Back Coleman 2000021991 - Xanh lá - Trẻ em   (0161)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070042",
+          "Tên": "Ghế xếp Kick Back Coleman 2000021992 - Hồng - Trẻ em    (0178)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4070043",
+          "Tên": "Ghế xếp Coleman Healing 2206796 - 530x660x410      (4502)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4070046",
+          "Tên": "Ghế xếp Coleman 2000033808       (2481)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070047",
+          "Tên": "Ghế xếp Coleman 2000033139       (1429)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4070048",
+          "Tên": "Ghế xếp Coleman 2000033809 - Xanh Bộ đội (2498)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4070049",
+          "Tên": "Ghế xếp Coleman 2000034677 (4706)",
+          "Số lượng tồn": 27
+        },
+        {
+          "Mã": "4070052",
+          "Tên": "Ghế xếp đôi Coleman 2000022003 - Hồng (0307)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070053",
+          "Tên": "Ghế xếp Coleman 2219642 (ngã lưng) (6520)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4070054",
+          "Tên": "Ghế xếp Coleman 2221376      (7749)",
+          "Số lượng tồn": 58
+        },
+        {
+          "Mã": "4070055",
+          "Tên": "Ghế xếp Coleman Healing 2027053 - 530 x 630 x 410 (4472)",
+          "Số lượng tồn": 24
+        },
+        {
+          "Mã": "4070056",
+          "Tên": "Ghế xếp Coleman 2205815 - 630x560x410 (4304)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4070057",
+          "Tên": "Ghế xếp Coleman 2206793 - 600x700x410 (4496)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4070058",
+          "Tên": "Ghế xếp tay gỗ - Infinity chair max - 2185864 - 65x85x165 cm (Mẫu 13.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070062",
+          "Tên": "Ghế xếp Coleman 2000031296 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070063",
+          "Tên": "Ghế xếp Coleman 2205814 - 610x800x410    (4564)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4070064",
+          "Tên": "Khay đựng ly - sử dụng chung ghế tay tựa - Cup Holder 2185866 - (Mẫu 02.10.22)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070065",
+          "Tên": "Ghế xếp tay gỗ Coleman 2000038509 (5418)    (Mẫu)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070066",
+          "Tên": "Ghế xếp có tay tựa Coleman 2000038847 (8044)",
+          "Số lượng tồn": 18
+        },
+        {
+          "Mã": "4070067",
+          "Tên": "Ghế xếp có tay tựa Coleman 2000038846 (8037)",
+          "Số lượng tồn": 18
+        },
+        {
+          "Mã": "4070069",
+          "Tên": "Ghế xếp có tay tựa Coleman 2000033561 - Xám        (5231)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070070",
+          "Tên": "Ghế xếp có tay tựa Coleman 200003278 (51180B) (8712)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4070071",
+          "Tên": "Ghế xếp có tay tựa Coleman 2000019119 - Đỏ (6174)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4070072",
+          "Tên": "Ghế xếp có tay tựa Coleman 2000019120 - Xám (6181)",
+          "Số lượng tồn": -5
+        },
+        {
+          "Mã": "4070073",
+          "Tên": "Ghế xếp tay tựa đệm lưng Coleman 2000019204-Xanh ngọc (5976)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070074",
+          "Tên": "Ghế xếp tay tựa đệm lưng Coleman 2000019207-Xanh lá (5990)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4070078",
+          "Tên": "Ghế xếp Coleman 2000025460 - 1378090  (2304)",
+          "Số lượng tồn": 181
+        },
+        {
+          "Mã": "4070079",
+          "Tên": "Ghế xếp Coleman 2000037432    (4572)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4070082",
+          "Tên": "Ghế xếp Coleman 2000033559   (5217)",
+          "Số lượng tồn": 16
+        },
+        {
+          "Mã": "4070083",
+          "Tên": "Ghế xếp có tay tựa Coleman 2000033560                (5224)",
+          "Số lượng tồn": 64
+        },
+        {
+          "Mã": "4070084",
+          "Tên": "Ghế xếp Coleman 2000037447   (4565)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4070085",
+          "Tên": "Ghế nằm xếp Coleman 2000019116 - Xám (6143)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4070087",
+          "Tên": "Ghế nằm xếp Coleman 2000003077 - Xám (1131)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4070092",
+          "Tên": "Ghế nằm nệm Comfortsmart Coleman 2000009891 (2029)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070096",
+          "Tên": "Ghế xếp Coleman 2219641 (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070100",
+          "Tên": "Ghế dài 5 người Coleman 2000011882 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070101",
+          "Tên": "Ghế Sofa bơm hơi - Air Couch Double (Greige) -  2185884 - 160x90x88 (cm)    (Mẫu 03.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070102",
+          "Tên": "Ghế Sofa bơm hơi - Air couch (Greige) - 2185883 - 104x90x88 (cm)  (Mẫu 03.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070105",
+          "Tên": "Giường xếp ConvertaTM Suspension Cot (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070106",
+          "Tên": "Giường xếp Coleman 2000031295 - Xanh (9072)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4070108",
+          "Tên": "Giường xếp Colemn 2000038873 (8204)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4070109",
+          "Tên": "Ghế  xếp Coleman 2219645 (lưng ngã)     (6551)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4070110",
+          "Tên": "Ghế  Healing Chair NX - HB Coleman - Nhung Red, Green, Blue, Gray - (Mẫu 03.06.24)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4070111",
+          "Tên": "Ghế  xếp Coleman 2219646 (lưng ngã)     (6568)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4070112",
+          "Tên": "Ghế xếp Coleman 2221375    (7756)",
+          "Số lượng tồn": 59
+        },
+        {
+          "Mã": "4070113",
+          "Tên": "Ghế xếp Coleman 2219643  (ngã lưng)  (6537)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4070114",
+          "Tên": "Ghế xếp Compact Cushion Coleman 200038836  (39x39x58)cm   (Mẫu 10.24)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070115",
+          "Tên": "Gối bơm hơi Coleman 2000010428 (5549)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4070116",
+          "Tên": "Gối bơm hơi Coleman 8120A010 (9633)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4070120",
+          "Tên": "Hộp đựng đồ Coleman 2000016543 (12234) - Nhỏ (1235)",
+          "Số lượng tồn": 46
+        },
+        {
+          "Mã": "4070121",
+          "Tên": "Hộp đựng đồ Coleman 2000016542 (12233) - Lớn    (1228)",
+          "Số lượng tồn": 21
+        },
+        {
+          "Mã": "4070122",
+          "Tên": "Hộp đựng đồ Coleman 2000014511 - Vừa    (5517)",
+          "Số lượng tồn": 34
+        },
+        {
+          "Mã": "4070130",
+          "Tên": "Hộp dựng nhiên liệu - đầu đốt bếp ga (M)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070131",
+          "Tên": "Hộp dựng nhiên liệu - đầu đốt bếp ga (M)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070132",
+          "Tên": "Hộp dựng nhiên liệu - đầu đốt bếp ga (M)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070145",
+          "Tên": "Keo vá Coleman 2000003730 (5451)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070150",
+          "Tên": "Kéo đa năng Coleman 20015161- 8526 - 836A412T       (3360)",
+          "Số lượng tồn": 34
+        },
+        {
+          "Mã": "4070151",
+          "Tên": "Kéo đa năng Coleman 200025215 (12 in 1) (7077)",
+          "Số lượng tồn": 26
+        },
+        {
+          "Mã": "4070155",
+          "Tên": "Khăn lông Coleman 200009312 (2462)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4070156",
+          "Tên": "Khăn lông Coleman 2000015159(3262) (3483)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4070165",
+          "Tên": "Khui lon bỏ túi Coleman 2000009187 (1011)     (2080)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4070170",
+          "Tên": "Kìềm Coleman 2000016464(7841) (995)        (1399)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4070171",
+          "Tên": "Kìềm đa năng Coleman 2000025214 (15 in 1)       (7060)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4070175",
+          "Tên": "Kẹp gắp cỡ nhỏ Coleman 170 - 9082 (3806)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4070190",
+          "Tên": "La bàn bản đồ Coleman 2000016507(7838)     (3621)",
+          "Số lượng tồn": 29
+        },
+        {
+          "Mã": "4070191",
+          "Tên": "La bàn lensatic Coleman 2000016504(7834)        (4895)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4070192",
+          "Tên": "La bàn đèn Led Coleman 2000016467(9218)     (7603)",
+          "Số lượng tồn": 18
+        },
+        {
+          "Mã": "4070250",
+          "Tên": "Lều cắm trại Coleman Pop Up Shade Rainblock DR 2235793 - 260 x 190 x 110  (mẫu 01.10.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070251",
+          "Tên": "Lều cắm trại Coleman Quick Up Shade Rainblock DR 2235740 - 200 x 150 x 125  (mẫu 01.10.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070252",
+          "Tên": "Lều cắm trại Coleman Family Screen Shade Rainblock DR - 220 x 200 x 160  (mẫu 01.10.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070253",
+          "Tên": "Lều cắm trại Coleman Screen Shade Rainblock DR - 220 x 200 x 160  (mẫu 01.10.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070254",
+          "Tên": "Lều cắm trại Coleman - Roomy Front 2 - 260 x 490 x 170  (mẫu 09.24)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4070255",
+          "Tên": "Lều cắm trại Family Screen Shade Greige Coleman  2218309 - 220 x 200 x 150(Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080002",
+          "Tên": "Lều cắm trại 2 người Go Coleman 2000024598-Xanh dương (1472)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4080003",
+          "Tên": "Lều cắm trại 2 người Go Coleman 2000024599-Xanh lá/xám (1489)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4080004",
+          "Tên": "Lều cắm trại 2 người Sundome Coleman 10932A (5261)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4080009",
+          "Tên": "Lều cắm trại 2 người Coleman 20031736 (1429116) (0828)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4080014",
+          "Tên": "Lều  cắm trại 3 người Coleman IMG_3278.JPG (Mẫu 2018)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080015",
+          "Tên": "Lều cắm trại 3 người Airdome Coleman 2000019183 (6204)",
+          "Số lượng tồn": -3
+        },
+        {
+          "Mã": "4080017",
+          "Tên": "Lều cắm trại 3 người Touring Dome Coleman 2000038142 (4879)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4080020",
+          "Tên": "Lều cắm trại 4 người Go Coleman 10956A (6909)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4080021",
+          "Tên": "Lều cắm trại 4 người Sundome Coleman 10936A (5308)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4080022",
+          "Tên": "Lều cắm trại 4 người Sundome Coleman 20019372 -Xanh la (6327)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4080024",
+          "Tên": "Lều cắm trại  4 người Instant Coleman 2000012184 (6399)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080027",
+          "Tên": "Lều cắm trại 4 người Coleman 200031737   (0835)",
+          "Số lượng tồn": -2
+        },
+        {
+          "Mã": "4080030",
+          "Tên": "Lều cắm trại 4 người X-Cursion Teppee II/325 Coleman 2000038140 (4855)",
+          "Số lượng tồn": 77
+        },
+        {
+          "Mã": "4080032",
+          "Tên": "Lều cắm trại 4-5 người Screen 2-Room House Coleman 2000036438 (2127)",
+          "Số lượng tồn": 19
+        },
+        {
+          "Mã": "4080033",
+          "Tên": "Lều cắm trại 4-5 người Screen 2-Room House Coleman 2000038139 (4848)",
+          "Số lượng tồn": 18
+        },
+        {
+          "Mã": "4080034",
+          "Tên": "Lều cắm trại 5 người Car Side Coleman 38144 (4893)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4080038",
+          "Tên": "Lều cắm trại 5-6 người Wide 2 Room 200036431    (2059)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4080039",
+          "Tên": "Lều cắm trại 5-6 người Touch Wide Dome 2000038138 (4831)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4080040",
+          "Tên": "Lều cắm trại 6 người Instant Coleman 2000010194 (3546)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4080043",
+          "Tên": "Lều cắm trại  6 người  Coleman 2019373 (1358133) (6334)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080044",
+          "Tên": "Lều cắm trại  6 người  Coleman 1342535 (6405)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4080045",
+          "Tên": "Lều cắm trại  6 người  Coleman 2000027425 (4046)",
+          "Số lượng tồn": -2
+        },
+        {
+          "Mã": "4080046",
+          "Tên": "Lều cắm trại  6 người  Coleman 2000037091 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080047",
+          "Tên": "Lều cắm trại  6 người  Coleman 2000037097 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080048",
+          "Tên": "Lều cắm trại 5-6 người - Tough Wide Dome IV/300 Shop - 20033499 (2262) (Mẫu 09.22)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4080049",
+          "Tên": "Lều Instant 8 người Coleman 1342536 - 1271448  (6415)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080050",
+          "Tên": "Lều chữ A Hwod Instant Coleman 1253796 (Thay đồ + đi vệ sinh)   (9498)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4080052",
+          "Tên": "Lều cắm trại 2207151 -  2 phòng mái che vòm  240 x 240 x 150(h)  (2127)",
+          "Số lượng tồn": 11
+        },
+        {
+          "Mã": "4080053",
+          "Tên": "Lều cắm trại 2 phòng (L560 x W340 x H205) (Mẫu 14.11.23)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4080054",
+          "Tên": "Bạt Lều Coleman V/300 Fly Sheet - Size S (Mẫu 31.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080055",
+          "Tên": "Bạt Lều Coleman V/300 Fly Sheet - Dark Room - Size M  (Mẫu 31.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080056",
+          "Tên": "Lều cắm trại Coleman 20033131 (Mẫu 10.18)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080057",
+          "Tên": "Lều cắm trại Coleman 20033136    (Mẫu 10.18)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080058",
+          "Tên": "Lều Coleman 200027985 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080059",
+          "Tên": "Lều Coleman 200027987 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080061",
+          "Tên": "Lều - Bộ vật dụng Coleman 830B400T-200006629 (9431)",
+          "Số lượng tồn": 113
+        },
+        {
+          "Mã": "4080062",
+          "Tên": "Lều cắm trại 4-5 người  Coleman 200039087 - Tough Dome/Air (L450 x W300 x H180)  9089",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4080063",
+          "Tên": "Lều cắm trại 3-4 người  Coleman 200039088 - Tough Dome Air (L405 x W240 x H160)  9096",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4080064",
+          "Tên": "Lều cắm trại 1 người  Coleman 200039089 - Instant Up Dome/S (L210 x W90 x H100)  9102",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4080070",
+          "Tên": "Mái che 3x3 Coleman 2000004415 (2009327) (2510)",
+          "Số lượng tồn": 14
+        },
+        {
+          "Mã": "4080071",
+          "Tên": "Mái che 3x3 Coleman 2007743 - 2001008  (7835)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4080072",
+          "Tên": "Mái che  3x3 Coleman 2000004416 (2497)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4080074",
+          "Tên": "Mái che 3x3 Coleman 2000004410 (2473)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4080075",
+          "Tên": "Mái che Event 14 Coleman  2000001476 (4,2 x 4,2 x 2,3)m (8103)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4080076",
+          "Tên": "Mái che 16x8 Coleman 2000006708 (4412) (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080080",
+          "Tên": "Lều 2-3 người Coleman 2 phòng 2218351 -  (6339)",
+          "Số lượng tồn": 11
+        },
+        {
+          "Mã": "4080081",
+          "Tên": "Lều 4-5 người Coleman 2 phòng 2206748 - 590x320x205   (4397)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4080082",
+          "Tên": "Tấm bạt lều + 2 cây chống  Coleman 2000039093 (420 x 420cm) 9140",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4080085",
+          "Tên": "Khung lều Coleman 2000003467 (Lều 4 người Go-10956A) (8815)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4080086",
+          "Tên": "Khung lều Coleman 10942A   (Từ lều 10942A) (5346)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4080087",
+          "Tên": "Khung lều  2 người Go Coleman 1357771",
+          "Số lượng tồn": 38
+        },
+        {
+          "Mã": "4080088",
+          "Tên": "Khung lều  2 người  Sundome Coleman 1357766",
+          "Số lượng tồn": 17
+        },
+        {
+          "Mã": "4080089",
+          "Tên": "Lều 4-5 người Coleman 2 phòng 2207040 - 640x320x205    (4328)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4080090",
+          "Tên": "Lều Coleman 2206745  - 300x250x175    (4403)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4080091",
+          "Tên": "Lều Coleman 2206747  - 270x270x175    (4366)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4080092",
+          "Tên": "Khung lều  4 người Go Coleman 1357772",
+          "Số lượng tồn": 45
+        },
+        {
+          "Mã": "4080093",
+          "Tên": "Khung lều  4 người  Coleman 1357768",
+          "Số lượng tồn": 33
+        },
+        {
+          "Mã": "4080095",
+          "Tên": "Tường lều 3x3 Coleman 2000006715 (6716)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4080098",
+          "Tên": "Khung nóc lều Sundome 2 người Coleman  1357805",
+          "Số lượng tồn": 28
+        },
+        {
+          "Mã": "4080099",
+          "Tên": "Khung nóc lều Sundome 4 người Coleman 1357807",
+          "Số lượng tồn": 30
+        },
+        {
+          "Mã": "4080104",
+          "Tên": "Bạt lều 6 người Coleman 2000037085 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080105",
+          "Tên": "Bạt lều 6 người Coleman 2000037093 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080106",
+          "Tên": "Bạt lều 6 người  Coleman 2000037099 (Mẫu 10.2020)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080108",
+          "Tên": "Bạt lều Coleman 2000036158     (1892)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4080109",
+          "Tên": "Bạt lều Coleman 2000036156     (1878)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4080110",
+          "Tên": "Mái chèo Coleman 2000004151 (6168)",
+          "Số lượng tồn": 40
+        },
+        {
+          "Mã": "4080111",
+          "Tên": "Mái chèo Coleman 2000004154 (6199)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4080112",
+          "Tên": "Mái chèo Coleman 2000004155 (6182)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4080113",
+          "Tên": "Mái chèo Coleman 2000015252 (4160) (6250)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4080114",
+          "Tên": "Mái chèo Kayak Coleman 2000004153 (6205)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4080115",
+          "Tên": "Mái chèo Kayak Coleman 2000015244 (4156) (6823)",
+          "Số lượng tồn": 11
+        },
+        {
+          "Mã": "4080116",
+          "Tên": "Mái chèo đôi Sevylor Coleman 2000004152 (6175)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4080120",
+          "Tên": "Mền cứu sinh Coleman 2000016485 (7843) (1039)     (2127)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4080125",
+          "Tên": "Móc kẹp chai Coleman 2000013457 - Xanh dương       (2683)",
+          "Số lượng tồn": 29
+        },
+        {
+          "Mã": "4080126",
+          "Tên": "Móc kẹp chai Coleman 2000013458 - Xanh lá      (2690)",
+          "Số lượng tồn": 55
+        },
+        {
+          "Mã": "4080127",
+          "Tên": "Móc kẹp chai Coleman 2000013459 - Hồng       (2706)",
+          "Số lượng tồn": 86
+        },
+        {
+          "Mã": "4080135",
+          "Tên": "Móc khóa treo còi Coleman 2000013463 - Xanh dương    (2744)",
+          "Số lượng tồn": 57
+        },
+        {
+          "Mã": "4080136",
+          "Tên": "Móc khóa treo còi Coleman 2000013464 - Xanh lá      (32751)",
+          "Số lượng tồn": 63
+        },
+        {
+          "Mã": "4080137",
+          "Tên": "Móc khóa treo còi Coleman 2000013465 - Hồng       (2768)",
+          "Số lượng tồn": 79
+        },
+        {
+          "Mã": "4080143",
+          "Tên": "Móc khoá cài Coleman 20014510 - 9305 - 1376488    (2080)",
+          "Số lượng tồn": 173
+        },
+        {
+          "Mã": "4080152",
+          "Tên": "Móc nối lớn Coleman 20000016476 (7851) (0901)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4080160",
+          "Tên": "Móc treo chìa khóa Coleman 2000013460 - Xanh dương (2713)",
+          "Số lượng tồn": 68
+        },
+        {
+          "Mã": "4080161",
+          "Tên": "Móc treo chìa khóa Coleman 2000013461 - Xánh lá (2720)",
+          "Số lượng tồn": 81
+        },
+        {
+          "Mã": "4080162",
+          "Tên": "Móc treo chìa khóa Coleman 2000013462 - Hồng (2737)",
+          "Số lượng tồn": 106
+        },
+        {
+          "Mã": "4080170",
+          "Tên": "Mũ lưới chống côn trùng Coleman 2000014864 (991)     (7292)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4090002",
+          "Tên": "Nệm hơi 1 người Coleman 60340A (5162)",
+          "Số lượng tồn": 470
+        },
+        {
+          "Mã": "4090003",
+          "Tên": "Nệm hơi 1 người Coleman 18347 - 1374629 (5680)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4090004",
+          "Tên": "Nệm hơi 1 người Coleman 2000006878 - Twin Flocked (2793)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4090005",
+          "Tên": "Nệm hơi 1 người Coleman 2000011962 - Cot Size Traveler (6767)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4090007",
+          "Tên": "Nệm hơi 1 người Go Coleman 2000006470 (7562)",
+          "Số lượng tồn": 101
+        },
+        {
+          "Mã": "4090015",
+          "Tên": "Nệm hơi 2 người Coleman 2000002844(10286)-Queen Flocker (1809)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4090016",
+          "Tên": "Nệm hơi 2 người Coleman 60360A - Xanh (5186)",
+          "Số lượng tồn": 92
+        },
+        {
+          "Mã": "4090017",
+          "Tên": "Nệm hơi 2 người Coleman 60500A - Hồng (7425)",
+          "Số lượng tồn": 365
+        },
+        {
+          "Mã": "4090019",
+          "Tên": "Nệm hơi 1 người Coleman 2000010285 - Single High (4559)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4090022",
+          "Tên": "Nệm hơi 2 người Go Coleman 2000006472    (7586)",
+          "Số lượng tồn": 93
+        },
+        {
+          "Mã": "4090023",
+          "Tên": "Nệm hơi 2 người Go Queen Coleman 2000006474    (7593)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4090050",
+          "Tên": "Nệm hơi Aerobed Coleman (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4090051",
+          "Tên": "Nệm hơi Aerobed Platinum Raised Coleman (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4090052",
+          "Tên": "Nệm hơi Coleman 200021934 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100001",
+          "Tên": "Đèn 4 trong 1 Coleman 200006666 (1052)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4100002",
+          "Tên": "Đèn bàn CPX 6V Coleman 2000009456 (2189)",
+          "Số lượng tồn": 40
+        },
+        {
+          "Mã": "4100003",
+          "Tên": "Đèn bàn Ambiance Coleman  205588 - Sử dụng Gas - (5882)",
+          "Số lượng tồn": 32
+        },
+        {
+          "Mã": "4100006",
+          "Tên": "Đèn dây đeo đầu Coleman 20001127 (25915) - sử dung 2 pin CR2032  (8014)",
+          "Số lượng tồn": 16
+        },
+        {
+          "Mã": "4100008",
+          "Tên": "Đèn dây đeo đầu CHT4 Coleman 20000012753 - Xanh/ đen (4329)",
+          "Số lượng tồn": 16
+        },
+        {
+          "Mã": "4100010",
+          "Tên": "Đèn dây đeo đầu Coleman 2000013181 (22295) - 1371311 (0596)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100011",
+          "Tên": "Đèn dây đeo đầu Coleman 2000013169 - 1371221 (0565)",
+          "Số lượng tồn": 15
+        },
+        {
+          "Mã": "4100016",
+          "Tên": "Đèn đeo đầu 2AA Coleman 2000022285 - 1371220 (0541)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4100017",
+          "Tên": "Đèn đeo đầu 3 AAA Coleman 2000022286 - 1371309 (0572)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4100018",
+          "Tên": "Đèn đeo đầu 3 AAA Coleman 2000022292 - 1371310 (0589)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4100020",
+          "Tên": "Đèn đeo đầu CHT15 Coleman 2000012262 (4381)",
+          "Số lượng tồn": 46
+        },
+        {
+          "Mã": "4100021",
+          "Tên": "Đèn đeo đầu CHT7 Coleman 2000012260 (4336)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4100025",
+          "Tên": "Đèn đeo đầu 3AAA Coleman 2000002659 (0246)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4100028",
+          "Tên": "Đèn đeo đầu  Coleman 20000027312 (1036)",
+          "Số lượng tồn": 16
+        },
+        {
+          "Mã": "4100040",
+          "Tên": "Đèn dây Led Coleman 2000001475 (8427)",
+          "Số lượng tồn": 11
+        },
+        {
+          "Mã": "4100045",
+          "Tên": "Đèn lều Coleman 2000012936 (200000032) (8724)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100046",
+          "Tên": "Đèn lều Coleman 2000034607 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100050",
+          "Tên": "Đèn 2 cạnh CPX 6V Coleman 2000008548 (0185)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100051",
+          "Tên": "Đèn 4 cạnh Coleman - 2000001150 (8137)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4100055",
+          "Tên": "Đèn lồng Led  CPX6V Coleman 2000008550 (0208)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4100056",
+          "Tên": "Đèn lồng Led CPX6V Coleman 2000006663       (1021)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4100057",
+          "Tên": "Đèn lồng Led CPX6V Coleman 2000008546     (0147)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4100058",
+          "Tên": "Đèn lồng đôi CPX6V Coleman 2000009457 (2196)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4100060",
+          "Tên": "Đèn lồng dầu hỏa Coleman 300004257 (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100061",
+          "Tên": "Đèn lồng dầu hỏa Coleman 300004258 (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100062",
+          "Tên": "Đèn lồng  kim loại Coleman 200038859 (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100063",
+          "Tên": "Hộp đựng đèn lồng Coleman 20100705 (0378)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100075",
+          "Tên": "Đèn Coleman 2000016986 (9616) (2318)",
+          "Số lượng tồn": 21
+        },
+        {
+          "Mã": "4100076",
+          "Tên": "Đèn Micropacker Coleman 5319-700 (2876)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4100082",
+          "Tên": "Đèn pin  2AAA Coleman 2000022306 (1371312) (0602)",
+          "Số lượng tồn": 22
+        },
+        {
+          "Mã": "4100083",
+          "Tên": "Đèn 2AAA Coleman 2000009515 (2693) (9950)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4100086",
+          "Tên": "Đèn 3AAA Coleman 2000022293 - 1371313 (0619)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4100087",
+          "Tên": "Đèn 3AAA Coleman 2000022294 - 1371314 (0626)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4100088",
+          "Tên": "Đèn 3AAA Coleman 3693 (Không pin)",
+          "Số lượng tồn": 43
+        },
+        {
+          "Mã": "4100090",
+          "Tên": "Đèn 4AA Coleman 2000022290 - 1371315     (0633)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4100092",
+          "Tên": "Đèn 6AA Coleman 2000022291 - 1371316 (0640)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4100095",
+          "Tên": "Đèn 2D Coleman 20000003681 (9691)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4100096",
+          "Tên": "Đèn 2D High Power Coleman 2000000354 (6782)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4100107",
+          "Tên": "Đèn Glowstick Coleman 2000015221 (6163)",
+          "Số lượng tồn": 22
+        },
+        {
+          "Mã": "4100110",
+          "Tên": "Đèn CPX6V Coleman 2000008544 (0178)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4100111",
+          "Tên": "Đèn rọi CPX6V Coleman 2000006664     (1038)",
+          "Số lượng tồn": 26
+        },
+        {
+          "Mã": "4100113",
+          "Tên": "Đèn pin xách tay 20027298 (1408086) (0893)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4100114",
+          "Tên": "Đèn pin xách tay 200027296 (1408079) (0879)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4100118",
+          "Tên": "Đèn Măng Xông Powerhouse Coleman 30000000946 (2083)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4100120",
+          "Tên": "Đèn pin xách tay 200025912 (0917)",
+          "Số lượng tồn": 14
+        },
+        {
+          "Mã": "4100121",
+          "Tên": "Đèn pin xách tay 200038854 (8082)",
+          "Số lượng tồn": 36
+        },
+        {
+          "Mã": "4100122",
+          "Tên": "Đèn Măng Xông Christmas Santa Coleman 2215933 - Đỏ - (5899)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4100123",
+          "Tên": "Đèn Măng Xông Coleman 203536 (5365)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4100124",
+          "Tên": "Đèn Măng Xông Christmas Santa Coleman 2215932 - Xanh -  (5909)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100125",
+          "Tên": "Đèn dùng cho TGN Coleman 2000006665 (1045)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4100127",
+          "Tên": "Đèn xách tay 600 - 200038859 (Mẫu 01.01.23)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100138",
+          "Tên": "Đèn  Coleman 200031280 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4100145",
+          "Tên": "Đèn Gương Millenium Lantern 6D Coleman 000022276 (0442)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4100150",
+          "Tên": "Ống Nhòm Coleman 2000016458 (0840)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4110006",
+          "Tên": "Áo phao Hybrid Coleman 2000013781 (7528)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4110007",
+          "Tên": "Áo phao 200023528 (1403784) (7196)",
+          "Số lượng tồn": 24
+        },
+        {
+          "Mã": "4110008",
+          "Tên": "Áo phao 200023531 (1403785) (6687) (7202)",
+          "Số lượng tồn": 61
+        },
+        {
+          "Mã": "4110010",
+          "Tên": "Áo  phao cứu sinh 200024484 (1371844) (6670)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4110011",
+          "Tên": "Áo phao cứu sinh 2000013984 - XL - Xanh (6187)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4110012",
+          "Tên": "Áo phao cứu sinh 200023535 (1404829) (7226)",
+          "Số lượng tồn": 35
+        },
+        {
+          "Mã": "4110013",
+          "Tên": "Áo phao cứu sinh 200024485 (1371845) (6687)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4110014",
+          "Tên": "Áo phao cứu sinh 20023534 (1403786) (7219)",
+          "Số lượng tồn": 29
+        },
+        {
+          "Mã": "4110023",
+          "Tên": "Ao phao Coleman 200023537 (1404831) - Hồng - trẻ em (7240)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4110024",
+          "Tên": "Ao phao Coleman 200023536 (17233)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4110029",
+          "Tên": "Phao đeo tay Coleman 20000012735 (4325) - Xanh dương",
+          "Số lượng tồn": 85
+        },
+        {
+          "Mã": "4110030",
+          "Tên": "Phao đeo tay Coleman 2000001298 (9739) (3919) - Xanh lá (4096)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4110032",
+          "Tên": "Phao đeo tay Coleman 2000001300 (9740) (3920) - Cam (4102)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4110033",
+          "Tên": "Phao đeo tay Deluxe Coleman 20012541(6931)- Hồng (4140)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4110035",
+          "Tên": "Phao đeo tay Deluxe Coleman 20012545(6933) -Tím (Hươu) (4157)",
+          "Số lượng tồn": -2
+        },
+        {
+          "Mã": "4110036",
+          "Tên": "Phao đeo tay Deluxe 3D Coleman 2000009715 - Xanh dương (3675)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4110038",
+          "Tên": "Phao đeo tay Deluxe 3D Coleman 20017981 (3759)- Xanh Biển (8583)",
+          "Số lượng tồn": 14
+        },
+        {
+          "Mã": "4110039",
+          "Tên": "Phao đeo tay Deluxe Coleman 2000012546 - Xanh Lá (Két) (4133)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4110044",
+          "Tên": "Phao đeo tay Deluxe Coleman 20019602  - Hồng (Cá Heo) (3860)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4110045",
+          "Tên": "Phao đeo tay Deluxe Coleman 20019604  - Xanh la (Rùa) (3877)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4110046",
+          "Tên": "Phao đeo tay Deluxe Coleman 2000019607 - 1367547 (3907)",
+          "Số lượng tồn": 91
+        },
+        {
+          "Mã": "4110047",
+          "Tên": "Phao đeo tay Coleman 20029171 (1406075)  (9633)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4110048",
+          "Tên": "Phao đeo tay Coleman 200029172 (9640)",
+          "Số lượng tồn": 15
+        },
+        {
+          "Mã": "4110049",
+          "Tên": "Phao đeo tay Coleman 30003545 (1374219) (3785)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4110050",
+          "Tên": "Phao đeo tay Coleman 30003546 (1374220) (3792)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4110051",
+          "Tên": "Phao đeo tay Coleman 30003544 (1374198) (3778)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4110052",
+          "Tên": "Phao đeo tay Coleman 20021240 (1367544) (4997)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4110053",
+          "Tên": "Phao đeo tay Coleman 20024619 (1368701) (6823)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4110054",
+          "Tên": "Phao đeo tay Coleman 20019612 (1404838) (3952)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4110056",
+          "Tên": "Phao đeo tay Coleman 200019611 (1404849) (3945)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4110057",
+          "Tên": "Phao đeo tay Coleman 200015882 (1367545) (8071)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4110070",
+          "Tên": "Đèn Coleman 2000012261 (4367)",
+          "Số lượng tồn": 47
+        },
+        {
+          "Mã": "4110080",
+          "Tên": "Phao Coleman 200007122 - Xanh Lá (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4120001",
+          "Tên": "Quạt bàn Coleman 2000016492 (0512)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4120002",
+          "Tên": "Quạt bỏ túi Coleman 2000016472 (9219)    (3506)",
+          "Số lượng tồn": 123
+        },
+        {
+          "Mã": "4120005",
+          "Tên": "Quạt lều Coleman 2000016525(1021) (9240)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4130001",
+          "Tên": "Que nhựa phát sáng Coleman 20015171 (16495) (828A453B)   (3957)",
+          "Số lượng tồn": 323
+        },
+        {
+          "Mã": "4130002",
+          "Tên": "Que nhựa phát sáng Coleman -20003439(15171) (đôi)    (2202)",
+          "Số lượng tồn": 57
+        },
+        {
+          "Mã": "4140001",
+          "Tên": "Rìu Coleman 2000016377 (3368)     (2325)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4150001",
+          "Tên": "Tấm lót ngồi Coleman 2000004525-Xanh dương (1391)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4150002",
+          "Tên": "Tấm lót ngồi Coleman 2000003099-Đen (1292)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4150005",
+          "Tên": "Tấm lót ngồi Coleman 2000010657 - Xanh  (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4150011",
+          "Tên": "Tấm lót nền của lều - 4400 x 3400 cm  (Mẫu 23.11.23)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4150018",
+          "Tên": "Tấm trải Coleman - trắng, kem - 1000 x 1500  (Mẫu 23.11.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4150019",
+          "Tên": "Tấm trải Coleman - Sọc xanh đen trắng- 1000 x 1500  (Mẫu 23.11.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4150020",
+          "Tên": "Tấm trải du lịch Coleman 2000010663 - Xanh lá (6683)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4150022",
+          "Tên": "Tấm trải Coleman 20030420  (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4150026",
+          "Tên": "Tấm trải du lịch Coleman 2000026874 - Màu đào (4428)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4150027",
+          "Tên": "Tấm trải du lịch Coleman 2000026875 - Màu bạc hà (4435)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4160001",
+          "Tên": "Thuyền Kayak đơn QuickPak Coleman 2000006972 (6128)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4160002",
+          "Tên": "Thuyền Kayak đơn Coleman 2000006974 (6142)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4160007",
+          "Tên": "Thuyển Kayak đôi Coleman 2000003406 (9818)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4160008",
+          "Tên": "Thuyền Kayak đôi Coleman 20000014125 (3414) (9825)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4160012",
+          "Tên": "Thuyền hơi Colossus 3 người Coleman 2000003390 (9580)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4160015",
+          "Tên": "Thuyền câu 4 người Coleman 2000003409 (9788)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4160016",
+          "Tên": "Thuyền hơi Colossus 4 người Coleman 200014140 (3391) (9597)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4160017",
+          "Tên": "Thuyền hơi Super Caravelle 4 người Coleman 20020569(3398) (9757)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4160119",
+          "Tên": "Thuyền câu 6 người Coleman 2000020579 (3408) (9795)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4160120",
+          "Tên": "Thuyền hơi Super Caravelle 6 người Coleman 20020570 (3397) (9764)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4160130",
+          "Tên": "Miếng Dán Vá Thuyền Coleman 2000003731 (5468)",
+          "Số lượng tồn": 31
+        },
+        {
+          "Mã": "4160132",
+          "Tên": "Đầu nối motor Coleman 2000004146 (6090)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4160133",
+          "Tên": "Bộ phụ tùng thuyền Coleman 2000005517 (4026)",
+          "Số lượng tồn": 25
+        },
+        {
+          "Mã": "4170001",
+          "Tên": "Túi  giữ lạnh Shopping Coleman 61370A-4640003      (5704)",
+          "Số lượng tồn": 47
+        },
+        {
+          "Mã": "4170002",
+          "Tên": "Túi giữ lạnh 2L Coleman 2000014808        (7648)",
+          "Số lượng tồn": 14
+        },
+        {
+          "Mã": "4170005",
+          "Tên": "Túi giữ lạnh 4L Coleman 2000011325 - 1323904      (0420)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4170013",
+          "Tên": "Túi giữ lạnh 5L Coleman 2000024616 - Trắng đục (2715)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4170022",
+          "Tên": "Ba lô giữ lạnh 10L Coleman 2000024610 - Xanh dương (2654)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4170024",
+          "Tên": "Ba lô giữ lạnh Coleman 2000027215 (3817)",
+          "Số lượng tồn": 49
+        },
+        {
+          "Mã": "4170027",
+          "Tên": "Ba lô giữ lạnh 36 lon Coleman 2000030097 (6010)",
+          "Số lượng tồn": 20
+        },
+        {
+          "Mã": "4170028",
+          "Tên": "Ba lô giữ lạnh Coleman 2000030101 (6003)",
+          "Số lượng tồn": 28
+        },
+        {
+          "Mã": "4170040",
+          "Tên": "Túi giữ lạnh Daily 10L Coleman 2000027227 - Xanh (3930)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4170041",
+          "Tên": "Túi giữ lạnh Daily 10L Coleman 2000027229 - Đỏ (3954)",
+          "Số lượng tồn": 4
+        },
+        {
+          "Mã": "4170046",
+          "Tên": "Túi giữ lạnh Daily 15L Coleman 2000011328 - 1356773    (0406)",
+          "Số lượng tồn": 30
+        },
+        {
+          "Mã": "4170047",
+          "Tên": "Túi giữ lạnh Daily 15L Coleman 2000027219 - Xanh (3855)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4170048",
+          "Tên": "Túi giữ lạnh Daily 15L Coleman 2000027221 - Đỏ (3879)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4170060",
+          "Tên": "Túi giữ lạnh Daily 20L Coleman 2000027231 - Xanh (3978)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4170061",
+          "Tên": "Túi giữ lạnh Daily 20L Coleman 2000027233 - Đỏ (3992)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4170070",
+          "Tên": "Túi giữ lạnh 29L Coleman 2000011322 (0383)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4170090",
+          "Tên": "Túi giữ lạnh 6 lon Coleman 61390A (5728)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4170095",
+          "Tên": "Túi giữ lạnh 9 lon Coleman 61400A     (5735)",
+          "Số lượng tồn": 22
+        },
+        {
+          "Mã": "4170096",
+          "Tên": "Túi giữ lạnh 9 lon Coleman 200027818 (1409605) (4450)",
+          "Số lượng tồn": 520
+        },
+        {
+          "Mã": "4170101",
+          "Tên": "Túi giữ lạnh 10 lon Coleman 2000013734 - Đỏ/Xám     (3645)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4170102",
+          "Tên": "Túi giữ lạnh 10 lon Coleman 2000013750-Xanh dương/Đen   (3621)",
+          "Số lượng tồn": 11
+        },
+        {
+          "Mã": "4170103",
+          "Tên": "Túi giữ lạnh 10 lon Coleman 2000013751 - Vàng Chanh    (3614)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4170104",
+          "Tên": "Túi giữ lạnh 10 lon Coleman 2000013731-Xanh Dương     (4253)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4170105",
+          "Tên": "Túi giữ lạnh 10 lon Coleman 2000013732 - Xám     (4260)",
+          "Số lượng tồn": 33
+        },
+        {
+          "Mã": "4170106",
+          "Tên": "Túi giữ lạnh 10 lon Coleman 20000115955 (1354178) - Tím      (4284)",
+          "Số lượng tồn": 59
+        },
+        {
+          "Mã": "4170107",
+          "Tên": "Túi giữ lạnh 10 lon Coleman 200115956 (1354179) - Vàng chanh     (4277)",
+          "Số lượng tồn": 50
+        },
+        {
+          "Mã": "4170120",
+          "Tên": "Túi giữ lạnh 16 lon Coleman 3000001312 - Xám    (4245)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4170121",
+          "Tên": "Túi giữ lạnh 16 lon Coleman 3000001313- Xanh dương   (4238)",
+          "Số lượng tồn": 0
+        },
+        {
+          "Mã": "4170122",
+          "Tên": "Túi giữ lạnh 16 lon Coleman 3000001314 - Xanh Lá (4221)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4170123",
+          "Tên": "Túi giữ lạnh 16 lon Coleman 3000001315 - Đỏ      (4214)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4170126",
+          "Tên": "Túi giữ lạnh 16 lon Coleman 2000013719 - 1354142 (4246)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4170127",
+          "Tên": "Túi giữ lạnh 16 lon Coleman 200027819 - 1409606 (4246)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4170141",
+          "Tên": "Túi giữ lạnh 30 lon Coleman 3000001311(1252)-Đỏ (4252)",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4170142",
+          "Tên": "Túi giữ lạnh 30 lon Coleman 3000001310 (3100) - Xanh lá (4269)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4170143",
+          "Tên": "Túi giữ lạnh 30 lon Coleman 2000004137 (6289)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4170144",
+          "Tên": "Túi giữ lạnh 30 lon Coleman 200027820 (4474)",
+          "Số lượng tồn": 245
+        },
+        {
+          "Mã": "4170155",
+          "Tên": "Túi giữ lạnh 34 cans x 340g Coleman 20033930 - 30 giờ  (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4170156",
+          "Tên": "Túi giữ lạnh 54 cans x 340g  Coleman 20033937 - 32 giờ  (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4170200",
+          "Tên": "Túi giữ lạnh - Lunch Pail Coleman 2000004130 - Đỏ (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4180001",
+          "Tên": "Túi ngủ Coleman 20890A - Travelite  (3731)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4180002",
+          "Tên": "Túi ngủ  Coleman 20910A - Hemisphere (3755)",
+          "Số lượng tồn": 5
+        },
+        {
+          "Mã": "4180003",
+          "Tên": "Túi ngủ Biker  Coleman 2000009574 (9897)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4180005",
+          "Tên": "Túi ngủ C25 Coleman 2000019171 - Xanh lá (6228)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4180006",
+          "Tên": "Túi ngủ C25 Coleman 24080A - Xanh dương (5247)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4180007",
+          "Tên": "Túi ngủ C25 Coleman 24090A - Xanh (Có đầu)        (5254)",
+          "Số lượng tồn": -5
+        },
+        {
+          "Mã": "4180008",
+          "Tên": "Túi ngủ C25 Coleman 64160A - Hồng (Có đầu)      (7289)",
+          "Số lượng tồn": -7
+        },
+        {
+          "Mã": "4180009",
+          "Tên": "Túi ngủ C25 Coleman 2000015228 (Có đầu) (4355)",
+          "Số lượng tồn": -3
+        },
+        {
+          "Mã": "4180010",
+          "Tên": "Túi ngủ C15 Coleman 2000015229 (Có đầu) (4362)",
+          "Số lượng tồn": 13
+        },
+        {
+          "Mã": "4180015",
+          "Tên": "Túi ngủ 2 người Coleman - Kem - 1600 x 2000 (dày 20 cm)  (Mẫu 31.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4180016",
+          "Tên": "Túi ngủ 2 người Coleman - Kem - 1600 x 2000 (dày 40 cm)  (Mẫu 31.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4180020",
+          "Tên": "Túi ngủ Crescent Coleman 2000000103 (2655)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4180021",
+          "Tên": "Túi ngủ Coleman 200000102 - 32x82cm - Taos (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4180022",
+          "Tên": "Túi ngủ Coleman 200004417 - 33x75cm - Trinidad (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4190001",
+          "Tên": "Túi mềm làm lạnh Coleman 3000003561 (749)- 170ml (6333)",
+          "Số lượng tồn": -2
+        },
+        {
+          "Mã": "4190002",
+          "Tên": "Túi mềm làm lạnh Coleman 30000751(3560)  (1445) (6357) - Lớn",
+          "Số lượng tồn": 140
+        },
+        {
+          "Mã": "4190004",
+          "Tên": "Cục nhựa làm lạnh Coleman 1237166 - 150ml (9092)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4190005",
+          "Tên": "Cục nhựa làm lạnh Coleman 1237167 - 350ml      (9115)",
+          "Số lượng tồn": 677
+        },
+        {
+          "Mã": "4190006",
+          "Tên": "Cục nhựa làm lạnh Coleman 1237259 - 6 lon        (9153)",
+          "Số lượng tồn": 1692
+        },
+        {
+          "Mã": "4190008",
+          "Tên": "Cục nhựa làm lạnh Coleman 1237168 - 750ml     (9139)",
+          "Số lượng tồn": 524
+        },
+        {
+          "Mã": "4190009",
+          "Tên": "Cục nhựa làm lạnh Coleman 3000000754 - Lớn (6395)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4190010",
+          "Tên": "Túi nhựa làm lạnh Coleman 30003563 (753) - Nhỏ        (6371)",
+          "Số lượng tồn": 409
+        },
+        {
+          "Mã": "4190011",
+          "Tên": "Túi nhựa Hydration Pack Coleman 2000011164 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4190012",
+          "Tên": "Túi nhựa làm lạnh Coleman 5720M718G- 600ml (9249)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4190014",
+          "Tên": "Túi nhựa làm lạnh Coleman 1303963 - 950ml (4263)",
+          "Số lượng tồn": 51
+        },
+        {
+          "Mã": "4190015",
+          "Tên": "Túi nhựa làm lạnh Coleman 5706M718G- 6 Lon (9348)",
+          "Số lượng tồn": 14
+        },
+        {
+          "Mã": "4190030",
+          "Tên": "Giá phơi đồ II Coleman 2000026811 - Xanh lá (3933)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4190031",
+          "Tên": "Giá phơi đồ II Coleman 2000026813 - Xanh nhạt (3957)",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4190032",
+          "Tên": "Giá phơi đồ II Coleman 2000026812  (3940) - Hồng",
+          "Số lượng tồn": 9
+        },
+        {
+          "Mã": "4190048",
+          "Tên": "Túi xách đèn Măng xông Coleman 2000010388 (5181)",
+          "Số lượng tồn": 16
+        },
+        {
+          "Mã": "4190049",
+          "Tên": "Túi xách đèn Măng xông Coleman 2000010389 (5198)",
+          "Số lượng tồn": 16
+        },
+        {
+          "Mã": "4200042",
+          "Tên": "Bộ áo mưa Coleman 2000015013-Mẫu",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4210001",
+          "Tên": "Túi đeo vai Coleman CBS9011PP - Tím (0787)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4210002",
+          "Tên": "Túi đeo vai Coleman - 2000021405 - Xanh dương (5742)",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4210004",
+          "Tên": "Túi đeo vai Coleman 2000021355 - 1371171 (5254)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4210005",
+          "Tên": "Túi đeo vai Coleman 2000021360 - 1370806 (5308)",
+          "Số lượng tồn": 11
+        },
+        {
+          "Mã": "4210006",
+          "Tên": "Túi đeo vai Coleman 2000034390-Xanh Navy (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4210008",
+          "Tên": "Túi du lịch Coleman 200013005 - Đen (3246)",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4210011",
+          "Tên": "Túi đeo chéo Coleman 2000034348 - Xanh Jean (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4210020",
+          "Tên": "Túi bao tử  Coleman 200034420 - Xanh Navy(Mẫu  07.19)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4210030",
+          "Tên": "Túi đựng đồ Coleman- 60cmx25cm- 2009347 (0680)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4210031",
+          "Tên": "Túi đựng đồ Coleman 15855 (12239) (834A312T)-110cm x 40cm (0703)",
+          "Số lượng tồn": 172
+        },
+        {
+          "Mã": "4210032",
+          "Tên": "Túi đựng đồ Coleman 200012241 (15856) - 110cmx40cm",
+          "Số lượng tồn": 24
+        },
+        {
+          "Mã": "4210037",
+          "Tên": "Bình đựng nước đeo hông Coleman 20016379 (6635)  (6745)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4210038",
+          "Tên": "Túi nhựa đựng nước Coleman Biker bag (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4210041",
+          "Tên": "Túi nhựa Lap top Coleman 2000034338 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4210050",
+          "Tên": "Túi đựng than Coleman 2000017096 - Xanh lá (5943)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4210051",
+          "Tên": "Túi đựng than Coleman 2000016679 (7016) - Cam",
+          "Số lượng tồn": 8
+        },
+        {
+          "Mã": "4210052",
+          "Tên": "Túi đựng than Coleman 2000015603 (7009) - Xanh biển",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4220001",
+          "Tên": "Túi chống thấm Coleman 2000016524 (12216) (1211)",
+          "Số lượng tồn": 121
+        },
+        {
+          "Mã": "4220002",
+          "Tên": "Túi Coolu too box coyole 2185813 (Mẫu 26.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220003",
+          "Tên": "Túi Spice box coyole 2185814 (Mẫu 26.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220004",
+          "Tên": "Túi dive cargo box coyole 2185816 (Mẫu 26.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220005",
+          "Tên": "Cây sào treo đèn pin Coleman 20038935 (8426)",
+          "Số lượng tồn": 12
+        },
+        {
+          "Mã": "4220006",
+          "Tên": "Dây treo Honging chanh Coyote 2185815  (Mẫu 26.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220010",
+          "Tên": "Tấm màn chống muỗi Coleman 2000008495 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220020",
+          "Tên": "Tay kéo thùng giữ nhiệt Coleman 6262 - 4141 (3944)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4220021",
+          "Tên": "Tay xách thùng giữ nhiệt Coleman R5286B120G (5537)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4220030",
+          "Tên": "Chân võng Coleman (5732)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220040",
+          "Tên": "Van xả nước thùng Coleman 30002013 (45.4L - 95L) (0132)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4220041",
+          "Tên": "Vòi nhựa thùng giữ lạnh Coleman - 7.5L-5010000101 (0170)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220046",
+          "Tên": "Ví điện thoại Coleman 20032940 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220047",
+          "Tên": "Ví điện thoại Coleman 20034404 (Mẫu)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220048",
+          "Tên": "Xe kéo Coleman - 2000037466     (4732)",
+          "Số lượng tồn": 10
+        },
+        {
+          "Mã": "4220049",
+          "Tên": "Xe kéo Coleman - 2000021989 (0147)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220050",
+          "Tên": "Xẻng gập Coleman 2000014878 (3458) (2318)",
+          "Số lượng tồn": 6
+        },
+        {
+          "Mã": "4220051",
+          "Tên": "Xẻng gập Coleman 2000025200 (6933)",
+          "Số lượng tồn": 22
+        },
+        {
+          "Mã": "4220052",
+          "Tên": "Xe kéo  Coleman  - đen ( Mẫu 11.23)",
+          "Số lượng tồn": 2
+        },
+        {
+          "Mã": "4220055",
+          "Tên": "Xe đẩy Coleman  2000034678 (4713)",
+          "Số lượng tồn": 20
+        },
+        {
+          "Mã": "4220057",
+          "Tên": "Xe đẩy Coleman Outdoor Wagon Max 2185865 - 109x69x96 cm (Mẫu 13.10.22)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220060",
+          "Tên": "Xiên nướng Coleman 20000016389 (1801) (1219309) - 76cm (1953)",
+          "Số lượng tồn": 29
+        },
+        {
+          "Mã": "4220063",
+          "Tên": "Khuôn nướng sandwich Coleman 1709435",
+          "Số lượng tồn": -1
+        },
+        {
+          "Mã": "4220065",
+          "Tên": "Bản lề thùng giữ nhiệt Coleman R5226A280G (0118)",
+          "Số lượng tồn": 7
+        },
+        {
+          "Mã": "4220073",
+          "Tên": "Cup đo định lượng Coleman 200026799 - nhôm  (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220076",
+          "Tên": "Máy xông hơi Coleman 200026791 (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220077",
+          "Tên": "Nồi nấu Coleman 200038934 (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220078",
+          "Tên": "Nồi nấu Coleman 200037304 (4343)  (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220079",
+          "Tên": "Nồi nấu Coleman 200026764 (Mẫu 07.25)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220080",
+          "Tên": "Bộ bánh xe thùng giữ nhiệt Coleman 6240 - 5501",
+          "Số lượng tồn": 3
+        },
+        {
+          "Mã": "4220085",
+          "Tên": "Túi lưới đụng đồ Coleman 14 x 32 - đen - (Mẫu 09.24)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": "4220086",
+          "Tên": "Túi lưới đụng đồ Coleman 17 x 35 - đen -  (Mẫu 09.24)",
+          "Số lượng tồn": 1
+        },
+        {
+          "Mã": null,
+          "Tên": "Tổng",
+          "Số lượng tồn": null
+        }
+      ],
+      "total_products": 722,
+      "columns": [
+        "Mã",
+        "Tên",
+        "Số lượng tồn"
+      ]
+    },
+    {
+      "sheet_name": "ADIDAS",
+      "products": [
+        {
+          "Mã": 1,
+          "PRODUCTS": "ADIDAS_Hộp chống trộm nước hoa 92x50x173 (mm)",
+          "LOT": null,
+          "TỒN ĐẦU KỲ": 6,
+          "CLOSING STOCK/": 6
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "ADIDAS_Kệ trưng bày 60x140x35(cm)",
+          "LOT": null,
+          "TỒN ĐẦU KỲ": 4,
+          "CLOSING STOCK/": 4
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Lăn khử mùi nam Adidas - Ice Dive - 40ml (6358)",
+          "LOT": "2401",
+          "TỒN ĐẦU KỲ": 371,
+          "CLOSING STOCK/": 371
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Lăn khử mùi nam Adidas - Dynamic Pulse -  40ml (6259)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 198,
+          "CLOSING STOCK/": 198
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Lăn khử mùi nam Adidas - Dynamic Pulse -  40ml (6259)",
+          "LOT": "2304",
+          "TỒN ĐẦU KỲ": 94,
+          "CLOSING STOCK/": 94
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Lăn khử mùi nam Adidas - Dynamic Pulse -  40ml (6259)",
+          "LOT": "2306",
+          "TỒN ĐẦU KỲ": 485,
+          "CLOSING STOCK/": 485
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Lăn khử mùi nam Adidas - 6 in 1- 40ml (4162)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 244,
+          "CLOSING STOCK/": 244
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Lăn khử mùi nam Adidas - 6 in 1- 40ml (4162)",
+          "LOT": "2207",
+          "TỒN ĐẦU KỲ": 216,
+          "CLOSING STOCK/": 216
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Lăn khử mùi nam Adidas - Climacool - 40ml   (4148)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 61,
+          "CLOSING STOCK/": 61
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Lăn khử mùi nam Adidas - Climacool - 40ml   (4148)",
+          "LOT": "2210",
+          "TỒN ĐẦU KỲ": 20,
+          "CLOSING STOCK/": 20
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - 6 in 1 - Cool & Dry - 150ml (9060)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 414,
+          "CLOSING STOCK/": 414
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - 6 in 1 - Cool & Dry - 150ml (9060)",
+          "LOT": "2210",
+          "TỒN ĐẦU KỲ": 52,
+          "CLOSING STOCK/": 52
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Climacool - 150ml (6656)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 429,
+          "CLOSING STOCK/": 429
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Climacool - 150ml (6656)",
+          "LOT": "2302",
+          "TỒN ĐẦU KỲ": 39,
+          "CLOSING STOCK/": 39
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Dynamic Pulse - 150ml (0094)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 271,
+          "CLOSING STOCK/": 271
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Dynamic Pulse - 150ml (0094)",
+          "LOT": "2411",
+          "TỒN ĐẦU KỲ": 74,
+          "CLOSING STOCK/": 74
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Ice Dive - 150ml (7321)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 6,
+          "CLOSING STOCK/": 6
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Ice Dive - 150ml (7321)",
+          "LOT": "2310",
+          "TỒN ĐẦU KỲ": 3,
+          "CLOSING STOCK/": 3
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Ice Dive - 150ml (7321)",
+          "LOT": "2503",
+          "TỒN ĐẦU KỲ": 37,
+          "CLOSING STOCK/": 37
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Get Ready- 150ml (5699)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 59,
+          "CLOSING STOCK/": 59
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Get Ready- 150ml (5699)",
+          "LOT": "2303",
+          "TỒN ĐẦU KỲ": 8,
+          "CLOSING STOCK/": 8
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Get Ready- 150ml (5699)",
+          "LOT": "2310",
+          "TỒN ĐẦU KỲ": 581,
+          "CLOSING STOCK/": 581
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Team Five - 150ml (0922)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 192,
+          "CLOSING STOCK/": 192
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Pure Game - 150ml (1119)",
+          "LOT": "2210",
+          "TỒN ĐẦU KỲ": 119,
+          "CLOSING STOCK/": 119
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Pure Game - 150ml (1119)",
+          "LOT": "2311",
+          "TỒN ĐẦU KỲ": 7,
+          "CLOSING STOCK/": 7
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Nước hoa nam Adidas - Dynamic Pulse - 100ml (7344)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 20,
+          "CLOSING STOCK/": 20
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Nước hoa nam Adidas - Dynamic Pulse - 100ml (7344)",
+          "LOT": "2307",
+          "TỒN ĐẦU KỲ": 8,
+          "CLOSING STOCK/": 8
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Nước hoa nam Adidas - Dynamic Pulse - 100ml (7344)",
+          "LOT": "2604",
+          "TỒN ĐẦU KỲ": 62,
+          "CLOSING STOCK/": 62
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Nước hoa nam Adidas - Ice Dive - 100ml (7498)",
+          "LOT": "2306",
+          "TỒN ĐẦU KỲ": 1,
+          "CLOSING STOCK/": 1
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Nước hoa nam Adidas - Ice Dive - 100ml (7498)",
+          "LOT": "2608",
+          "TỒN ĐẦU KỲ": 1,
+          "CLOSING STOCK/": 1
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Nước hoa nam Adidas - Pure Game - 100ml (7542)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 8,
+          "CLOSING STOCK/": 8
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Nước hoa nam Adidas - Pure Game - 100ml (7542)",
+          "LOT": "2608",
+          "TỒN ĐẦU KỲ": 12,
+          "CLOSING STOCK/": 12
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Nước hoa nam Adidas - Get Ready - 100ml (3817)",
+          "LOT": "2111",
+          "TỒN ĐẦU KỲ": 3,
+          "CLOSING STOCK/": 3
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Nước hoa nam Adidas - Get Ready - 100ml (3817)",
+          "LOT": "2609",
+          "TỒN ĐẦU KỲ": 2,
+          "CLOSING STOCK/": 2
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Nước hoa nam Adidas - Team Five - 100ml (1035)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 10,
+          "CLOSING STOCK/": 10
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Nước hoa nam Adidas - Team Five - 100ml (1035)",
+          "LOT": "2402",
+          "TỒN ĐẦU KỲ": 17,
+          "CLOSING STOCK/": 17
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Nước hoa nam Adidas - Victory League - 100ml (7641)",
+          "LOT": "2609",
+          "TỒN ĐẦU KỲ": 14,
+          "CLOSING STOCK/": 14
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Dynamic Pulse - 400ml (7185)",
+          "LOT": "2310",
+          "TỒN ĐẦU KỲ": 257,
+          "CLOSING STOCK/": 257
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 400ml (7635)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 27,
+          "CLOSING STOCK/": 27
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 400ml (7635)",
+          "LOT": "2212",
+          "TỒN ĐẦU KỲ": 103,
+          "CLOSING STOCK/": 103
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 400ml (7635)",
+          "LOT": "2302",
+          "TỒN ĐẦU KỲ": 22,
+          "CLOSING STOCK/": 22
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 400ml (7635)",
+          "LOT": "2505",
+          "TỒN ĐẦU KỲ": 13,
+          "CLOSING STOCK/": 13
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas -Pure Game - 400ml (8038)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 25,
+          "CLOSING STOCK/": 25
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas -Pure Game - 400ml (8038)",
+          "LOT": "2210",
+          "TỒN ĐẦU KỲ": 34,
+          "CLOSING STOCK/": 34
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas -Pure Game - 400ml (8038)",
+          "LOT": "2302",
+          "TỒN ĐẦU KỲ": 5,
+          "CLOSING STOCK/": 5
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas -Pure Game - 400ml (8038)",
+          "LOT": "2508",
+          "TỒN ĐẦU KỲ": 1,
+          "CLOSING STOCK/": 1
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 250ml (3902)",
+          "LOT": "2208",
+          "TỒN ĐẦU KỲ": 1,
+          "CLOSING STOCK/": 1
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - After Sport - 250ml (2158)",
+          "LOT": "2305",
+          "TỒN ĐẦU KỲ": 86,
+          "CLOSING STOCK/": 86
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Lăn khử mùi nữ Adidas - Clearly White - 40ml (1228)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 325,
+          "CLOSING STOCK/": 325
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Lăn khử mùi nữ Adidas - Clearly White - 40ml (1228)",
+          "LOT": "2304",
+          "TỒN ĐẦU KỲ": 39,
+          "CLOSING STOCK/": 39
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Lăn khử mùi nữ Adidas - Fresh Vitality - 40ml (1174)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 422,
+          "CLOSING STOCK/": 422
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Lăn khử mùi nữ Adidas - 6 in 1 - 40ml (4155)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 409,
+          "CLOSING STOCK/": 409
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - 6 in 1 - Cool & Care - 150ml (8810)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 459,
+          "CLOSING STOCK/": 459
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - 6 in 1 - Cool & Care - 150ml (8810)",
+          "LOT": "2210",
+          "TỒN ĐẦU KỲ": 7,
+          "CLOSING STOCK/": 7
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - Climacool - 150ml (6564)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 194,
+          "CLOSING STOCK/": 194
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - Climacool - 150ml (6564)",
+          "LOT": "2206",
+          "TỒN ĐẦU KỲ": 17,
+          "CLOSING STOCK/": 17
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - Climacool - 150ml (6564)",
+          "LOT": "2410",
+          "TỒN ĐẦU KỲ": 2,
+          "CLOSING STOCK/": 2
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - Climacool - 150ml (6564)",
+          "LOT": "2503",
+          "TỒN ĐẦU KỲ": 8,
+          "CLOSING STOCK/": 8
+        }
+      ],
+      "total_products": 58,
+      "columns": [
+        "Mã",
+        "PRODUCTS",
+        "LOT",
+        "TỒN ĐẦU KỲ",
+        "CLOSING STOCK/"
+      ]
+    },
+    {
+      "sheet_name": "AZARINE",
+      "products": [
+        {
+          "Mã": 1,
+          "PRODUCTS": "Gel chống nắng Azarine Hydrasoothe Sunscreen - SPF 45 - 50ml (1791)",
+          "LOT": "2703",
+          "TỒN ĐẦU KỲ": 887,
+          "CLOSING STOCK/": 885,
+          "% Còn lại": 42.0,
+          "Ngày hết hạn": "31/03/2027"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Gel chống nắng Azarine Sunscreen HydraMac C - SPF 50 - 40ml  (2194)",
+          "LOT": "2703",
+          "TỒN ĐẦU KỲ": 671,
+          "CLOSING STOCK/": 669,
+          "% Còn lại": 42.0,
+          "Ngày hết hạn": "31/03/2027"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Mẫu thử - Gel chống nắng Azarine Hydrasoothe Sunscreen - SPF 45 - 3g",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 1330,
+          "CLOSING STOCK/": 1330,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Kem dưỡng ấm chống nắng - Azarine Sunscreen Cicamide Barrier - SPF 35 - 40g  (Xanh dương) (2606)",
+          "LOT": "2709",
+          "TỒN ĐẦU KỲ": 618,
+          "CLOSING STOCK/": 618,
+          "% Còn lại": 58.7,
+          "Ngày hết hạn": "30/09/2027"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Kem dưỡng ấm chống nắng - Azarine Sunscreen Calm My Acne  - SPF 35 - 40g (Xanh lá) (2590)",
+          "LOT": "2703",
+          "TỒN ĐẦU KỲ": 229,
+          "CLOSING STOCK/": 229,
+          "% Còn lại": 42.0,
+          "Ngày hết hạn": "31/03/2027"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Kem dưỡng ấm chống nắng - Azarine Sunscreen Calm My Acne  - SPF 35 - 40g (Xanh lá) (2590)",
+          "LOT": "2710",
+          "TỒN ĐẦU KỲ": 504,
+          "CLOSING STOCK/": 504,
+          "% Còn lại": 61.6,
+          "Ngày hết hạn": "31/10/2027"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Gel dưỡng ấm chống nắng toàn thân - Azarine Sunscreen Sweet Treats Baby - SPF 50 - 100ml  (Hồng) (2460)",
+          "LOT": "2709",
+          "TỒN ĐẦU KỲ": 1181,
+          "CLOSING STOCK/": 1171,
+          "% Còn lại": 58.7,
+          "Ngày hết hạn": "30/09/2027"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Gel dưỡng ấm chống nắng  toàn thân  - Azarine Sunscreen Magical LUV - SPF 50 - 100ml  (Tím) (2439)",
+          "LOT": "2710",
+          "TỒN ĐẦU KỲ": 1012,
+          "CLOSING STOCK/": 997,
+          "% Còn lại": 61.6,
+          "Ngày hết hạn": "31/10/2027"
+        }
+      ],
+      "total_products": 8,
+      "columns": [
+        "Mã",
+        "PRODUCTS",
+        "LOT",
+        "% Còn lại",
+        "Ngày hết hạn",
+        "TỒN ĐẦU KỲ",
+        "CLOSING STOCK/"
+      ]
+    },
+    {
+      "sheet_name": "BAKING SODA",
+      "products": [
+        {
+          "Mã": 1,
+          "PRODUCTS": "Bột Tẩy Rửa Đa Năng Baking Soda 226g - Scratchless Cleaning (1309)",
+          "LOT": "2805",
+          "TỒN ĐẦU KỲ": 9707,
+          "CLOSING STOCK/": 4334,
+          "% Còn lại": 81.0,
+          "Ngày hết hạn": "31/05/2028"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Bột Tẩy Rửa Đa Năng Baking Soda 226g - Scratchless Cleaning (1309)",
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 12672,
+          "CLOSING STOCK/": 12672,
+          "% Còn lại": 86.6,
+          "Ngày hết hạn": "31/07/2028"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Bột Đa Năng Baking Soda 500g - Scratchless Cleaning (2987)",
+          "LOT": "2712",
+          "TỒN ĐẦU KỲ": 13320,
+          "CLOSING STOCK/": 8837,
+          "% Còn lại": 67.1,
+          "Ngày hết hạn": "31/12/2027"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Bột Đa Năng Baking Soda 500g - Scratchless Cleaning (2987)",
+          "LOT": "2804",
+          "TỒN ĐẦU KỲ": 8960,
+          "CLOSING STOCK/": 8960,
+          "% Còn lại": 78.2,
+          "Ngày hết hạn": "30/04/2028"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Bột Đa Năng Baking Soda 500g - Scratchless Cleaning (2987)",
+          "LOT": "2603",
+          "TỒN ĐẦU KỲ": 5638,
+          "CLOSING STOCK/": 5425,
+          "% Còn lại": 8.7,
+          "Ngày hết hạn": "31/03/2026"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Bột Đa Năng Baking Soda 2.1kg - Scratchless Cleaning (2970)",
+          "LOT": "2712",
+          "TỒN ĐẦU KỲ": 743,
+          "CLOSING STOCK/": 386,
+          "% Còn lại": 67.1,
+          "Ngày hết hạn": "31/12/2027"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Bột Đa Năng Baking Soda 2.1kg - Scratchless Cleaning (2970)",
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 2160,
+          "CLOSING STOCK/": 2160,
+          "% Còn lại": 86.6,
+          "Ngày hết hạn": "31/07/2028"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 31104,
+          "CLOSING STOCK/": 10487,
+          "% Còn lại": 86.6,
+          "Ngày hết hạn": "31/07/2028"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
+          "LOT": "2805",
+          "TỒN ĐẦU KỲ": 480,
+          "CLOSING STOCK/": 0,
+          "% Còn lại": 81.0,
+          "Ngày hết hạn": "31/05/2028"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
+          "LOT": "2806",
+          "TỒN ĐẦU KỲ": 7464,
+          "CLOSING STOCK/": 0,
+          "% Còn lại": 83.7,
+          "Ngày hết hạn": "30/06/2028"
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
+          "LOT": "2312",
+          "TỒN ĐẦU KỲ": 1896,
+          "CLOSING STOCK/": 1896,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/2023"
+        },
+        {
+          "Mã": 5,
+          "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 101,
+          "CLOSING STOCK/": 101,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Muối Nổi Baking Soda 100g - Fresh Box (5854)",
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 758,
+          "CLOSING STOCK/": 65,
+          "% Còn lại": 86.6,
+          "Ngày hết hạn": "31/07/2028"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Muối Nổi Baking Soda 100g - Fresh Box (5854)",
+          "LOT": "2712",
+          "TỒN ĐẦU KỲ": 1605,
+          "CLOSING STOCK/": 0,
+          "% Còn lại": 67.1,
+          "Ngày hết hạn": "31/12/2027"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Muối Nổi Baking Soda 100g (Mẫu thử)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 3140,
+          "CLOSING STOCK/": 0,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Bột Đa Năng Baking Soda 1,81kg - One Box (1705)",
+          "LOT": "2704",
+          "TỒN ĐẦU KỲ": null,
+          "CLOSING STOCK/": null,
+          "% Còn lại": 44.7,
+          "Ngày hết hạn": "30/04/2027"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
+          "LOT": "2401",
+          "TỒN ĐẦU KỲ": 5008,
+          "CLOSING STOCK/": 5008,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/01/2024"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
+          "LOT": "2312",
+          "TỒN ĐẦU KỲ": 3517,
+          "CLOSING STOCK/": 3517,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/2023"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
+          "LOT": "2402",
+          "TỒN ĐẦU KỲ": 10898,
+          "CLOSING STOCK/": 10898,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "29/02/2024"
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
+          "LOT": "2404",
+          "TỒN ĐẦU KỲ": 58,
+          "CLOSING STOCK/": 58,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "30/04/2024"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6592)",
+          "LOT": "2804",
+          "TỒN ĐẦU KỲ": 1680,
+          "CLOSING STOCK/": 1680,
+          "% Còn lại": 78.2,
+          "Ngày hết hạn": "30/04/2028"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6592)",
+          "LOT": "2712",
+          "TỒN ĐẦU KỲ": 1265,
+          "CLOSING STOCK/": 538,
+          "% Còn lại": 67.1,
+          "Ngày hết hạn": "31/12/2027"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Bột Khử Mùi Tủ Lạnh Baking Soda 396,8g - Fridge-N-Freezer (0204)",
+          "LOT": "2806",
+          "TỒN ĐẦU KỲ": 458,
+          "CLOSING STOCK/": 199,
+          "% Còn lại": 83.7,
+          "Ngày hết hạn": "30/06/2028"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Bột Khử Mùi Tủ Lạnh Baking Soda 396,8g - Fridge-N-Freezer (0204)",
+          "LOT": "2312",
+          "TỒN ĐẦU KỲ": 6372,
+          "CLOSING STOCK/": 6372,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/2023"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Bột Khử Mùi Tủ Lạnh Baking Soda 396,8g - Fridge-N-Freezer (0204)",
+          "LOT": "2308",
+          "TỒN ĐẦU KỲ": 1728,
+          "CLOSING STOCK/": 1728,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/08/2023"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
+          "LOT": "2401",
+          "TỒN ĐẦU KỲ": 495,
+          "CLOSING STOCK/": 495,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/01/2024"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
+          "LOT": "2312",
+          "TỒN ĐẦU KỲ": 489,
+          "CLOSING STOCK/": 489,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/2023"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
+          "LOT": "2402",
+          "TỒN ĐẦU KỲ": 544,
+          "CLOSING STOCK/": 544,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "29/02/2024"
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 7,
+          "CLOSING STOCK/": 7,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 5,
+          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
+          "LOT": "2609",
+          "TỒN ĐẦU KỲ": 240,
+          "CLOSING STOCK/": 211,
+          "% Còn lại": 25.4,
+          "Ngày hết hạn": "30/09/2026"
+        },
+        {
+          "Mã": 6,
+          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
+          "LOT": "2802",
+          "TỒN ĐẦU KỲ": 463,
+          "CLOSING STOCK/": 209,
+          "% Còn lại": 72.6,
+          "Ngày hết hạn": "29/02/2028"
+        }
+      ],
+      "total_products": 31,
+      "columns": [
+        "Mã",
+        "PRODUCTS",
+        "LOT",
+        "% Còn lại",
+        "Ngày hết hạn",
+        "TỒN ĐẦU KỲ",
+        "CLOSING STOCK/"
+      ]
+    },
+    {
+      "sheet_name": "PIN FUJITSU",
+      "products": [
+        {
+          "Mã": 1,
+          "PRODUCTS": "FUJITSU _Áo thun Fujitsu - Màu đỏ (Size: 3XL,XL,L,M)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 74,
+          "CLOSING STOCK/": 74,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "FUJITSU_Dây treo Fujitsu 11 móc",
+          "LOT": null,
+          "TỒN ĐẦU KỲ": 1,
+          "CLOSING STOCK/": 1,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": null,
+          "Ngày hết hạn": null
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "FUJITSU_Dây treo Fujitsu 10 móc (2 hàng)",
+          "LOT": null,
+          "TỒN ĐẦU KỲ": 20,
+          "CLOSING STOCK/": 20,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": null,
+          "Ngày hết hạn": null
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "FUJITSU_Kệ Fujitsu 4 móc",
+          "LOT": null,
+          "TỒN ĐẦU KỲ": 125,
+          "CLOSING STOCK/": 125,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": null,
+          "Ngày hết hạn": null
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Tủ pin Fujitsu (59x50x28cm)",
+          "LOT": null,
+          "TỒN ĐẦU KỲ": 3,
+          "CLOSING STOCK/": 3,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": null,
+          "Ngày hết hạn": null
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR6(2B) FU-W-FI  - AA       (2404)",
+          "LOT": "2909",
+          "TỒN ĐẦU KỲ": null,
+          "CLOSING STOCK/": null,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 125.5,
+          "Ngày hết hạn": "30/09/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR6(4B) FU-W-FI  - AA       (3005)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 1,
+          "CLOSING STOCK/": 1,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR03(2B) FU-W- FI - AAA     (3500)",
+          "LOT": "2909",
+          "TỒN ĐẦU KỲ": 20312,
+          "CLOSING STOCK/": 18921,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 125.5,
+          "Ngày hết hạn": "30/09/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR03(4B) FU-W-FI - AAA    (5504)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 90,
+          "CLOSING STOCK/": 90,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - LR03(4B) FU-W-FI - AAA    (5504)",
+          "LOT": "2904",
+          "TỒN ĐẦU KỲ": 53,
+          "CLOSING STOCK/": 53,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 111.5,
+          "Ngày hết hạn": "30/04/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - 6LF22(1B) - FU - A-G - 9V   (6600)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": null,
+          "CLOSING STOCK/": null,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR6(6B) FU-W-FI  - AA       (9808)",
+          "LOT": "2909",
+          "TỒN ĐẦU KỲ": 291,
+          "CLOSING STOCK/": 291,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 125.5,
+          "Ngày hết hạn": "30/09/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR03(6B) FU-W-FI - AAA    (5807)",
+          "LOT": "2909",
+          "TỒN ĐẦU KỲ": 2400,
+          "CLOSING STOCK/": 2400,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 125.5,
+          "Ngày hết hạn": "30/09/2029"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - LR03(6B) FU-W-FI - AAA    (5807)",
+          "LOT": "2904",
+          "TỒN ĐẦU KỲ": 171,
+          "CLOSING STOCK/": 155,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 111.5,
+          "Ngày hết hạn": "30/04/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR6(8B) FU-W-FI  - AA       (9907)",
+          "LOT": "2609",
+          "TỒN ĐẦU KỲ": 6,
+          "CLOSING STOCK/": 6,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 25.4,
+          "Ngày hết hạn": "30/09/2026"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - LR6(8B) FU-W-FI  - AA       (9907)",
+          "LOT": "2909",
+          "TỒN ĐẦU KỲ": 426,
+          "CLOSING STOCK/": 424,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 125.5,
+          "Ngày hết hạn": "30/09/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
+          "LOT": "2909",
+          "TỒN ĐẦU KỲ": 800,
+          "CLOSING STOCK/": 800,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 125.5,
+          "Ngày hết hạn": "30/09/2029"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
+          "LOT": "2712",
+          "TỒN ĐẦU KỲ": 19,
+          "CLOSING STOCK/": 19,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 67.1,
+          "Ngày hết hạn": "31/12/2027"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
+          "LOT": "2904",
+          "TỒN ĐẦU KỲ": 324,
+          "CLOSING STOCK/": 304,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 111.5,
+          "Ngày hết hạn": "30/04/2029"
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
+          "LOT": "2906",
+          "TỒN ĐẦU KỲ": 400,
+          "CLOSING STOCK/": 400,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 117.1,
+          "Ngày hết hạn": "30/06/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR03(4B+2B) FU-W-FI - AAA    (5504)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 24,
+          "CLOSING STOCK/": -564,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu Premium - LR6(2B) FP-W-FI - AA      (2804)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 4,
+          "CLOSING STOCK/": 4,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu Premium - LR6(2B) FP-W-FI - AA      (2804)",
+          "LOT": "3209",
+          "TỒN ĐẦU KỲ": null,
+          "CLOSING STOCK/": null,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 225.6,
+          "Ngày hết hạn": "30/09/2032"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu Premium - LR6(4B) FP-W-FI  - AA       (9703)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 2,
+          "CLOSING STOCK/": 2,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu Premium - LR03(2B) FP-W-FI  - AAA    (0501)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 20,
+          "CLOSING STOCK/": 20,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu Premium - LR03(2B) FP-W-FI  - AAA    (0501)",
+          "LOT": "3209",
+          "TỒN ĐẦU KỲ": 228,
+          "CLOSING STOCK/": 186,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 225.6,
+          "Ngày hết hạn": "30/09/2032"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu Premium - LR03(4B) FP-W-FI  - AAA    (0600)",
+          "LOT": "3209",
+          "TỒN ĐẦU KỲ": 50,
+          "CLOSING STOCK/": 50,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 225.6,
+          "Ngày hết hạn": "30/09/2032"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu Premium - LR03(4B) FP-W-FI  - AAA    (0600)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 15,
+          "CLOSING STOCK/": 15,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R6N/2300(SP4) - 3N(4S)FJ-EUNAB - AA   (1309)",
+          "LOT": "2902",
+          "TỒN ĐẦU KỲ": 22800,
+          "CLOSING STOCK/": 22800,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 95.3,
+          "Ngày hết hạn": "28/02/2029"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R6N/2300(SP4) - 3N(4S)FJ-EUNAB - AA   (1309)",
+          "LOT": "2712",
+          "TỒN ĐẦU KỲ": 215,
+          "CLOSING STOCK/": 200,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 67.1,
+          "Ngày hết hạn": "31/12/2027"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R6N/2300(SP4) - 3N(4S)FJ-EUNAB - AA   (1309)",
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 4612,
+          "CLOSING STOCK/": 4612,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 86.6,
+          "Ngày hết hạn": "31/07/2028"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R03N/2400(SP2) - R03N(2S)FJEUNIC -  AAA   (1408)",
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 52780,
+          "CLOSING STOCK/": 52760,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 86.6,
+          "Ngày hết hạn": "31/07/2028"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R03N/2400(SP2) - R03N(2S)FJEUNIC -  AAA   (1408)",
+          "LOT": "2810",
+          "TỒN ĐẦU KỲ": 0,
+          "CLOSING STOCK/": 0,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 95.0,
+          "Ngày hết hạn": "31/10/2028"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R03N/2400(SP2) - R03N(2S)FJEUNIC -  AAA   (1408)",
+          "LOT": "2902",
+          "TỒN ĐẦU KỲ": 52800,
+          "CLOSING STOCK/": 52800,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 105.9,
+          "Ngày hết hạn": "28/02/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R14N/2200(SP2) - 2N(2S)FJ-EUNAB - C   (1200)",
+          "LOT": "2902",
+          "TỒN ĐẦU KỲ": 720,
+          "CLOSING STOCK/": 720,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 95.3,
+          "Ngày hết hạn": "28/02/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R20N/2100(SP2) - 1N(2S)FJ-EUNAB - D   (1101)",
+          "LOT": "2902",
+          "TỒN ĐẦU KỲ": 2640,
+          "CLOSING STOCK/": 2640,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 95.3,
+          "Ngày hết hạn": "28/02/2029"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R20N/2100(SP2) - 1N(2S)FJ-EUNAB - D   (1101)",
+          "LOT": "2612",
+          "TỒN ĐẦU KỲ": 10,
+          "CLOSING STOCK/": 10,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 33.8,
+          "Ngày hết hạn": "31/12/2026"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
+          "LOT": "2804",
+          "TỒN ĐẦU KỲ": 6400,
+          "CLOSING STOCK/": 2326,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 78.2,
+          "Ngày hết hạn": "30/04/2028"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
+          "LOT": "2710",
+          "TỒN ĐẦU KỲ": 2767,
+          "CLOSING STOCK/": 13,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 61.6,
+          "Ngày hết hạn": "31/10/2027"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 6400,
+          "CLOSING STOCK/": 6400,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 86.6,
+          "Ngày hết hạn": "31/07/2028"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R03/2400(BP4) - R03N(4B)FJEUNIC -  AAA   (3402)",
+          "LOT": "2710",
+          "TỒN ĐẦU KỲ": 30600,
+          "CLOSING STOCK/": 30600,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 61.6,
+          "Ngày hết hạn": "31/10/2027"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R03/2400(BP4) - R03N(4B)FJEUNIC -  AAA   (3402)",
+          "LOT": "2804",
+          "TỒN ĐẦU KỲ": 10200,
+          "CLOSING STOCK/": 10200,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 78.2,
+          "Ngày hết hạn": "30/04/2028"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R03/2400(BP4) - R03N(4B)FJEUNIC -  AAA   (3402)",
+          "LOT": "2709",
+          "TỒN ĐẦU KỲ": 11999,
+          "CLOSING STOCK/": 11177,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 58.7,
+          "Ngày hết hạn": "30/09/2027"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 9,
+          "CLOSING STOCK/": 9,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
+          "LOT": "2804",
+          "TỒN ĐẦU KỲ": 0,
+          "CLOSING STOCK/": 0,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 78.2,
+          "Ngày hết hạn": "30/04/2028"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
+          "LOT": "2810",
+          "TỒN ĐẦU KỲ": 8760,
+          "CLOSING STOCK/": 8760,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 95.0,
+          "Ngày hết hạn": "31/10/2028"
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 5069,
+          "CLOSING STOCK/": 3060,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 86.6,
+          "Ngày hết hạn": "31/07/2028"
+        },
+        {
+          "Mã": 5,
+          "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
+          "LOT": "2902",
+          "TỒN ĐẦU KỲ": 26880,
+          "CLOSING STOCK/": 26880,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 105.9,
+          "Ngày hết hạn": "28/02/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R03(4B) F-GP - AAA     (3112)",
+          "LOT": "2902",
+          "TỒN ĐẦU KỲ": 31332,
+          "CLOSING STOCK/": 24797,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 95.3,
+          "Ngày hết hạn": "28/02/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R14(2B) F-GP - C       (1118)",
+          "LOT": "2710",
+          "TỒN ĐẦU KỲ": 238,
+          "CLOSING STOCK/": 238,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 61.6,
+          "Ngày hết hạn": "31/10/2027"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R14(2B) F-GP - C       (1118)",
+          "LOT": "2612",
+          "TỒN ĐẦU KỲ": 396,
+          "CLOSING STOCK/": 396,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 33.8,
+          "Ngày hết hạn": "31/12/2026"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R14(2B) F-GP - C       (1118)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 12,
+          "CLOSING STOCK/": 12,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R20(2B) F-GP - D      (0111)",
+          "LOT": "2602",
+          "TỒN ĐẦU KỲ": 836,
+          "CLOSING STOCK/": 836,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 5.8,
+          "Ngày hết hạn": "28/02/2026"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R20(2B) F-GP - D      (0111)",
+          "LOT": "2502",
+          "TỒN ĐẦU KỲ": 123,
+          "CLOSING STOCK/": 123,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "28/02/2025"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - 6F22(B) F-GP - 9V     (4119)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 87,
+          "CLOSING STOCK/": 87,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
+          "LOT": "2201",
+          "TỒN ĐẦU KỲ": 2086,
+          "CLOSING STOCK/": 2086,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/01/2022"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
+          "LOT": "2208",
+          "TỒN ĐẦU KỲ": 2904,
+          "CLOSING STOCK/": 2904,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/08/2022"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
+          "LOT": "2612",
+          "TỒN ĐẦU KỲ": 11119,
+          "CLOSING STOCK/": 5519,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 33.8,
+          "Ngày hết hạn": "31/12/2026"
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
+          "LOT": "2906",
+          "TỒN ĐẦU KỲ": 15760,
+          "CLOSING STOCK/": 15760,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 117.1,
+          "Ngày hết hạn": "30/06/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R03(2S) F-GP - AAA      (9169)",
+          "LOT": "2906",
+          "TỒN ĐẦU KỲ": 11819,
+          "CLOSING STOCK/": 11819,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 117.1,
+          "Ngày hết hạn": "30/06/2029"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R03(2S) F-GP - AAA      (9169)",
+          "LOT": "2612",
+          "TỒN ĐẦU KỲ": 18950,
+          "CLOSING STOCK/": 18350,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 33.8,
+          "Ngày hết hạn": "31/12/2026"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R03(2S) F-GP - AAA      (9169)",
+          "LOT": "2604",
+          "TỒN ĐẦU KỲ": 1128,
+          "CLOSING STOCK/": 1128,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 11.4,
+          "Ngày hết hạn": "30/04/2026"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R14(2S) F-GP - C       (7110)",
+          "LOT": "2612",
+          "TỒN ĐẦU KỲ": 2241,
+          "CLOSING STOCK/": 2041,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 33.8,
+          "Ngày hết hạn": "31/12/2026"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R14(2S) F-GP - C       (7110)",
+          "LOT": "2906",
+          "TỒN ĐẦU KỲ": 1000,
+          "CLOSING STOCK/": 1000,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 117.1,
+          "Ngày hết hạn": "30/06/2029"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - R20(2S) F-GP - D         (6113)",
+          "LOT": "2612",
+          "TỒN ĐẦU KỲ": 4893,
+          "CLOSING STOCK/": 4293,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 33.8,
+          "Ngày hết hạn": "31/12/2026"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R20(2S) F-GP - D         (6113)",
+          "LOT": "2406",
+          "TỒN ĐẦU KỲ": 3,
+          "CLOSING STOCK/": 3,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "30/06/2024"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTCEX (2B) - AA - 1900mAh  (6148)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 89,
+          "CLOSING STOCK/": 72,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTCEX(4B) - AA - 1900mAh   (6155)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 62,
+          "CLOSING STOCK/": 62,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTHCEX(4B) - AA- 2550mAh    (6117)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 88,
+          "CLOSING STOCK/": 88,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTHCEX(2B) - AA- 2450mAh    (1665)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 129,
+          "CLOSING STOCK/": 129,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin  Sạc Fujitsu - HR-4UTHCEX(2B) - AAA - 900mAh   (6124)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 58,
+          "CLOSING STOCK/": 40,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin  Sạc Fujitsu - HR-4UTHCEX(4B) - AAA - 900mAh    (6131)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 236,
+          "CLOSING STOCK/": 222,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTLA (4B) - AA - 1000mAh  (6711)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 110,
+          "CLOSING STOCK/": 108,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Máy Sạc Fujitsu - FCT 344CEFX(CL) - 2hr - 4xAA-  2000mAh (1373)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 1,
+          "CLOSING STOCK/": 1,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Máy Sạc Fujitsu - FCT 344CE(CL) - 2hr - 1100/560mAh (1830)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 66,
+          "CLOSING STOCK/": 66,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Máy Sạc Fujitsu - FCT 345CEFXL(B) - 3hr - 2xAA-  1000mAh (1656)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 117,
+          "CLOSING STOCK/": 117,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        },
+        {
+          "Mã": 1,
+          "PRODUCTS": "Máy Sạc Fujitsu - FCT 345FXEST(B) - 6hr - 4xAA-  2000mAh (6582)",
+          "LOT": "0000",
+          "TỒN ĐẦU KỲ": 3,
+          "CLOSING STOCK/": 2,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/1999"
+        }
+      ],
+      "total_products": 77,
+      "columns": [
+        "Mã",
+        "PRODUCTS",
+        "LOT",
+        "Thời hạn (tháng)",
+        "% Còn lại",
+        "Ngày hết hạn",
+        "TỒN ĐẦU KỲ",
+        "CLOSING STOCK/"
+      ]
+    }
+  ]
+}
