@@ -86,16 +86,37 @@ class handler(BaseHTTPRequestHandler):
             
             # Run conversion directly
             try:
-                # Change to parent directory temporarily
-                current_dir = os.getcwd()
+                # Get parent directory and temp directory
                 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+                
+                # On Vercel, we can only write to /tmp
+                # So we'll generate JSON and return it directly
+                output_path = os.path.join(tmp_dir, 'inventory_data.json')
+                
+                # Change to parent directory temporarily (for config file access)
+                current_dir = os.getcwd()
                 os.chdir(parent_dir)
                 
-                # Run conversion with the uploaded file
-                sys.argv = ['convert_to_json.py', file_path]
-                convert_to_json.convert_excel_to_json()
+                # Run conversion with the uploaded file path
+                result_data = convert_to_json.convert_excel_to_json(excel_file=file_path, output_file=output_path)
                 
                 os.chdir(current_dir)
+                
+                # Try to copy to parent directory (will work locally, fail on Vercel)
+                try:
+                    final_output = os.path.join(parent_dir, 'inventory_data.json')
+                    with open(output_path, 'r', encoding='utf-8') as src:
+                        with open(final_output, 'w', encoding='utf-8') as dst:
+                            dst.write(src.read())
+                except:
+                    pass  # Silently fail on Vercel
+                
+                # Read the generated JSON
+                with open(output_path, 'r', encoding='utf-8') as f:
+                    json_data = json.load(f)
+                # Read the generated JSON
+                with open(output_path, 'r', encoding='utf-8') as f:
+                    json_data = json.load(f)
                 
                 self.send_response(200)
                 self.send_header('Content-Type', 'application/json')
@@ -104,7 +125,8 @@ class handler(BaseHTTPRequestHandler):
                 response = json.dumps({
                     'success': True,
                     'message': 'File uploaded and converted successfully',
-                    'filename': new_filename
+                    'filename': new_filename,
+                    'data': json_data
                 })
                 self.wfile.write(response.encode())
             except Exception as e:

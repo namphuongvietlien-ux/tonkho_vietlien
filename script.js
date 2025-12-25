@@ -67,10 +67,23 @@ function setupFileUpload() {
             }
             
             const result = await response.json();
-            alert('✓ Xử lý thành công! Đang tải dữ liệu...');
             
-            // Reload dữ liệu
-            await loadInventoryData();
+            // If data is returned, use it directly (for Vercel deployment)
+            if (result.data) {
+                inventoryData = result.data;
+                allSheets = inventoryData.sheets || [];
+                
+                if (allSheets.length > 0) {
+                    currentSheetIndex = 0;
+                    displayInventoryData();
+                }
+                
+                alert('✓ Xử lý thành công!');
+            } else {
+                // Otherwise reload from file (for local deployment)
+                alert('✓ Xử lý thành công! Đang tải dữ liệu...');
+                await loadInventoryData();
+            }
             
         } catch (error) {
             alert('✗ Lỗi: ' + error.message);
