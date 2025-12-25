@@ -57,7 +57,7 @@ function setupFileUpload() {
             const formData = new FormData();
             formData.append('file', selectedFile);
             
-            const response = await fetch('/upload', {
+            const response = await fetch('/api/upload', {
                 method: 'POST',
                 body: formData
             });
@@ -312,7 +312,7 @@ function displayTableBody() {
 // Lưu thời hạn sử dụng của sản phẩm
 async function saveProductShelfLife(productCode, lotNumber, shelfLifeMonths) {
     try {
-        const response = await fetch('/save_shelf_life', {
+        const response = await fetch('/api/save_shelf_life', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
