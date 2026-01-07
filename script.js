@@ -57,13 +57,19 @@ function setupFileUpload() {
             const formData = new FormData();
             formData.append('file', selectedFile);
             
-            const response = await fetch('/api/upload', {
+            // Tự động detect môi trường: local dùng /upload, Vercel dùng /api/upload
+            const uploadUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
+                ? '/upload' 
+                : '/api/upload';
+            
+            const response = await fetch(uploadUrl, {
                 method: 'POST',
                 body: formData
             });
             
             if (!response.ok) {
-                throw new Error('Upload thất bại');
+                const errorData = await response.json().catch(() => ({}));
+                throw new Error(errorData.message || `Upload thất bại (${response.status})`);
             }
             
             const result = await response.json();
@@ -324,7 +330,12 @@ function displayTableBody() {
 // Lưu thời hạn sử dụng của sản phẩm
 async function saveProductShelfLife(productCode, lotNumber, shelfLifeMonths) {
     try {
-        const response = await fetch('/api/save_shelf_life', {
+        // Tự động detect môi trường
+        const saveUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+            ? '/save_shelf_life'
+            : '/api/save_shelf_life';
+        
+        const response = await fetch(saveUrl, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -337,10 +348,11 @@ async function saveProductShelfLife(productCode, lotNumber, shelfLifeMonths) {
         });
         
         if (!response.ok) {
-            console.error('Không thể lưu thời hạn sử dụng');
+            const errorData = await response.json().catch(() => ({}));
+            console.error('Không thể lưu thời hạn sử dụng:', errorData.message || response.statusText);
         }
     } catch (error) {
-        console.error('Lỗi khi lưu:', error);
+        console.error('Lỗi khi lưu:', error.message);
     }
 }
 
