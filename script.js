@@ -317,7 +317,8 @@ function displayTableBody() {
                 // Lưu thời hạn khi thay đổi
                 select.addEventListener('change', async (e) => {
                     const newShelfLife = parseInt(e.target.value);
-                    const productCode = product['Mã'];
+                    // Hỗ trợ cả "Mã" (COLEMAN) và "Item Code" (các sheet khác)
+                    const productCode = product['Item Code'] || product['Mã'];
                     const lotNumber = product['LOT'] ? String(product['LOT']).trim() : '';
                     
                     // Disable dropdown và hiển thị loading

@@ -176,8 +176,8 @@ def smart_filter_columns(df, headers, sheet_name=None):
     # Sắp xếp các cột theo thứ tự logic và đặt tên đẹp hơn
     renamed_cols = []
     if ma_col:
-        # Đổi tên cột mã cho đẹp
-        if ma_col == 'No.' or ma_col == 'AD':
+        # Đổi tên cột mã cho đẹp - LUÔN dùng "Mã" để thống nhất
+        if ma_col == 'No.' or ma_col == 'AD' or ma_col == 'Item Code':
             renamed_cols.append(('Mã', ma_col))
         else:
             renamed_cols.append((ma_col, ma_col))
