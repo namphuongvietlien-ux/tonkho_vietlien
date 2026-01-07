@@ -2,7 +2,7 @@
   "metadata": {
     "date_ton_kho": "07/01/2026",
     "source_file": "01.Inventory 06.01_1767753081.xlsx",
-    "last_updated": "07/01/2026 10:53:53",
+    "last_updated": "07/01/2026 11:01:17",
     "total_sheets": 5,
     "total_products": 882
   },
@@ -3592,406 +3592,406 @@
       "sheet_name": "ADIDAS",
       "products": [
         {
-          "Mã": 1,
+          "Item Code": "1610196",
           "PRODUCTS": "ADIDAS_Hộp chống trộm nước hoa 92x50x173 (mm)",
           "LOT": null,
           "TỒN ĐẦU KỲ": 6,
           "CLOSING STOCK/": 6
         },
         {
-          "Mã": 1,
+          "Item Code": "1610198",
           "PRODUCTS": "ADIDAS_Kệ trưng bày 60x140x35(cm)",
           "LOT": null,
           "TỒN ĐẦU KỲ": 4,
           "CLOSING STOCK/": 4
         },
         {
-          "Mã": 1,
+          "Item Code": "2210001",
           "PRODUCTS": "Lăn khử mùi nam Adidas - Ice Dive - 40ml (6358)",
           "LOT": "2401",
           "TỒN ĐẦU KỲ": 371,
           "CLOSING STOCK/": 371
         },
         {
-          "Mã": 1,
+          "Item Code": "2210002",
           "PRODUCTS": "Lăn khử mùi nam Adidas - Dynamic Pulse -  40ml (6259)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 198,
           "CLOSING STOCK/": 198
         },
         {
-          "Mã": 2,
+          "Item Code": "2210002",
           "PRODUCTS": "Lăn khử mùi nam Adidas - Dynamic Pulse -  40ml (6259)",
           "LOT": "2304",
           "TỒN ĐẦU KỲ": 94,
           "CLOSING STOCK/": 94
         },
         {
-          "Mã": 3,
+          "Item Code": "2210002",
           "PRODUCTS": "Lăn khử mùi nam Adidas - Dynamic Pulse -  40ml (6259)",
           "LOT": "2306",
           "TỒN ĐẦU KỲ": 485,
           "CLOSING STOCK/": 485
         },
         {
-          "Mã": 1,
+          "Item Code": "2210003",
           "PRODUCTS": "Lăn khử mùi nam Adidas - 6 in 1- 40ml (4162)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 244,
           "CLOSING STOCK/": 244
         },
         {
-          "Mã": 2,
+          "Item Code": "2210003",
           "PRODUCTS": "Lăn khử mùi nam Adidas - 6 in 1- 40ml (4162)",
           "LOT": "2207",
           "TỒN ĐẦU KỲ": 216,
           "CLOSING STOCK/": 216
         },
         {
-          "Mã": 1,
+          "Item Code": "2210004",
           "PRODUCTS": "Lăn khử mùi nam Adidas - Climacool - 40ml   (4148)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 61,
           "CLOSING STOCK/": 61
         },
         {
-          "Mã": 2,
+          "Item Code": "2210004",
           "PRODUCTS": "Lăn khử mùi nam Adidas - Climacool - 40ml   (4148)",
           "LOT": "2210",
           "TỒN ĐẦU KỲ": 20,
           "CLOSING STOCK/": 20
         },
         {
-          "Mã": 1,
+          "Item Code": "2220001",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - 6 in 1 - Cool & Dry - 150ml (9060)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 414,
           "CLOSING STOCK/": 414
         },
         {
-          "Mã": 2,
+          "Item Code": "2220001",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - 6 in 1 - Cool & Dry - 150ml (9060)",
           "LOT": "2210",
           "TỒN ĐẦU KỲ": 52,
           "CLOSING STOCK/": 52
         },
         {
-          "Mã": 1,
+          "Item Code": "2220002",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Climacool - 150ml (6656)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 429,
           "CLOSING STOCK/": 429
         },
         {
-          "Mã": 2,
+          "Item Code": "2220002",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Climacool - 150ml (6656)",
           "LOT": "2302",
           "TỒN ĐẦU KỲ": 39,
           "CLOSING STOCK/": 39
         },
         {
-          "Mã": 1,
+          "Item Code": "2220003",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Dynamic Pulse - 150ml (0094)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 271,
           "CLOSING STOCK/": 271
         },
         {
-          "Mã": 2,
+          "Item Code": "2220003",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Dynamic Pulse - 150ml (0094)",
           "LOT": "2411",
           "TỒN ĐẦU KỲ": 74,
           "CLOSING STOCK/": 74
         },
         {
-          "Mã": 1,
+          "Item Code": "2220004",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Ice Dive - 150ml (7321)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 6,
           "CLOSING STOCK/": 6
         },
         {
-          "Mã": 2,
+          "Item Code": "2220004",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Ice Dive - 150ml (7321)",
           "LOT": "2310",
           "TỒN ĐẦU KỲ": 3,
           "CLOSING STOCK/": 3
         },
         {
-          "Mã": 3,
+          "Item Code": "2220004",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Ice Dive - 150ml (7321)",
           "LOT": "2503",
           "TỒN ĐẦU KỲ": 37,
           "CLOSING STOCK/": 37
         },
         {
-          "Mã": 1,
+          "Item Code": "2220005",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Get Ready- 150ml (5699)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 59,
           "CLOSING STOCK/": 59
         },
         {
-          "Mã": 2,
+          "Item Code": "2220005",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Get Ready- 150ml (5699)",
           "LOT": "2303",
           "TỒN ĐẦU KỲ": 8,
           "CLOSING STOCK/": 8
         },
         {
-          "Mã": 3,
+          "Item Code": "2220005",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Get Ready- 150ml (5699)",
           "LOT": "2310",
           "TỒN ĐẦU KỲ": 581,
           "CLOSING STOCK/": 581
         },
         {
-          "Mã": 1,
+          "Item Code": "2220006",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Team Five - 150ml (0922)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 192,
           "CLOSING STOCK/": 192
         },
         {
-          "Mã": 1,
+          "Item Code": "2220007",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Pure Game - 150ml (1119)",
           "LOT": "2210",
           "TỒN ĐẦU KỲ": 119,
           "CLOSING STOCK/": 119
         },
         {
-          "Mã": 2,
+          "Item Code": "2220007",
           "PRODUCTS": "Xịt khử mùi toàn thân nam Adidas - Pure Game - 150ml (1119)",
           "LOT": "2311",
           "TỒN ĐẦU KỲ": 7,
           "CLOSING STOCK/": 7
         },
         {
-          "Mã": 1,
+          "Item Code": "2230001",
           "PRODUCTS": "Nước hoa nam Adidas - Dynamic Pulse - 100ml (7344)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 20,
           "CLOSING STOCK/": 20
         },
         {
-          "Mã": 2,
+          "Item Code": "2230001",
           "PRODUCTS": "Nước hoa nam Adidas - Dynamic Pulse - 100ml (7344)",
           "LOT": "2307",
           "TỒN ĐẦU KỲ": 8,
           "CLOSING STOCK/": 8
         },
         {
-          "Mã": 3,
+          "Item Code": "2230001",
           "PRODUCTS": "Nước hoa nam Adidas - Dynamic Pulse - 100ml (7344)",
           "LOT": "2604",
           "TỒN ĐẦU KỲ": 62,
           "CLOSING STOCK/": 62
         },
         {
-          "Mã": 1,
+          "Item Code": "2230002",
           "PRODUCTS": "Nước hoa nam Adidas - Ice Dive - 100ml (7498)",
           "LOT": "2306",
           "TỒN ĐẦU KỲ": 1,
           "CLOSING STOCK/": 1
         },
         {
-          "Mã": 2,
+          "Item Code": "2230002",
           "PRODUCTS": "Nước hoa nam Adidas - Ice Dive - 100ml (7498)",
           "LOT": "2608",
           "TỒN ĐẦU KỲ": 1,
           "CLOSING STOCK/": 1
         },
         {
-          "Mã": 1,
+          "Item Code": "2230003",
           "PRODUCTS": "Nước hoa nam Adidas - Pure Game - 100ml (7542)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 8,
           "CLOSING STOCK/": 8
         },
         {
-          "Mã": 2,
+          "Item Code": "2230003",
           "PRODUCTS": "Nước hoa nam Adidas - Pure Game - 100ml (7542)",
           "LOT": "2608",
           "TỒN ĐẦU KỲ": 12,
           "CLOSING STOCK/": 12
         },
         {
-          "Mã": 1,
+          "Item Code": "2230004",
           "PRODUCTS": "Nước hoa nam Adidas - Get Ready - 100ml (3817)",
           "LOT": "2111",
           "TỒN ĐẦU KỲ": 3,
           "CLOSING STOCK/": 3
         },
         {
-          "Mã": 2,
+          "Item Code": "2230004",
           "PRODUCTS": "Nước hoa nam Adidas - Get Ready - 100ml (3817)",
           "LOT": "2609",
           "TỒN ĐẦU KỲ": 2,
           "CLOSING STOCK/": 2
         },
         {
-          "Mã": 1,
+          "Item Code": "2230005",
           "PRODUCTS": "Nước hoa nam Adidas - Team Five - 100ml (1035)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 10,
           "CLOSING STOCK/": 10
         },
         {
-          "Mã": 2,
+          "Item Code": "2230005",
           "PRODUCTS": "Nước hoa nam Adidas - Team Five - 100ml (1035)",
           "LOT": "2402",
           "TỒN ĐẦU KỲ": 17,
           "CLOSING STOCK/": 17
         },
         {
-          "Mã": 1,
+          "Item Code": "2230006",
           "PRODUCTS": "Nước hoa nam Adidas - Victory League - 100ml (7641)",
           "LOT": "2609",
           "TỒN ĐẦU KỲ": 14,
           "CLOSING STOCK/": 14
         },
         {
-          "Mã": 1,
+          "Item Code": "2240001",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Dynamic Pulse - 400ml (7185)",
           "LOT": "2310",
           "TỒN ĐẦU KỲ": 257,
           "CLOSING STOCK/": 257
         },
         {
-          "Mã": 1,
+          "Item Code": "2240002",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 400ml (7635)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 27,
           "CLOSING STOCK/": 27
         },
         {
-          "Mã": 2,
+          "Item Code": "2240002",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 400ml (7635)",
           "LOT": "2212",
           "TỒN ĐẦU KỲ": 103,
           "CLOSING STOCK/": 103
         },
         {
-          "Mã": 3,
+          "Item Code": "2240002",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 400ml (7635)",
           "LOT": "2302",
           "TỒN ĐẦU KỲ": 22,
           "CLOSING STOCK/": 22
         },
         {
-          "Mã": 4,
+          "Item Code": "2240002",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 400ml (7635)",
           "LOT": "2505",
           "TỒN ĐẦU KỲ": 13,
           "CLOSING STOCK/": 13
         },
         {
-          "Mã": 1,
+          "Item Code": "2240003",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas -Pure Game - 400ml (8038)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 25,
           "CLOSING STOCK/": 25
         },
         {
-          "Mã": 2,
+          "Item Code": "2240003",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas -Pure Game - 400ml (8038)",
           "LOT": "2210",
           "TỒN ĐẦU KỲ": 34,
           "CLOSING STOCK/": 34
         },
         {
-          "Mã": 3,
+          "Item Code": "2240003",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas -Pure Game - 400ml (8038)",
           "LOT": "2302",
           "TỒN ĐẦU KỲ": 5,
           "CLOSING STOCK/": 5
         },
         {
-          "Mã": 4,
+          "Item Code": "2240003",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas -Pure Game - 400ml (8038)",
           "LOT": "2508",
           "TỒN ĐẦU KỲ": 1,
           "CLOSING STOCK/": 1
         },
         {
-          "Mã": 1,
+          "Item Code": "2240006",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - Ice Dive - 250ml (3902)",
           "LOT": "2208",
           "TỒN ĐẦU KỲ": 1,
           "CLOSING STOCK/": 1
         },
         {
-          "Mã": 1,
+          "Item Code": "2240007",
           "PRODUCTS": "Sữa tắm gội toàn thân nam Adidas - After Sport - 250ml (2158)",
           "LOT": "2305",
           "TỒN ĐẦU KỲ": 86,
           "CLOSING STOCK/": 86
         },
         {
-          "Mã": 1,
+          "Item Code": "2250001",
           "PRODUCTS": "Lăn khử mùi nữ Adidas - Clearly White - 40ml (1228)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 325,
           "CLOSING STOCK/": 325
         },
         {
-          "Mã": 2,
+          "Item Code": "2250001",
           "PRODUCTS": "Lăn khử mùi nữ Adidas - Clearly White - 40ml (1228)",
           "LOT": "2304",
           "TỒN ĐẦU KỲ": 39,
           "CLOSING STOCK/": 39
         },
         {
-          "Mã": 1,
+          "Item Code": "2250002",
           "PRODUCTS": "Lăn khử mùi nữ Adidas - Fresh Vitality - 40ml (1174)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 422,
           "CLOSING STOCK/": 422
         },
         {
-          "Mã": 1,
+          "Item Code": "2250003",
           "PRODUCTS": "Lăn khử mùi nữ Adidas - 6 in 1 - 40ml (4155)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 409,
           "CLOSING STOCK/": 409
         },
         {
-          "Mã": 1,
+          "Item Code": "2260001",
           "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - 6 in 1 - Cool & Care - 150ml (8810)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 459,
           "CLOSING STOCK/": 459
         },
         {
-          "Mã": 2,
+          "Item Code": "2260001",
           "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - 6 in 1 - Cool & Care - 150ml (8810)",
           "LOT": "2210",
           "TỒN ĐẦU KỲ": 7,
           "CLOSING STOCK/": 7
         },
         {
-          "Mã": 1,
+          "Item Code": "2260002",
           "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - Climacool - 150ml (6564)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 194,
           "CLOSING STOCK/": 194
         },
         {
-          "Mã": 2,
+          "Item Code": "2260002",
           "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - Climacool - 150ml (6564)",
           "LOT": "2206",
           "TỒN ĐẦU KỲ": 17,
           "CLOSING STOCK/": 17
         },
         {
-          "Mã": 3,
+          "Item Code": "2260002",
           "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - Climacool - 150ml (6564)",
           "LOT": "2410",
           "TỒN ĐẦU KỲ": 2,
           "CLOSING STOCK/": 2
         },
         {
-          "Mã": 4,
+          "Item Code": "2260002",
           "PRODUCTS": "Xịt khử mùi toàn thân nữ Adidas - Climacool - 150ml (6564)",
           "LOT": "2503",
           "TỒN ĐẦU KỲ": 8,
@@ -4000,7 +4000,7 @@
       ],
       "total_products": 58,
       "columns": [
-        "Mã",
+        "Item Code",
         "PRODUCTS",
         "LOT",
         "TỒN ĐẦU KỲ",
@@ -4011,7 +4011,7 @@
       "sheet_name": "AZARINE",
       "products": [
         {
-          "Mã": 1,
+          "Item Code": "2410001",
           "PRODUCTS": "Gel chống nắng Azarine Hydrasoothe Sunscreen - SPF 45 - 50ml (1791)",
           "LOT": "2703",
           "TỒN ĐẦU KỲ": 879,
@@ -4020,7 +4020,7 @@
           "Ngày hết hạn": "31/03/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "2410002",
           "PRODUCTS": "Gel chống nắng Azarine Sunscreen HydraMac C - SPF 50 - 40ml  (2194)",
           "LOT": "2703",
           "TỒN ĐẦU KỲ": 669,
@@ -4029,7 +4029,7 @@
           "Ngày hết hạn": "31/03/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "2410003",
           "PRODUCTS": "Mẫu thử - Gel chống nắng Azarine Hydrasoothe Sunscreen - SPF 45 - 3g",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 1330,
@@ -4038,7 +4038,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "2420001",
           "PRODUCTS": "Kem dưỡng ấm chống nắng - Azarine Sunscreen Cicamide Barrier - SPF 35 - 40g  (Xanh dương) (2606)",
           "LOT": "2709",
           "TỒN ĐẦU KỲ": 612,
@@ -4047,7 +4047,7 @@
           "Ngày hết hạn": "30/09/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "2420002",
           "PRODUCTS": "Kem dưỡng ấm chống nắng - Azarine Sunscreen Calm My Acne  - SPF 35 - 40g (Xanh lá) (2590)",
           "LOT": "2703",
           "TỒN ĐẦU KỲ": 221,
@@ -4056,7 +4056,7 @@
           "Ngày hết hạn": "31/03/2027"
         },
         {
-          "Mã": 2,
+          "Item Code": "2420002",
           "PRODUCTS": "Kem dưỡng ấm chống nắng - Azarine Sunscreen Calm My Acne  - SPF 35 - 40g (Xanh lá) (2590)",
           "LOT": "2710",
           "TỒN ĐẦU KỲ": 504,
@@ -4065,7 +4065,7 @@
           "Ngày hết hạn": "31/10/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "2430001",
           "PRODUCTS": "Gel dưỡng ấm chống nắng toàn thân - Azarine Sunscreen Sweet Treats Baby - SPF 50 - 100ml  (Hồng) (2460)",
           "LOT": "2709",
           "TỒN ĐẦU KỲ": 1159,
@@ -4074,7 +4074,7 @@
           "Ngày hết hạn": "30/09/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "2430002",
           "PRODUCTS": "Gel dưỡng ấm chống nắng  toàn thân  - Azarine Sunscreen Magical LUV - SPF 50 - 100ml  (Tím) (2439)",
           "LOT": "2710",
           "TỒN ĐẦU KỲ": 980,
@@ -4085,7 +4085,7 @@
       ],
       "total_products": 8,
       "columns": [
-        "Mã",
+        "Item Code",
         "PRODUCTS",
         "LOT",
         "% Còn lại",
@@ -4098,7 +4098,7 @@
       "sheet_name": "BAKING SODA",
       "products": [
         {
-          "Mã": 1,
+          "Item Code": "2310002",
           "PRODUCTS": "Bột Tẩy Rửa Đa Năng Baking Soda 226g - Scratchless Cleaning (1309)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 12672,
@@ -4107,7 +4107,7 @@
           "Ngày hết hạn": "31/07/2028"
         },
         {
-          "Mã": 2,
+          "Item Code": "2310002",
           "PRODUCTS": "Bột Tẩy Rửa Đa Năng Baking Soda 226g - Scratchless Cleaning (1309)",
           "LOT": "2805",
           "TỒN ĐẦU KỲ": 1884,
@@ -4116,7 +4116,7 @@
           "Ngày hết hạn": "31/05/2028"
         },
         {
-          "Mã": 1,
+          "Item Code": "2310004",
           "PRODUCTS": "Bột Đa Năng Baking Soda 500g - Scratchless Cleaning (2987)",
           "LOT": "2712",
           "TỒN ĐẦU KỲ": 7191,
@@ -4125,7 +4125,7 @@
           "Ngày hết hạn": "31/12/2027"
         },
         {
-          "Mã": 2,
+          "Item Code": "2310004",
           "PRODUCTS": "Bột Đa Năng Baking Soda 500g - Scratchless Cleaning (2987)",
           "LOT": "2804",
           "TỒN ĐẦU KỲ": 8960,
@@ -4134,7 +4134,7 @@
           "Ngày hết hạn": "30/04/2028"
         },
         {
-          "Mã": 3,
+          "Item Code": "2310004",
           "PRODUCTS": "Bột Đa Năng Baking Soda 500g - Scratchless Cleaning (2987)",
           "LOT": "2603",
           "TỒN ĐẦU KỲ": 5325,
@@ -4143,7 +4143,7 @@
           "Ngày hết hạn": "31/03/2026"
         },
         {
-          "Mã": 1,
+          "Item Code": "2310008",
           "PRODUCTS": "Bột Đa Năng Baking Soda 2.1kg - Scratchless Cleaning (2970)",
           "LOT": "2712",
           "TỒN ĐẦU KỲ": 222,
@@ -4152,7 +4152,7 @@
           "Ngày hết hạn": "31/12/2027"
         },
         {
-          "Mã": 2,
+          "Item Code": "2310008",
           "PRODUCTS": "Bột Đa Năng Baking Soda 2.1kg - Scratchless Cleaning (2970)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 2160,
@@ -4161,7 +4161,7 @@
           "Ngày hết hạn": "31/07/2028"
         },
         {
-          "Mã": 1,
+          "Item Code": "2320001",
           "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 5102,
@@ -4170,7 +4170,7 @@
           "Ngày hết hạn": "31/07/2028"
         },
         {
-          "Mã": 2,
+          "Item Code": "2320001",
           "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
           "LOT": "2312",
           "TỒN ĐẦU KỲ": 1896,
@@ -4179,7 +4179,7 @@
           "Ngày hết hạn": "31/12/2023"
         },
         {
-          "Mã": 3,
+          "Item Code": "2320001",
           "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 102,
@@ -4188,7 +4188,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "2320004",
           "PRODUCTS": "Muối Nổi Baking Soda 100g - Fresh Box (5854)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 65,
@@ -4197,7 +4197,7 @@
           "Ngày hết hạn": "31/07/2028"
         },
         {
-          "Mã": 1,
+          "Item Code": "2330001",
           "PRODUCTS": "Bột Đa Năng Baking Soda 1,81kg - One Box (1705)",
           "LOT": "2704",
           "TỒN ĐẦU KỲ": 5,
@@ -4206,7 +4206,7 @@
           "Ngày hết hạn": "30/04/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "2340001",
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
           "LOT": "2402",
           "TỒN ĐẦU KỲ": 10898,
@@ -4215,7 +4215,7 @@
           "Ngày hết hạn": "29/02/2024"
         },
         {
-          "Mã": 2,
+          "Item Code": "2340001",
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
           "LOT": "2404",
           "TỒN ĐẦU KỲ": 58,
@@ -4224,7 +4224,7 @@
           "Ngày hết hạn": "30/04/2024"
         },
         {
-          "Mã": 3,
+          "Item Code": "2340001",
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
           "LOT": "2401",
           "TỒN ĐẦU KỲ": 5008,
@@ -4233,7 +4233,7 @@
           "Ngày hết hạn": "31/01/2024"
         },
         {
-          "Mã": 4,
+          "Item Code": "2340001",
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
           "LOT": "2312",
           "TỒN ĐẦU KỲ": 3517,
@@ -4242,7 +4242,7 @@
           "Ngày hết hạn": "31/12/2023"
         },
         {
-          "Mã": 1,
+          "Item Code": "2340002",
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6592)",
           "LOT": "2804",
           "TỒN ĐẦU KỲ": 1680,
@@ -4251,7 +4251,7 @@
           "Ngày hết hạn": "30/04/2028"
         },
         {
-          "Mã": 2,
+          "Item Code": "2340002",
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6592)",
           "LOT": "2712",
           "TỒN ĐẦU KỲ": 96,
@@ -4260,7 +4260,7 @@
           "Ngày hết hạn": "31/12/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "2350001",
           "PRODUCTS": "Bột Khử Mùi Tủ Lạnh Baking Soda 396,8g - Fridge-N-Freezer (0204)",
           "LOT": "2806",
           "TỒN ĐẦU KỲ": 199,
@@ -4269,7 +4269,7 @@
           "Ngày hết hạn": "30/06/2028"
         },
         {
-          "Mã": 2,
+          "Item Code": "2350001",
           "PRODUCTS": "Bột Khử Mùi Tủ Lạnh Baking Soda 396,8g - Fridge-N-Freezer (0204)",
           "LOT": "2312",
           "TỒN ĐẦU KỲ": 6372,
@@ -4278,7 +4278,7 @@
           "Ngày hết hạn": "31/12/2023"
         },
         {
-          "Mã": 3,
+          "Item Code": "2350001",
           "PRODUCTS": "Bột Khử Mùi Tủ Lạnh Baking Soda 396,8g - Fridge-N-Freezer (0204)",
           "LOT": "2308",
           "TỒN ĐẦU KỲ": 1728,
@@ -4287,7 +4287,7 @@
           "Ngày hết hạn": "31/08/2023"
         },
         {
-          "Mã": 1,
+          "Item Code": "2360001",
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "2402",
           "TỒN ĐẦU KỲ": 544,
@@ -4296,7 +4296,7 @@
           "Ngày hết hạn": "29/02/2024"
         },
         {
-          "Mã": 2,
+          "Item Code": "2360001",
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 7,
@@ -4305,7 +4305,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 3,
+          "Item Code": "2360001",
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "2609",
           "TỒN ĐẦU KỲ": 211,
@@ -4314,7 +4314,7 @@
           "Ngày hết hạn": "30/09/2026"
         },
         {
-          "Mã": 4,
+          "Item Code": "2360001",
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "2401",
           "TỒN ĐẦU KỲ": 495,
@@ -4323,7 +4323,7 @@
           "Ngày hết hạn": "31/01/2024"
         },
         {
-          "Mã": 5,
+          "Item Code": "2360001",
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "2312",
           "TỒN ĐẦU KỲ": 489,
@@ -4332,7 +4332,7 @@
           "Ngày hết hạn": "31/12/2023"
         },
         {
-          "Mã": 6,
+          "Item Code": "2360001",
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "2802",
           "TỒN ĐẦU KỲ": 161,
@@ -4343,7 +4343,7 @@
       ],
       "total_products": 27,
       "columns": [
-        "Mã",
+        "Item Code",
         "PRODUCTS",
         "LOT",
         "% Còn lại",
@@ -4356,7 +4356,7 @@
       "sheet_name": "PIN FUJITSU",
       "products": [
         {
-          "Mã": 1,
+          "Item Code": "1610090",
           "PRODUCTS": "FUJITSU _Áo thun Fujitsu - Màu đỏ (Size: 3XL,XL,L,M)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 74,
@@ -4366,7 +4366,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "1610091",
           "PRODUCTS": "FUJITSU_Dây treo Fujitsu 11 móc",
           "LOT": null,
           "TỒN ĐẦU KỲ": 1,
@@ -4376,7 +4376,7 @@
           "Ngày hết hạn": null
         },
         {
-          "Mã": 1,
+          "Item Code": "1610092",
           "PRODUCTS": "FUJITSU_Dây treo Fujitsu 10 móc (2 hàng)",
           "LOT": null,
           "TỒN ĐẦU KỲ": 20,
@@ -4386,7 +4386,7 @@
           "Ngày hết hạn": null
         },
         {
-          "Mã": 1,
+          "Item Code": "1610094",
           "PRODUCTS": "FUJITSU_Kệ Fujitsu 4 móc",
           "LOT": null,
           "TỒN ĐẦU KỲ": 125,
@@ -4396,7 +4396,7 @@
           "Ngày hết hạn": null
         },
         {
-          "Mã": 1,
+          "Item Code": "1610096",
           "PRODUCTS": "Tủ pin Fujitsu (59x50x28cm)",
           "LOT": null,
           "TỒN ĐẦU KỲ": 3,
@@ -4406,7 +4406,7 @@
           "Ngày hết hạn": null
         },
         {
-          "Mã": 1,
+          "Item Code": "6010001",
           "PRODUCTS": "Pin Fujitsu - LR6(2B) FU-W-FI  - AA       (2404)",
           "LOT": "2909",
           "TỒN ĐẦU KỲ": null,
@@ -4416,7 +4416,7 @@
           "Ngày hết hạn": "30/09/2029"
         },
         {
-          "Mã": 2,
+          "Item Code": "6010001",
           "PRODUCTS": "Pin Fujitsu - LR6(2B) FU-W-FI  - AA       (2404)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 1,
@@ -4426,7 +4426,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010002",
           "PRODUCTS": "Pin Fujitsu - LR6(4B) FU-W-FI  - AA       (3005)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 2,
@@ -4436,7 +4436,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010003",
           "PRODUCTS": "Pin Fujitsu - LR03(2B) FU-W- FI - AAA     (3500)",
           "LOT": "2909",
           "TỒN ĐẦU KỲ": 19059,
@@ -4446,7 +4446,7 @@
           "Ngày hết hạn": "30/09/2029"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010004",
           "PRODUCTS": "Pin Fujitsu - LR03(4B) FU-W-FI - AAA    (5504)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 102,
@@ -4456,7 +4456,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 2,
+          "Item Code": "6010004",
           "PRODUCTS": "Pin Fujitsu - LR03(4B) FU-W-FI - AAA    (5504)",
           "LOT": "2904",
           "TỒN ĐẦU KỲ": 53,
@@ -4466,7 +4466,7 @@
           "Ngày hết hạn": "30/04/2029"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010005",
           "PRODUCTS": "Pin Fujitsu - 6LF22(1B) - FU - A-G - 9V   (6600)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 4,
@@ -4476,7 +4476,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010006",
           "PRODUCTS": "Pin Fujitsu - LR6(6B) FU-W-FI  - AA       (9808)",
           "LOT": "2909",
           "TỒN ĐẦU KỲ": 291,
@@ -4486,7 +4486,7 @@
           "Ngày hết hạn": "30/09/2029"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010007",
           "PRODUCTS": "Pin Fujitsu - LR03(6B) FU-W-FI - AAA    (5807)",
           "LOT": "2909",
           "TỒN ĐẦU KỲ": 2400,
@@ -4496,7 +4496,7 @@
           "Ngày hết hạn": "30/09/2029"
         },
         {
-          "Mã": 2,
+          "Item Code": "6010007",
           "PRODUCTS": "Pin Fujitsu - LR03(6B) FU-W-FI - AAA    (5807)",
           "LOT": "2904",
           "TỒN ĐẦU KỲ": 155,
@@ -4506,7 +4506,7 @@
           "Ngày hết hạn": "30/04/2029"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010008",
           "PRODUCTS": "Pin Fujitsu - LR6(8B) FU-W-FI  - AA       (9907)",
           "LOT": "2909",
           "TỒN ĐẦU KỲ": 424,
@@ -4516,7 +4516,7 @@
           "Ngày hết hạn": "30/09/2029"
         },
         {
-          "Mã": 2,
+          "Item Code": "6010008",
           "PRODUCTS": "Pin Fujitsu - LR6(8B) FU-W-FI  - AA       (9907)",
           "LOT": "2609",
           "TỒN ĐẦU KỲ": 6,
@@ -4526,7 +4526,7 @@
           "Ngày hết hạn": "30/09/2026"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010009",
           "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
           "LOT": "2909",
           "TỒN ĐẦU KỲ": 800,
@@ -4536,7 +4536,7 @@
           "Ngày hết hạn": "30/09/2029"
         },
         {
-          "Mã": 2,
+          "Item Code": "6010009",
           "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
           "LOT": "2904",
           "TỒN ĐẦU KỲ": 304,
@@ -4546,7 +4546,7 @@
           "Ngày hết hạn": "30/04/2029"
         },
         {
-          "Mã": 3,
+          "Item Code": "6010009",
           "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
           "LOT": "2906",
           "TỒN ĐẦU KỲ": 400,
@@ -4556,7 +4556,7 @@
           "Ngày hết hạn": "30/06/2029"
         },
         {
-          "Mã": 4,
+          "Item Code": "6010009",
           "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
           "LOT": "2712",
           "TỒN ĐẦU KỲ": 19,
@@ -4566,7 +4566,7 @@
           "Ngày hết hạn": "31/12/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010014",
           "PRODUCTS": "Pin Fujitsu - LR03(4B+2B) FU-W-FI - AAA    (5504)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": -709,
@@ -4576,7 +4576,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010030",
           "PRODUCTS": "Pin Fujitsu Premium - LR6(2B) FP-W-FI - AA      (2804)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 4,
@@ -4586,7 +4586,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010031",
           "PRODUCTS": "Pin Fujitsu Premium - LR6(4B) FP-W-FI  - AA       (9703)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 2,
@@ -4596,7 +4596,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010032",
           "PRODUCTS": "Pin Fujitsu Premium - LR03(2B) FP-W-FI  - AAA    (0501)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 20,
@@ -4606,7 +4606,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 2,
+          "Item Code": "6010032",
           "PRODUCTS": "Pin Fujitsu Premium - LR03(2B) FP-W-FI  - AAA    (0501)",
           "LOT": "3209",
           "TỒN ĐẦU KỲ": 186,
@@ -4616,7 +4616,7 @@
           "Ngày hết hạn": "30/09/2032"
         },
         {
-          "Mã": 1,
+          "Item Code": "6010033",
           "PRODUCTS": "Pin Fujitsu Premium - LR03(4B) FP-W-FI  - AAA    (0600)",
           "LOT": "3209",
           "TỒN ĐẦU KỲ": 50,
@@ -4626,7 +4626,7 @@
           "Ngày hết hạn": "30/09/2032"
         },
         {
-          "Mã": 2,
+          "Item Code": "6010033",
           "PRODUCTS": "Pin Fujitsu Premium - LR03(4B) FP-W-FI  - AAA    (0600)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 15,
@@ -4636,7 +4636,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6040011",
           "PRODUCTS": "Pin Fujitsu - R6N/2300(SP4) - 3N(4S)FJ-EUNAB - AA   (1309)",
           "LOT": "2712",
           "TỒN ĐẦU KỲ": 200,
@@ -4646,7 +4646,7 @@
           "Ngày hết hạn": "31/12/2027"
         },
         {
-          "Mã": 2,
+          "Item Code": "6040011",
           "PRODUCTS": "Pin Fujitsu - R6N/2300(SP4) - 3N(4S)FJ-EUNAB - AA   (1309)",
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 22800,
@@ -4656,7 +4656,7 @@
           "Ngày hết hạn": "28/02/2029"
         },
         {
-          "Mã": 3,
+          "Item Code": "6040011",
           "PRODUCTS": "Pin Fujitsu - R6N/2300(SP4) - 3N(4S)FJ-EUNAB - AA   (1309)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 4612,
@@ -4666,7 +4666,7 @@
           "Ngày hết hạn": "31/07/2028"
         },
         {
-          "Mã": 1,
+          "Item Code": "6040012",
           "PRODUCTS": "Pin Fujitsu - R03N/2400(SP2) - R03N(2S)FJEUNIC -  AAA   (1408)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 52760,
@@ -4676,7 +4676,7 @@
           "Ngày hết hạn": "31/07/2028"
         },
         {
-          "Mã": 2,
+          "Item Code": "6040012",
           "PRODUCTS": "Pin Fujitsu - R03N/2400(SP2) - R03N(2S)FJEUNIC -  AAA   (1408)",
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 52800,
@@ -4686,7 +4686,7 @@
           "Ngày hết hạn": "28/02/2029"
         },
         {
-          "Mã": 1,
+          "Item Code": "6040013",
           "PRODUCTS": "Pin Fujitsu - R14N/2200(SP2) - 2N(2S)FJ-EUNAB - C   (1200)",
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 720,
@@ -4696,7 +4696,7 @@
           "Ngày hết hạn": "28/02/2029"
         },
         {
-          "Mã": 1,
+          "Item Code": "6040014",
           "PRODUCTS": "Pin Fujitsu - R20N/2100(SP2) - 1N(2S)FJ-EUNAB - D   (1101)",
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 2640,
@@ -4706,7 +4706,7 @@
           "Ngày hết hạn": "28/02/2029"
         },
         {
-          "Mã": 2,
+          "Item Code": "6040014",
           "PRODUCTS": "Pin Fujitsu - R20N/2100(SP2) - 1N(2S)FJ-EUNAB - D   (1101)",
           "LOT": "2612",
           "TỒN ĐẦU KỲ": 10,
@@ -4716,7 +4716,7 @@
           "Ngày hết hạn": "31/12/2026"
         },
         {
-          "Mã": 1,
+          "Item Code": "6040021",
           "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 6400,
@@ -4726,7 +4726,7 @@
           "Ngày hết hạn": "31/07/2028"
         },
         {
-          "Mã": 2,
+          "Item Code": "6040021",
           "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
           "LOT": "2804",
           "TỒN ĐẦU KỲ": 1721,
@@ -4736,7 +4736,7 @@
           "Ngày hết hạn": "30/04/2028"
         },
         {
-          "Mã": 3,
+          "Item Code": "6040021",
           "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
           "LOT": "2710",
           "TỒN ĐẦU KỲ": 3,
@@ -4746,7 +4746,7 @@
           "Ngày hết hạn": "31/10/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "6040022",
           "PRODUCTS": "Pin Fujitsu - R03/2400(BP4) - R03N(4B)FJEUNIC -  AAA   (3402)",
           "LOT": "2710",
           "TỒN ĐẦU KỲ": 30600,
@@ -4756,7 +4756,7 @@
           "Ngày hết hạn": "31/10/2027"
         },
         {
-          "Mã": 2,
+          "Item Code": "6040022",
           "PRODUCTS": "Pin Fujitsu - R03/2400(BP4) - R03N(4B)FJEUNIC -  AAA   (3402)",
           "LOT": "2804",
           "TỒN ĐẦU KỲ": 10190,
@@ -4766,7 +4766,7 @@
           "Ngày hết hạn": "30/04/2028"
         },
         {
-          "Mã": 3,
+          "Item Code": "6040022",
           "PRODUCTS": "Pin Fujitsu - R03/2400(BP4) - R03N(4B)FJEUNIC -  AAA   (3402)",
           "LOT": "2709",
           "TỒN ĐẦU KỲ": 10553,
@@ -4776,7 +4776,7 @@
           "Ngày hết hạn": "30/09/2027"
         },
         {
-          "Mã": 1,
+          "Item Code": "6050002",
           "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 2726,
@@ -4786,7 +4786,7 @@
           "Ngày hết hạn": "31/07/2028"
         },
         {
-          "Mã": 2,
+          "Item Code": "6050002",
           "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
           "LOT": "2810",
           "TỒN ĐẦU KỲ": 8760,
@@ -4796,7 +4796,7 @@
           "Ngày hết hạn": "31/10/2028"
         },
         {
-          "Mã": 3,
+          "Item Code": "6050002",
           "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 26880,
@@ -4806,7 +4806,7 @@
           "Ngày hết hạn": "28/02/2029"
         },
         {
-          "Mã": 4,
+          "Item Code": "6050002",
           "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 9,
@@ -4816,7 +4816,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6050004",
           "PRODUCTS": "Pin Fujitsu - R03(4B) F-GP - AAA     (3112)",
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 23513,
@@ -4826,7 +4826,7 @@
           "Ngày hết hạn": "28/02/2029"
         },
         {
-          "Mã": 1,
+          "Item Code": "6050005",
           "PRODUCTS": "Pin Fujitsu - R14(2B) F-GP - C       (1118)",
           "LOT": "2710",
           "TỒN ĐẦU KỲ": 238,
@@ -4836,7 +4836,7 @@
           "Ngày hết hạn": "31/10/2027"
         },
         {
-          "Mã": 2,
+          "Item Code": "6050005",
           "PRODUCTS": "Pin Fujitsu - R14(2B) F-GP - C       (1118)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 12,
@@ -4846,7 +4846,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 3,
+          "Item Code": "6050005",
           "PRODUCTS": "Pin Fujitsu - R14(2B) F-GP - C       (1118)",
           "LOT": "2612",
           "TỒN ĐẦU KỲ": 396,
@@ -4856,7 +4856,7 @@
           "Ngày hết hạn": "31/12/2026"
         },
         {
-          "Mã": 1,
+          "Item Code": "6050006",
           "PRODUCTS": "Pin Fujitsu - R20(2B) F-GP - D      (0111)",
           "LOT": "2502",
           "TỒN ĐẦU KỲ": 123,
@@ -4866,7 +4866,7 @@
           "Ngày hết hạn": "28/02/2025"
         },
         {
-          "Mã": 2,
+          "Item Code": "6050006",
           "PRODUCTS": "Pin Fujitsu - R20(2B) F-GP - D      (0111)",
           "LOT": "2602",
           "TỒN ĐẦU KỲ": 841,
@@ -4876,7 +4876,7 @@
           "Ngày hết hạn": "28/02/2026"
         },
         {
-          "Mã": 1,
+          "Item Code": "6050007",
           "PRODUCTS": "Pin Fujitsu - 6F22(B) F-GP - 9V     (4119)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 87,
@@ -4886,7 +4886,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6050011",
           "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
           "LOT": "2612",
           "TỒN ĐẦU KỲ": 5519,
@@ -4896,7 +4896,7 @@
           "Ngày hết hạn": "31/12/2026"
         },
         {
-          "Mã": 2,
+          "Item Code": "6050011",
           "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
           "LOT": "2201",
           "TỒN ĐẦU KỲ": 2086,
@@ -4906,7 +4906,7 @@
           "Ngày hết hạn": "31/01/2022"
         },
         {
-          "Mã": 3,
+          "Item Code": "6050011",
           "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
           "LOT": "2208",
           "TỒN ĐẦU KỲ": 2904,
@@ -4916,7 +4916,7 @@
           "Ngày hết hạn": "31/08/2022"
         },
         {
-          "Mã": 4,
+          "Item Code": "6050011",
           "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
           "LOT": "2906",
           "TỒN ĐẦU KỲ": 15760,
@@ -4926,7 +4926,7 @@
           "Ngày hết hạn": "30/06/2029"
         },
         {
-          "Mã": 1,
+          "Item Code": "6050012",
           "PRODUCTS": "Pin Fujitsu - R03(2S) F-GP - AAA      (9169)",
           "LOT": "2906",
           "TỒN ĐẦU KỲ": 11819,
@@ -4936,7 +4936,7 @@
           "Ngày hết hạn": "30/06/2029"
         },
         {
-          "Mã": 2,
+          "Item Code": "6050012",
           "PRODUCTS": "Pin Fujitsu - R03(2S) F-GP - AAA      (9169)",
           "LOT": "2604",
           "TỒN ĐẦU KỲ": 1128,
@@ -4946,7 +4946,7 @@
           "Ngày hết hạn": "30/04/2026"
         },
         {
-          "Mã": 3,
+          "Item Code": "6050012",
           "PRODUCTS": "Pin Fujitsu - R03(2S) F-GP - AAA      (9169)",
           "LOT": "2612",
           "TỒN ĐẦU KỲ": 12350,
@@ -4956,7 +4956,7 @@
           "Ngày hết hạn": "31/12/2026"
         },
         {
-          "Mã": 1,
+          "Item Code": "6050013",
           "PRODUCTS": "Pin Fujitsu - R14(2S) F-GP - C       (7110)",
           "LOT": "2612",
           "TỒN ĐẦU KỲ": 2041,
@@ -4966,7 +4966,7 @@
           "Ngày hết hạn": "31/12/2026"
         },
         {
-          "Mã": 2,
+          "Item Code": "6050013",
           "PRODUCTS": "Pin Fujitsu - R14(2S) F-GP - C       (7110)",
           "LOT": "2906",
           "TỒN ĐẦU KỲ": 1000,
@@ -4976,7 +4976,7 @@
           "Ngày hết hạn": "30/06/2029"
         },
         {
-          "Mã": 1,
+          "Item Code": "6050014",
           "PRODUCTS": "Pin Fujitsu - R20(2S) F-GP - D         (6113)",
           "LOT": "2612",
           "TỒN ĐẦU KỲ": 4293,
@@ -4986,7 +4986,7 @@
           "Ngày hết hạn": "31/12/2026"
         },
         {
-          "Mã": 2,
+          "Item Code": "6050014",
           "PRODUCTS": "Pin Fujitsu - R20(2S) F-GP - D         (6113)",
           "LOT": "2406",
           "TỒN ĐẦU KỲ": 3,
@@ -4996,7 +4996,7 @@
           "Ngày hết hạn": "30/06/2024"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060001",
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTCEX (2B) - AA - 1900mAh  (6148)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 70,
@@ -5006,7 +5006,7 @@
           "Ngày hết hạn": "31/12/1999"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060002",
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTCEX(4B) - AA - 1900mAh   (6155)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 62,
@@ -5016,7 +5016,7 @@
           "Ngày hết hạn": "31/12/1999"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060005",
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTHCEX(4B) - AA- 2550mAh    (6117)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 88,
@@ -5026,7 +5026,7 @@
           "Ngày hết hạn": "31/12/1999"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060006",
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTHCEX(2B) - AA- 2450mAh    (1665)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 129,
@@ -5036,7 +5036,7 @@
           "Ngày hết hạn": "31/12/1999"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060007",
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-4UTHCEX(2B) - AAA - 900mAh   (6124)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 38,
@@ -5046,7 +5046,7 @@
           "Ngày hết hạn": "31/12/1999"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060008",
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-4UTHCEX(4B) - AAA - 900mAh    (6131)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 222,
@@ -5056,7 +5056,7 @@
           "Ngày hết hạn": "31/12/1999"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060012",
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTLA (4B) - AA - 1000mAh  (6711)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 108,
@@ -5066,7 +5066,7 @@
           "Ngày hết hạn": "31/12/1999"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060020",
           "PRODUCTS": "Máy Sạc Fujitsu - FCT 344CEFX(CL) - 2hr - 4xAA-  2000mAh (1373)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 1,
@@ -5076,7 +5076,7 @@
           "Ngày hết hạn": "31/12/1999"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060021",
           "PRODUCTS": "Máy Sạc Fujitsu - FCT 344CE(CL) - 2hr - 1100/560mAh (1830)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 66,
@@ -5086,7 +5086,7 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060024",
           "PRODUCTS": "Máy Sạc Fujitsu - FCT 345CEFXL(B) - 3hr - 2xAA-  1000mAh (1656)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 117,
@@ -5096,7 +5096,7 @@
           "Ngày hết hạn": "31/12/1999"
         },
         {
-          "Mã": 1,
+          "Item Code": "6060028",
           "PRODUCTS": "Máy Sạc Fujitsu - FCT 345FXEST(B) - 6hr - 4xAA-  2000mAh (6582)",
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 2,
@@ -5108,7 +5108,7 @@
       ],
       "total_products": 75,
       "columns": [
-        "Mã",
+        "Item Code",
         "PRODUCTS",
         "LOT",
         "Thời hạn (tháng)",

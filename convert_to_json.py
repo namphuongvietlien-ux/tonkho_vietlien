@@ -75,32 +75,51 @@ def analyze_column_importance(df, col):
     
     return name_score + non_null_ratio
 
-def smart_filter_columns(df, headers):
+def smart_filter_columns(df, headers, sheet_name=None):
     """
     Lọc các cột theo logic: Mã/Item Code, Tên/Products, Lot, Tồn đầu kỳ, Tồn cuối kỳ/CLOSING STOCK/Số lượng tồn
+    Sheet COLEMAN: Dùng cột A (Mã)
+    Các sheet khác: Ưu tiên cột E (Item Code)
     """
     selected_cols = []
     
-    # 1. Tìm cột Mã hoặc Item Code (cho phép cả Column_X nếu có dữ liệu giống mã)
+    # 1. Tìm cột Mã
     ma_col = None
-    for col in headers:
-        if col:
-            col_lower = col.lower()
-            # Kiểm tra tên cột
-            if ('mã' in col_lower or 'item code' in col_lower or col_lower == 'ad' or col_lower == 'no.') and \
-               not any(x in col_lower for x in ['cus', 'customer', 'warehouse', 'thông tin']):
-                if df[col].notna().sum() > 0:
-                    ma_col = col
-                    break
-            # Kiểm tra nội dung cột - nếu nhiều giá trị có dạng số-chữ (mã sản phẩm)
-            elif col.startswith('Column_'):
-                sample_values = df[col].dropna().head(10)
-                if len(sample_values) > 0:
-                    # Kiểm tra xem có phải cột chứa mã không (có số ở đầu)
-                    has_code_pattern = sum(1 for v in sample_values if str(v).strip() and str(v)[0].isdigit()) > len(sample_values) * 0.3
-                    if has_code_pattern:
+    
+    # Nếu KHÔNG phải sheet COLEMAN, ưu tiên cột "Item Code"
+    if sheet_name and sheet_name.upper() != 'COLEMAN':
+        # Tìm cột có tên chứa "Item Code"
+        for i, col in enumerate(headers):
+            if col:
+                col_lower = str(col).lower()
+                # Tìm cột có tên chính xác là "Item Code"
+                if col_lower == 'item code' or ('item' in col_lower and 'code' in col_lower):
+                    if df[col].notna().sum() > 0:
                         ma_col = col
+                        print(f"  ✓ Tìm thấy cột Mã (Item Code) tại index {i}: {col}")
                         break
+    
+    # Nếu không tìm thấy Item Code hoặc là sheet COLEMAN, tìm theo cách cũ
+    if not ma_col:
+        for col in headers:
+            if col:
+                col_lower = col.lower()
+                # Kiểm tra tên cột
+                if ('mã' in col_lower or 'item code' in col_lower or col_lower == 'ad' or col_lower == 'no.') and \
+                   not any(x in col_lower for x in ['cus', 'customer', 'warehouse', 'thông tin']):
+                    if df[col].notna().sum() > 0:
+                        ma_col = col
+                        print(f"  ✓ Tìm thấy cột Mã: {col}")
+                        break
+                # Kiểm tra nội dung cột - nếu nhiều giá trị có dạng số-chữ (mã sản phẩm)
+                elif col.startswith('Column_'):
+                    sample_values = df[col].dropna().head(10)
+                    if len(sample_values) > 0:
+                        # Kiểm tra xem có phải cột chứa mã không (có số ở đầu)
+                        has_code_pattern = sum(1 for v in sample_values if str(v).strip() and str(v)[0].isdigit()) > len(sample_values) * 0.3
+                        if has_code_pattern:
+                            ma_col = col
+                            break
     
     # 2. Tìm cột Tên / Products (cho phép cả Column_X nếu chứa tên dài)
     ten_col = None
@@ -334,7 +353,7 @@ def extract_date_from_lot(lot_value):
     
     return None
 
-def process_sheet_data(df, start_row):
+def process_sheet_data(df, start_row, sheet_name=None):
     """
     Xử lý dữ liệu từ một sheet, bắt đầu từ dòng chỉ định
     Mô phỏng quy trình: Copy > Paste Value > Xóa hàng trống > Xóa cột trống
@@ -461,7 +480,7 @@ def process_sheet_data(df, start_row):
     data_df = data_df.reset_index(drop=True)
     
     # BƯỚC 5: Lọc và sắp xếp các cột theo logic
-    column_mapping = smart_filter_columns(data_df, headers)
+    column_mapping = smart_filter_columns(data_df, headers, sheet_name)
     
     if not column_mapping:
         # Fallback: giữ tất cả cột có dữ liệu
@@ -566,7 +585,7 @@ def convert_excel_to_json(excel_file=None, output_file='inventory_data.json'):
             print(f"     - Dòng bắt đầu dữ liệu: {start_row + 1}")
             
             # Xử lý dữ liệu từ sheet
-            products, selected_columns = process_sheet_data(df, start_row)
+            products, selected_columns = process_sheet_data(df, start_row, sheet_name)
             
             # Thêm cột % Còn lại và Hạn sử dụng cho các sheet có hạn
             if products and sheet_name in config['shelf_life_months']:
