@@ -326,12 +326,17 @@ function displayTableBody() {
                     e.target.options[e.target.selectedIndex].text = '⏳ Đang lưu...';
                     
                     try {
-                        // Lưu thời hạn vào server với key = Mã + LOT
+                        // Lưu thời hạn vào server (không tính lại % ngay)
                         const success = await saveProductShelfLife(productCode, lotNumber, newShelfLife);
                         
                         if (success) {
-                            // Reload dữ liệu và giữ nguyên sheet hiện tại
-                            await loadInventoryData(true);
+                            // Hiển thị checkmark
+                            const cleanText = originalText.replace('⏳ Đang lưu...', '').replace('✓ ', '');
+                            e.target.options[e.target.selectedIndex].text = '✓ ' + cleanText;
+                            select.disabled = false;
+                            
+                            // Hiển thị nút tính lại nếu chưa có
+                            showRecalculateButton();
                         } else {
                             alert('❌ Không thể lưu thời hạn. Vui lòng thử lại!');
                             e.target.options[e.target.selectedIndex].text = originalText;
@@ -444,6 +449,53 @@ function updateColumnFilter(columns) {
     });
 }
 
+// Hiển thị nút tính lại %
+function showRecalculateButton() {
+    // Kiểm tra xem nút đã tồn tại chưa
+    if (document.getElementById('recalculate-btn')) return;
+    
+    const controls = document.querySelector('.controls');
+    const btn = document.createElement('button');
+    btn.id = 'recalculate-btn';
+    btn.className = 'btn-recalculate';
+    btn.innerHTML = '🔄 Tính lại % còn lại';
+    btn.onclick = recalculatePercentages;
+    controls.appendChild(btn);
+}
+
+// Tính lại phần trăm còn lại
+async function recalculatePercentages() {
+    const btn = document.getElementById('recalculate-btn');
+    if (!btn) return;
+    
+    btn.disabled = true;
+    btn.textContent = '⏳ Đang tính lại...';
+    
+    try {
+        const recalcUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+            ? '/recalculate'
+            : '/api/recalculate';
+        
+        const response = await fetch(recalcUrl, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' }
+        });
+        
+        if (response.ok) {
+            // Reload dữ liệu và giữ nguyên sheet hiện tại
+            await loadInventoryData(true);
+            btn.remove();
+            alert('✓ Đã tính lại phần trăm còn lại thành công!');
+        } else {
+            throw new Error('Tính lại thất bại');
+        }
+    } catch (error) {
+        alert('❌ Lỗi: ' + error.message);
+        btn.disabled = false;
+        btn.textContent = '🔄 Tính lại % còn lại';
+    }
+}
+
 // Export functions for external use
 window.inventoryManager = {
     refresh: loadInventoryData,
@@ -451,5 +503,6 @@ window.inventoryManager = {
     getCurrentSheet: () => allSheets[currentSheetIndex],
     getCurrentProducts: () => currentSheetProducts,
     getFilteredProducts: () => filteredProducts,
-    switchSheet: (index) => switchToSheet(index)
+    switchSheet: (index) => switchToSheet(index),
+    recalculate: recalculatePercentages
 };

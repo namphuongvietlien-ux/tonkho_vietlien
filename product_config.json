@@ -5,6 +5,8 @@
     "PIN FUJITSU": {}
   },
   "product_specific_shelf_life": {
-    "1_2902": 40
+    "1_2902": 40,
+    "1_1907": 999,
+    "1": 999
   }
 }

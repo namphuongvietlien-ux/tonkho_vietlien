@@ -145,23 +145,7 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
             with open('product_config.json', 'w', encoding='utf-8') as f:
                 json.dump(config, f, ensure_ascii=False, indent=2)
             
-            # Chạy lại conversion để tính toán lại % còn lại
-            import subprocess
-            try:
-                result = subprocess.run(['python', 'convert_to_json.py'], 
-                             capture_output=True, 
-                             timeout=30,
-                             cwd=os.getcwd(),
-                             text=True)
-                
-                if result.returncode != 0:
-                    print(f"Lỗi khi chạy conversion: {result.stderr}")
-                else:
-                    print(f"✓ Conversion thành công cho {unique_key}")
-            except Exception as e:
-                print(f"Lỗi khi chạy conversion: {e}")
-            
-            # Trả về response
+            # Trả về response ngay lập tức (không chạy conversion)
             self.send_response(200)
             self.send_header('Content-type', 'application/json')
             self.end_headers()
@@ -169,6 +153,36 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                 'status': 'success',
                 'message': 'Đã lưu thời hạn thành công'
             }).encode())
+        
+        elif parsed_path.path == '/recalculate':
+            # Tính lại phần trăm còn lại
+            import subprocess
+            try:
+                result = subprocess.run(['python', 'convert_to_json.py'], 
+                             capture_output=True, 
+                             timeout=60,
+                             cwd=os.getcwd(),
+                             text=True)
+                
+                if result.returncode == 0:
+                    self.send_response(200)
+                    self.send_header('Content-type', 'application/json')
+                    self.end_headers()
+                    self.wfile.write(json.dumps({
+                        'status': 'success',
+                        'message': 'Đã tính lại thành công'
+                    }).encode())
+                else:
+                    raise Exception(result.stderr or 'Conversion failed')
+            except Exception as e:
+                print(f"Lỗi khi tính lại: {e}")
+                self.send_response(500)
+                self.send_header('Content-type', 'application/json')
+                self.end_headers()
+                self.wfile.write(json.dumps({
+                    'status': 'error',
+                    'message': str(e)
+                }).encode())
         else:
             self.send_response(404)
             self.end_headers()
