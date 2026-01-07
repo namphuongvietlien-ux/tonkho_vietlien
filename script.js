@@ -318,7 +318,7 @@ function displayTableBody() {
                 select.addEventListener('change', async (e) => {
                     const newShelfLife = parseInt(e.target.value);
                     const productCode = product['Mã'];
-                    const lotNumber = product['LOT'] || '';
+                    const lotNumber = product['LOT'] ? String(product['LOT']).trim() : '';
                     
                     // Disable dropdown và hiển thị loading
                     select.disabled = true;

@@ -118,14 +118,14 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                 post_data = self.rfile.read(content_length)
                 data = json.loads(post_data.decode('utf-8'))
                 
-                product_code = data.get('product_code')
-                lot_number = data.get('lot_number', '')
+                product_code = str(data.get('product_code', '')).strip()
+                lot_number = str(data.get('lot_number', '')).strip()
                 shelf_life_months = data.get('shelf_life_months')
                 
-                print(f"📝 Nhận request lưu: {product_code} | LOT: {lot_number} | Thời hạn: {shelf_life_months}")
+                print(f"📝 Nhận request lưu: {product_code} | LOT: '{lot_number}' | Thời hạn: {shelf_life_months}")
                 
-                # Tạo unique key từ product_code + lot_number
-                unique_key = f"{product_code}_{lot_number}" if lot_number else str(product_code)
+                # Tạo unique key: LUÔN dùng format product_code_lot_number
+                unique_key = f"{product_code}_{lot_number}"
                 
                 # Load config
                 try:

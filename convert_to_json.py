@@ -584,11 +584,11 @@ def convert_excel_to_json(excel_file=None, output_file='inventory_data.json'):
                         selected_columns.insert(5, 'Ngày hết hạn')
                     
                     for product in products:
-                        product_code = str(product.get('Mã', ''))  # Chuyển sang string để khớp với JSON key
-                        lot_number = str(product.get('LOT', ''))
+                        product_code = str(product.get('Mã', '')).strip()  # Chuyển sang string và trim
+                        lot_number = str(product.get('LOT', '')).strip()
                         
-                        # Tạo unique key từ product_code + lot_number
-                        unique_key = f"{product_code}_{lot_number}" if lot_number else product_code
+                        # Tạo unique key: LUÔN dùng format product_code_lot_number
+                        unique_key = f"{product_code}_{lot_number}"
                         
                         # Lấy thời hạn đã lưu hoặc mặc định 36 tháng
                         shelf_life = config['product_specific_shelf_life'].get(unique_key, 36)
