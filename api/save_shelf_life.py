@@ -13,11 +13,12 @@ class handler(BaseHTTPRequestHandler):
             post_data = self.rfile.read(content_length)
             data = json.loads(post_data.decode('utf-8'))
             
-            product_code = data.get('product_code')
-            lot_number = data.get('lot_number')
+            product_code = str(data.get('product_code', '')).strip()
+            lot_number = str(data.get('lot_number', '')).strip()
             shelf_life_months = data.get('shelf_life_months')
             
-            if not all([product_code, lot_number, shelf_life_months]):
+            # Chỉ check product_code và shelf_life_months (lot_number có thể rỗng)
+            if not product_code or shelf_life_months is None:
                 self.send_response(400)
                 self.send_header('Content-Type', 'application/json')
                 self.send_header('Access-Control-Allow-Origin', '*')
@@ -45,7 +46,7 @@ class handler(BaseHTTPRequestHandler):
                     "product_specific_shelf_life": {}
                 }
             
-            # Create unique key
+            # Create unique key: LUÔN dùng format product_code_lot_number
             unique_key = f"{product_code}_{lot_number}"
             
             # Update product-specific shelf life
