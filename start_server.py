@@ -148,10 +148,16 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
             # Chạy lại conversion để tính toán lại % còn lại
             import subprocess
             try:
-                subprocess.run(['python', 'convert_to_json.py'], 
+                result = subprocess.run(['python', 'convert_to_json.py'], 
                              capture_output=True, 
                              timeout=30,
-                             cwd=os.getcwd())
+                             cwd=os.getcwd(),
+                             text=True)
+                
+                if result.returncode != 0:
+                    print(f"Lỗi khi chạy conversion: {result.stderr}")
+                else:
+                    print(f"✓ Conversion thành công cho {unique_key}")
             except Exception as e:
                 print(f"Lỗi khi chạy conversion: {e}")
             
@@ -159,7 +165,10 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
             self.send_response(200)
             self.send_header('Content-type', 'application/json')
             self.end_headers()
-            self.wfile.write(json.dumps({'status': 'success'}).encode())
+            self.wfile.write(json.dumps({
+                'status': 'success',
+                'message': 'Đã lưu thời hạn thành công'
+            }).encode())
         else:
             self.send_response(404)
             self.end_headers()

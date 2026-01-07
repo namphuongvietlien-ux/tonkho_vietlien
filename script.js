@@ -320,11 +320,28 @@ function displayTableBody() {
                     const productCode = product['Mã'];
                     const lotNumber = product['LOT'] || '';
                     
-                    // Lưu thời hạn vào server với key = Mã + LOT
-                    await saveProductShelfLife(productCode, lotNumber, newShelfLife);
+                    // Disable dropdown và hiển thị loading
+                    select.disabled = true;
+                    const originalText = e.target.options[e.target.selectedIndex].text;
+                    e.target.options[e.target.selectedIndex].text = '⏳ Đang lưu...';
                     
-                    // Reload dữ liệu và giữ nguyên sheet hiện tại
-                    await loadInventoryData(true);
+                    try {
+                        // Lưu thời hạn vào server với key = Mã + LOT
+                        const success = await saveProductShelfLife(productCode, lotNumber, newShelfLife);
+                        
+                        if (success) {
+                            // Reload dữ liệu và giữ nguyên sheet hiện tại
+                            await loadInventoryData(true);
+                        } else {
+                            alert('❌ Không thể lưu thời hạn. Vui lòng thử lại!');
+                            e.target.options[e.target.selectedIndex].text = originalText;
+                            select.disabled = false;
+                        }
+                    } catch (error) {
+                        alert('❌ Lỗi: ' + error.message);
+                        e.target.options[e.target.selectedIndex].text = originalText;
+                        select.disabled = false;
+                    }
                 });
                 
                 cell.appendChild(select);
@@ -348,6 +365,8 @@ async function saveProductShelfLife(productCode, lotNumber, shelfLifeMonths) {
             ? '/save_shelf_life'
             : '/api/save_shelf_life';
         
+        console.log('Đang lưu thời hạn:', { productCode, lotNumber, shelfLifeMonths });
+        
         const response = await fetch(saveUrl, {
             method: 'POST',
             headers: {
@@ -363,9 +382,15 @@ async function saveProductShelfLife(productCode, lotNumber, shelfLifeMonths) {
         if (!response.ok) {
             const errorData = await response.json().catch(() => ({}));
             console.error('Không thể lưu thời hạn sử dụng:', errorData.message || response.statusText);
+            return false;
         }
+        
+        const result = await response.json();
+        console.log('Lưu thành công:', result);
+        return true;
     } catch (error) {
         console.error('Lỗi khi lưu:', error.message);
+        return false;
     }
 }
 
