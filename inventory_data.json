@@ -2,7 +2,7 @@
   "metadata": {
     "date_ton_kho": "07/01/2026",
     "source_file": "01.Inventory 06.01_1767753081.xlsx",
-    "last_updated": "07/01/2026 11:20:07",
+    "last_updated": "07/01/2026 11:39:55",
     "total_sheets": 5,
     "total_products": 882
   },
@@ -4361,7 +4361,7 @@
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 74,
           "CLOSING STOCK/": 74,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 999,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -4411,8 +4411,8 @@
           "LOT": "2909",
           "TỒN ĐẦU KỲ": null,
           "CLOSING STOCK/": null,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 124.3,
+          "Thời hạn (tháng)": 84,
+          "% Còn lại": 53.2,
           "Ngày hết hạn": "30/09/2029"
         },
         {
@@ -4421,7 +4421,7 @@
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 1,
           "CLOSING STOCK/": 1,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 84,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -4431,7 +4431,7 @@
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 2,
           "CLOSING STOCK/": 2,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 84,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -4521,8 +4521,8 @@
           "LOT": "2609",
           "TỒN ĐẦU KỲ": 6,
           "CLOSING STOCK/": 6,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 24.2,
+          "Thời hạn (tháng)": 84,
+          "% Còn lại": 10.4,
           "Ngày hết hạn": "30/09/2026"
         },
         {

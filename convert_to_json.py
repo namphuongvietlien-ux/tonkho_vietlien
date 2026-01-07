@@ -604,7 +604,10 @@ def convert_excel_to_json(excel_file=None, output_file='inventory_data.json'):
                     
                     for product in products:
                         product_code = str(product.get('Mã', '')).strip()  # Chuyển sang string và trim
-                        lot_number = str(product.get('LOT', '')).strip()
+                        
+                        # Xử lý lot_number: None -> rỗng
+                        lot_value = product.get('LOT')
+                        lot_number = str(lot_value).strip() if lot_value not in [None, '', 'None', 'nan'] else ''
                         
                         # Tạo unique key: LUÔN dùng format product_code_lot_number
                         unique_key = f"{product_code}_{lot_number}"
