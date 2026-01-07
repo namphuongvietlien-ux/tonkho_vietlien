@@ -1,10 +1,10 @@
 {
   "metadata": {
     "date_ton_kho": "07/01/2026",
-    "source_file": "04.Inventory 22.12_1766631491.xlsx",
-    "last_updated": "07/01/2026 09:15:04",
+    "source_file": "01.Inventory 06.01_1767753081.xlsx",
+    "last_updated": "07/01/2026 09:31:23",
     "total_sheets": 5,
-    "total_products": 896
+    "total_products": 882
   },
   "sheets": [
     {
@@ -173,12 +173,12 @@
         {
           "Mã": "4010053",
           "Tên": "Thùng Coleman giữ lạnh 2000033009- 4.7L-Xanh (4876)",
-          "Số lượng tồn": 76
+          "Số lượng tồn": 77
         },
         {
           "Mã": "4010054",
           "Tên": "Thùng Coleman giữ lạnh 2207047- 4.7L- Xám - (4489)",
-          "Số lượng tồn": 46
+          "Số lượng tồn": 44
         },
         {
           "Mã": "4010055",
@@ -298,22 +298,22 @@
         {
           "Mã": "4010229",
           "Tên": "Thùng Coleman giữ lạnh 2220152 -15L - Xanh lơ (7282)",
-          "Số lượng tồn": 97
+          "Số lượng tồn": 96
         },
         {
           "Mã": "4010230",
           "Tên": "Thùng Coleman giữ lạnh 2220151 - 15L - Cam- (7299)",
-          "Số lượng tồn": 41
+          "Số lượng tồn": 40
         },
         {
           "Mã": "4010231",
           "Tên": "Thùng Coleman giữ lạnh 2000027859 - 15L - Xanh (4067)",
-          "Số lượng tồn": 66
+          "Số lượng tồn": 65
         },
         {
           "Mã": "4010232",
           "Tên": "Thùng Coleman giữ lạnh 30000027860 - 15L - Đỏ (4074)",
-          "Số lượng tồn": 67
+          "Số lượng tồn": 63
         },
         {
           "Mã": "4010233",
@@ -443,12 +443,12 @@
         {
           "Mã": "4010291",
           "Tên": "Thùng Coleman giữ lạnh 2205749 - 26L - Nâu    (4311)",
-          "Số lượng tồn": 99
+          "Số lượng tồn": 97
         },
         {
           "Mã": "4010292",
           "Tên": "Thùng Coleman giữ lạnh 2205748 - 26L - Xanh Rêu   (4281)",
-          "Số lượng tồn": 93
+          "Số lượng tồn": 91
         },
         {
           "Mã": "4010295",
@@ -518,7 +518,7 @@
         {
           "Mã": "4010322",
           "Tên": "Thùng Giữ Nhiệt Coleman  2000033007 - 45L-Xanh (4852)",
-          "Số lượng tồn": 71
+          "Số lượng tồn": 69
         },
         {
           "Mã": "4010323",
@@ -558,7 +558,7 @@
         {
           "Mã": "4010430",
           "Tên": "Thùng Coleman giữ lạnh 2000036781 - 56L - Xám - tay kéo (2981)",
-          "Số lượng tồn": 7
+          "Số lượng tồn": 6
         },
         {
           "Mã": "4010431",
@@ -568,7 +568,7 @@
         {
           "Mã": "4010433",
           "Tên": "Thùng Coleman giữ lạnh  2000027863 - 56L - Xanh - tay kéo (4104)",
-          "Số lượng tồn": 75
+          "Số lượng tồn": 71
         },
         {
           "Mã": "4010434",
@@ -583,7 +583,7 @@
         {
           "Mã": "4010437",
           "Tên": "Thùng Coleman giữ lạnh 2000027864 - 56L - Đỏ - tay kéo (4111)",
-          "Số lượng tồn": 108
+          "Số lượng tồn": 104
         },
         {
           "Mã": "4010440",
@@ -593,7 +593,7 @@
         {
           "Mã": "4010441",
           "Tên": "Thùng Coleman giữ lạnh 3004025 (1257078 ) - 58L - Xanh (2791)",
-          "Số lượng tồn": 62
+          "Số lượng tồn": 61
         },
         {
           "Mã": "4010450",
@@ -1218,7 +1218,7 @@
         {
           "Mã": "4050002",
           "Tên": "Bình uống nước Coleman - 0.5L - 200016355- nhôm (3407)",
-          "Số lượng tồn": 9
+          "Số lượng tồn": 10
         },
         {
           "Mã": "4050003",
@@ -1273,12 +1273,12 @@
         {
           "Mã": "4050017",
           "Tên": "Ly uống nước (giữ nhiệt)  Coleman 2016916 - 600ml - Đen    (1791)",
-          "Số lượng tồn": 110
+          "Số lượng tồn": 108
         },
         {
           "Mã": "4050018",
           "Tên": "Ly uống nước (giữ nhiệt)  Coleman 2148890 - 600ml - Xanh   (8725)",
-          "Số lượng tồn": 114
+          "Số lượng tồn": 113
         },
         {
           "Mã": "4050020",
@@ -1343,7 +1343,7 @@
         {
           "Mã": "4050043",
           "Tên": "Bơm pin Coleman 200021937 (4D) (0383)",
-          "Số lượng tồn": 55
+          "Số lượng tồn": 56
         },
         {
           "Mã": "4050044",
@@ -1483,7 +1483,7 @@
         {
           "Mã": "4070014",
           "Tên": "Ghế xếp Coleman 2219647 (lưng ngã)    (6575)",
-          "Số lượng tồn": 13
+          "Số lượng tồn": 8
         },
         {
           "Mã": "4070015",
@@ -1633,7 +1633,7 @@
         {
           "Mã": "4070056",
           "Tên": "Ghế xếp Coleman 2205815 - 630x560x410 (4304)",
-          "Số lượng tồn": 9
+          "Số lượng tồn": 5
         },
         {
           "Mã": "4070057",
@@ -1653,7 +1653,7 @@
         {
           "Mã": "4070063",
           "Tên": "Ghế xếp Coleman 2205814 - 610x800x410    (4564)",
-          "Số lượng tồn": 9
+          "Số lượng tồn": 6
         },
         {
           "Mã": "4070064",
@@ -1793,7 +1793,7 @@
         {
           "Mã": "4070111",
           "Tên": "Ghế  xếp Coleman 2219646 (lưng ngã)     (6568)",
-          "Số lượng tồn": 13
+          "Số lượng tồn": 11
         },
         {
           "Mã": "4070112",
@@ -1803,7 +1803,7 @@
         {
           "Mã": "4070113",
           "Tên": "Ghế xếp Coleman 2219643  (ngã lưng)  (6537)",
-          "Số lượng tồn": 12
+          "Số lượng tồn": 11
         },
         {
           "Mã": "4070114",
@@ -2008,7 +2008,7 @@
         {
           "Mã": "4080032",
           "Tên": "Lều cắm trại 4-5 người Screen 2-Room House Coleman 2000036438 (2127)",
-          "Số lượng tồn": 19
+          "Số lượng tồn": 18
         },
         {
           "Mã": "4080033",
@@ -2436,14 +2436,9 @@
           "Số lượng tồn": 1
         },
         {
-          "Mã": "4100001",
-          "Tên": "Đèn 4 trong 1 Coleman 200006666 (1052)",
-          "Số lượng tồn": 2
-        },
-        {
           "Mã": "4100002",
           "Tên": "Đèn bàn CPX 6V Coleman 2000009456 (2189)",
-          "Số lượng tồn": 40
+          "Số lượng tồn": 43
         },
         {
           "Mã": "4100003",
@@ -2453,102 +2448,82 @@
         {
           "Mã": "4100006",
           "Tên": "Đèn dây đeo đầu Coleman 20001127 (25915) - sử dung 2 pin CR2032  (8014)",
-          "Số lượng tồn": 16
+          "Số lượng tồn": 29
         },
         {
           "Mã": "4100008",
           "Tên": "Đèn dây đeo đầu CHT4 Coleman 20000012753 - Xanh/ đen (4329)",
-          "Số lượng tồn": 16
-        },
-        {
-          "Mã": "4100010",
-          "Tên": "Đèn dây đeo đầu Coleman 2000013181 (22295) - 1371311 (0596)",
-          "Số lượng tồn": 1
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100011",
-          "Tên": "Đèn dây đeo đầu Coleman 2000013169 - 1371221 (0565)",
-          "Số lượng tồn": 15
+          "Tên": "Đèn dây đeo đầu Coleman 2000013169 - 1371221 - 22296 (0565)",
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100016",
           "Tên": "Đèn đeo đầu 2AA Coleman 2000022285 - 1371220 (0541)",
-          "Số lượng tồn": 5
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100017",
           "Tên": "Đèn đeo đầu 3 AAA Coleman 2000022286 - 1371309 (0572)",
-          "Số lượng tồn": 5
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100018",
           "Tên": "Đèn đeo đầu 3 AAA Coleman 2000022292 - 1371310 (0589)",
-          "Số lượng tồn": 6
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100020",
           "Tên": "Đèn đeo đầu CHT15 Coleman 2000012262 (4381)",
-          "Số lượng tồn": 46
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100021",
           "Tên": "Đèn đeo đầu CHT7 Coleman 2000012260 (4336)",
-          "Số lượng tồn": 3
-        },
-        {
-          "Mã": "4100025",
-          "Tên": "Đèn đeo đầu 3AAA Coleman 2000002659 (0246)",
-          "Số lượng tồn": 4
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100028",
           "Tên": "Đèn đeo đầu  Coleman 20000027312 (1036)",
-          "Số lượng tồn": 16
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100040",
           "Tên": "Đèn dây Led Coleman 2000001475 (8427)",
-          "Số lượng tồn": 11
+          "Số lượng tồn": 6
         },
         {
           "Mã": "4100045",
           "Tên": "Đèn lều Coleman 2000012936 (200000032) (8724)",
-          "Số lượng tồn": 1
-        },
-        {
-          "Mã": "4100046",
-          "Tên": "Đèn lều Coleman 2000034607 (Mẫu)",
-          "Số lượng tồn": 1
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100050",
           "Tên": "Đèn 2 cạnh CPX 6V Coleman 2000008548 (0185)",
-          "Số lượng tồn": 1
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100051",
           "Tên": "Đèn 4 cạnh Coleman - 2000001150 (8137)",
-          "Số lượng tồn": 2
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100055",
           "Tên": "Đèn lồng Led  CPX6V Coleman 2000008550 (0208)",
-          "Số lượng tồn": -1
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100056",
           "Tên": "Đèn lồng Led CPX6V Coleman 2000006663       (1021)",
-          "Số lượng tồn": 3
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100057",
           "Tên": "Đèn lồng Led CPX6V Coleman 2000008546     (0147)",
           "Số lượng tồn": 3
-        },
-        {
-          "Mã": "4100058",
-          "Tên": "Đèn lồng đôi CPX6V Coleman 2000009457 (2196)",
-          "Số lượng tồn": -1
         },
         {
           "Mã": "4100060",
@@ -2573,7 +2548,7 @@
         {
           "Mã": "4100075",
           "Tên": "Đèn Coleman 2000016986 (9616) (2318)",
-          "Số lượng tồn": 21
+          "Số lượng tồn": 18
         },
         {
           "Mã": "4100076",
@@ -2583,42 +2558,32 @@
         {
           "Mã": "4100082",
           "Tên": "Đèn pin  2AAA Coleman 2000022306 (1371312) (0602)",
-          "Số lượng tồn": 22
-        },
-        {
-          "Mã": "4100083",
-          "Tên": "Đèn 2AAA Coleman 2000009515 (2693) (9950)",
-          "Số lượng tồn": 2
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100086",
           "Tên": "Đèn 3AAA Coleman 2000022293 - 1371313 (0619)",
-          "Số lượng tồn": 3
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100087",
           "Tên": "Đèn 3AAA Coleman 2000022294 - 1371314 (0626)",
-          "Số lượng tồn": 10
-        },
-        {
-          "Mã": "4100088",
-          "Tên": "Đèn 3AAA Coleman 3693 (Không pin)",
-          "Số lượng tồn": 43
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100090",
           "Tên": "Đèn 4AA Coleman 2000022290 - 1371315     (0633)",
-          "Số lượng tồn": 3
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100092",
           "Tên": "Đèn 6AA Coleman 2000022291 - 1371316 (0640)",
-          "Số lượng tồn": 4
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100095",
           "Tên": "Đèn 2D Coleman 20000003681 (9691)",
-          "Số lượng tồn": 9
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100096",
@@ -2628,42 +2593,42 @@
         {
           "Mã": "4100107",
           "Tên": "Đèn Glowstick Coleman 2000015221 (6163)",
-          "Số lượng tồn": 22
+          "Số lượng tồn": 9
         },
         {
           "Mã": "4100110",
           "Tên": "Đèn CPX6V Coleman 2000008544 (0178)",
-          "Số lượng tồn": 5
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100111",
           "Tên": "Đèn rọi CPX6V Coleman 2000006664     (1038)",
-          "Số lượng tồn": 26
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100113",
           "Tên": "Đèn pin xách tay 20027298 (1408086) (0893)",
-          "Số lượng tồn": 5
+          "Số lượng tồn": 7
         },
         {
           "Mã": "4100114",
           "Tên": "Đèn pin xách tay 200027296 (1408079) (0879)",
-          "Số lượng tồn": 5
+          "Số lượng tồn": 8
         },
         {
           "Mã": "4100118",
           "Tên": "Đèn Măng Xông Powerhouse Coleman 30000000946 (2083)",
-          "Số lượng tồn": -1
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100120",
           "Tên": "Đèn pin xách tay 200025912 (0917)",
-          "Số lượng tồn": 14
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100121",
           "Tên": "Đèn pin xách tay 200038854 (8082)",
-          "Số lượng tồn": 36
+          "Số lượng tồn": 35
         },
         {
           "Mã": "4100122",
@@ -2677,18 +2642,13 @@
         },
         {
           "Mã": "4100124",
-          "Tên": "Đèn Măng Xông Christmas Santa Coleman 2215932 - Xanh -  (5909)",
+          "Tên": "Đèn Măng Xông Christmas Santa Coleman 2215932 - Xanh (5909)",
           "Số lượng tồn": 1
         },
         {
           "Mã": "4100125",
           "Tên": "Đèn dùng cho TGN Coleman 2000006665 (1045)",
           "Số lượng tồn": 0
-        },
-        {
-          "Mã": "4100127",
-          "Tên": "Đèn xách tay 600 - 200038859 (Mẫu 01.01.23)",
-          "Số lượng tồn": 1
         },
         {
           "Mã": "4100138",
@@ -2698,7 +2658,7 @@
         {
           "Mã": "4100145",
           "Tên": "Đèn Gương Millenium Lantern 6D Coleman 000022276 (0442)",
-          "Số lượng tồn": 8
+          "Số lượng tồn": 0
         },
         {
           "Mã": "4100150",
@@ -3303,12 +3263,12 @@
         {
           "Mã": "4190006",
           "Tên": "Cục nhựa làm lạnh Coleman 1237259 - 6 lon        (9153)",
-          "Số lượng tồn": 1692
+          "Số lượng tồn": 1691
         },
         {
           "Mã": "4190008",
           "Tên": "Cục nhựa làm lạnh Coleman 1237168 - 750ml     (9139)",
-          "Số lượng tồn": 524
+          "Số lượng tồn": 519
         },
         {
           "Mã": "4190009",
@@ -3621,7 +3581,7 @@
           "Số lượng tồn": null
         }
       ],
-      "total_products": 722,
+      "total_products": 714,
       "columns": [
         "Mã",
         "Tên",
@@ -4054,8 +4014,8 @@
           "Mã": 1,
           "PRODUCTS": "Gel chống nắng Azarine Hydrasoothe Sunscreen - SPF 45 - 50ml (1791)",
           "LOT": "2703",
-          "TỒN ĐẦU KỲ": 887,
-          "CLOSING STOCK/": 885,
+          "TỒN ĐẦU KỲ": 879,
+          "CLOSING STOCK/": 879,
           "% Còn lại": 40.8,
           "Ngày hết hạn": "31/03/2027"
         },
@@ -4063,7 +4023,7 @@
           "Mã": 1,
           "PRODUCTS": "Gel chống nắng Azarine Sunscreen HydraMac C - SPF 50 - 40ml  (2194)",
           "LOT": "2703",
-          "TỒN ĐẦU KỲ": 671,
+          "TỒN ĐẦU KỲ": 669,
           "CLOSING STOCK/": 669,
           "% Còn lại": 40.8,
           "Ngày hết hạn": "31/03/2027"
@@ -4081,8 +4041,8 @@
           "Mã": 1,
           "PRODUCTS": "Kem dưỡng ấm chống nắng - Azarine Sunscreen Cicamide Barrier - SPF 35 - 40g  (Xanh dương) (2606)",
           "LOT": "2709",
-          "TỒN ĐẦU KỲ": 618,
-          "CLOSING STOCK/": 618,
+          "TỒN ĐẦU KỲ": 612,
+          "CLOSING STOCK/": 612,
           "% Còn lại": 57.5,
           "Ngày hết hạn": "30/09/2027"
         },
@@ -4090,8 +4050,8 @@
           "Mã": 1,
           "PRODUCTS": "Kem dưỡng ấm chống nắng - Azarine Sunscreen Calm My Acne  - SPF 35 - 40g (Xanh lá) (2590)",
           "LOT": "2703",
-          "TỒN ĐẦU KỲ": 229,
-          "CLOSING STOCK/": 229,
+          "TỒN ĐẦU KỲ": 221,
+          "CLOSING STOCK/": 221,
           "% Còn lại": 40.8,
           "Ngày hết hạn": "31/03/2027"
         },
@@ -4108,8 +4068,8 @@
           "Mã": 1,
           "PRODUCTS": "Gel dưỡng ấm chống nắng toàn thân - Azarine Sunscreen Sweet Treats Baby - SPF 50 - 100ml  (Hồng) (2460)",
           "LOT": "2709",
-          "TỒN ĐẦU KỲ": 1181,
-          "CLOSING STOCK/": 1171,
+          "TỒN ĐẦU KỲ": 1159,
+          "CLOSING STOCK/": 1159,
           "% Còn lại": 57.5,
           "Ngày hết hạn": "30/09/2027"
         },
@@ -4117,8 +4077,8 @@
           "Mã": 1,
           "PRODUCTS": "Gel dưỡng ấm chống nắng  toàn thân  - Azarine Sunscreen Magical LUV - SPF 50 - 100ml  (Tím) (2439)",
           "LOT": "2710",
-          "TỒN ĐẦU KỲ": 1012,
-          "CLOSING STOCK/": 997,
+          "TỒN ĐẦU KỲ": 980,
+          "CLOSING STOCK/": 974,
           "% Còn lại": 60.4,
           "Ngày hết hạn": "31/10/2027"
         }
@@ -4140,27 +4100,27 @@
         {
           "Mã": 1,
           "PRODUCTS": "Bột Tẩy Rửa Đa Năng Baking Soda 226g - Scratchless Cleaning (1309)",
-          "LOT": "2805",
-          "TỒN ĐẦU KỲ": 9707,
-          "CLOSING STOCK/": 4334,
-          "% Còn lại": 79.8,
-          "Ngày hết hạn": "31/05/2028"
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 12672,
+          "CLOSING STOCK/": 12669,
+          "% Còn lại": 85.4,
+          "Ngày hết hạn": "31/07/2028"
         },
         {
           "Mã": 2,
           "PRODUCTS": "Bột Tẩy Rửa Đa Năng Baking Soda 226g - Scratchless Cleaning (1309)",
-          "LOT": "2807",
-          "TỒN ĐẦU KỲ": 12672,
-          "CLOSING STOCK/": 12672,
-          "% Còn lại": 85.4,
-          "Ngày hết hạn": "31/07/2028"
+          "LOT": "2805",
+          "TỒN ĐẦU KỲ": 1884,
+          "CLOSING STOCK/": 609,
+          "% Còn lại": 79.8,
+          "Ngày hết hạn": "31/05/2028"
         },
         {
           "Mã": 1,
           "PRODUCTS": "Bột Đa Năng Baking Soda 500g - Scratchless Cleaning (2987)",
           "LOT": "2712",
-          "TỒN ĐẦU KỲ": 13320,
-          "CLOSING STOCK/": 8837,
+          "TỒN ĐẦU KỲ": 7191,
+          "CLOSING STOCK/": 5595,
           "% Còn lại": 65.9,
           "Ngày hết hạn": "31/12/2027"
         },
@@ -4177,8 +4137,8 @@
           "Mã": 3,
           "PRODUCTS": "Bột Đa Năng Baking Soda 500g - Scratchless Cleaning (2987)",
           "LOT": "2603",
-          "TỒN ĐẦU KỲ": 5638,
-          "CLOSING STOCK/": 5425,
+          "TỒN ĐẦU KỲ": 5325,
+          "CLOSING STOCK/": 5304,
           "% Còn lại": 7.5,
           "Ngày hết hạn": "31/03/2026"
         },
@@ -4186,8 +4146,8 @@
           "Mã": 1,
           "PRODUCTS": "Bột Đa Năng Baking Soda 2.1kg - Scratchless Cleaning (2970)",
           "LOT": "2712",
-          "TỒN ĐẦU KỲ": 743,
-          "CLOSING STOCK/": 386,
+          "TỒN ĐẦU KỲ": 222,
+          "CLOSING STOCK/": 92,
           "% Còn lại": 65.9,
           "Ngày hết hạn": "31/12/2027"
         },
@@ -4196,7 +4156,7 @@
           "PRODUCTS": "Bột Đa Năng Baking Soda 2.1kg - Scratchless Cleaning (2970)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 2160,
-          "CLOSING STOCK/": 2160,
+          "CLOSING STOCK/": 2158,
           "% Còn lại": 85.4,
           "Ngày hết hạn": "31/07/2028"
         },
@@ -4204,31 +4164,13 @@
           "Mã": 1,
           "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
           "LOT": "2807",
-          "TỒN ĐẦU KỲ": 31104,
-          "CLOSING STOCK/": 10487,
+          "TỒN ĐẦU KỲ": 5102,
+          "CLOSING STOCK/": 3432,
           "% Còn lại": 85.4,
           "Ngày hết hạn": "31/07/2028"
         },
         {
           "Mã": 2,
-          "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
-          "LOT": "2805",
-          "TỒN ĐẦU KỲ": 480,
-          "CLOSING STOCK/": 0,
-          "% Còn lại": 79.8,
-          "Ngày hết hạn": "31/05/2028"
-        },
-        {
-          "Mã": 3,
-          "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
-          "LOT": "2806",
-          "TỒN ĐẦU KỲ": 7464,
-          "CLOSING STOCK/": 0,
-          "% Còn lại": 82.6,
-          "Ngày hết hạn": "30/06/2028"
-        },
-        {
-          "Mã": 4,
           "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
           "LOT": "2312",
           "TỒN ĐẦU KỲ": 1896,
@@ -4237,11 +4179,11 @@
           "Ngày hết hạn": "31/12/2023"
         },
         {
-          "Mã": 5,
+          "Mã": 3,
           "PRODUCTS": "Muối Nổi Baking Soda 453g - Fresh Box (1101)",
           "LOT": "1907",
-          "TỒN ĐẦU KỲ": 101,
-          "CLOSING STOCK/": 101,
+          "TỒN ĐẦU KỲ": 102,
+          "CLOSING STOCK/": 102,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -4249,58 +4191,22 @@
           "Mã": 1,
           "PRODUCTS": "Muối Nổi Baking Soda 100g - Fresh Box (5854)",
           "LOT": "2807",
-          "TỒN ĐẦU KỲ": 758,
+          "TỒN ĐẦU KỲ": 65,
           "CLOSING STOCK/": 65,
           "% Còn lại": 85.4,
           "Ngày hết hạn": "31/07/2028"
         },
         {
-          "Mã": 2,
-          "PRODUCTS": "Muối Nổi Baking Soda 100g - Fresh Box (5854)",
-          "LOT": "2712",
-          "TỒN ĐẦU KỲ": 1605,
-          "CLOSING STOCK/": 0,
-          "% Còn lại": 65.9,
-          "Ngày hết hạn": "31/12/2027"
-        },
-        {
-          "Mã": 1,
-          "PRODUCTS": "Muối Nổi Baking Soda 100g (Mẫu thử)",
-          "LOT": "1907",
-          "TỒN ĐẦU KỲ": 3140,
-          "CLOSING STOCK/": 0,
-          "% Còn lại": 0,
-          "Ngày hết hạn": "31/07/2019"
-        },
-        {
           "Mã": 1,
           "PRODUCTS": "Bột Đa Năng Baking Soda 1,81kg - One Box (1705)",
           "LOT": "2704",
-          "TỒN ĐẦU KỲ": null,
-          "CLOSING STOCK/": null,
+          "TỒN ĐẦU KỲ": 5,
+          "CLOSING STOCK/": 5,
           "% Còn lại": 43.6,
           "Ngày hết hạn": "30/04/2027"
         },
         {
           "Mã": 1,
-          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
-          "LOT": "2401",
-          "TỒN ĐẦU KỲ": 5008,
-          "CLOSING STOCK/": 5008,
-          "% Còn lại": 0,
-          "Ngày hết hạn": "31/01/2024"
-        },
-        {
-          "Mã": 2,
-          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
-          "LOT": "2312",
-          "TỒN ĐẦU KỲ": 3517,
-          "CLOSING STOCK/": 3517,
-          "% Còn lại": 0,
-          "Ngày hết hạn": "31/12/2023"
-        },
-        {
-          "Mã": 3,
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
           "LOT": "2402",
           "TỒN ĐẦU KỲ": 10898,
@@ -4309,7 +4215,7 @@
           "Ngày hết hạn": "29/02/2024"
         },
         {
-          "Mã": 4,
+          "Mã": 2,
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
           "LOT": "2404",
           "TỒN ĐẦU KỲ": 58,
@@ -4318,11 +4224,29 @@
           "Ngày hết hạn": "30/04/2024"
         },
         {
+          "Mã": 3,
+          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
+          "LOT": "2401",
+          "TỒN ĐẦU KỲ": 5008,
+          "CLOSING STOCK/": 5008,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/01/2024"
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6700)",
+          "LOT": "2312",
+          "TỒN ĐẦU KỲ": 3517,
+          "CLOSING STOCK/": 3517,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/2023"
+        },
+        {
           "Mã": 1,
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6592)",
           "LOT": "2804",
           "TỒN ĐẦU KỲ": 1680,
-          "CLOSING STOCK/": 1680,
+          "CLOSING STOCK/": 1548,
           "% Còn lại": 77.0,
           "Ngày hết hạn": "30/04/2028"
         },
@@ -4330,8 +4254,8 @@
           "Mã": 2,
           "PRODUCTS": "Muối Nổi Rửa Rau Quả Baking Soda 340g (6592)",
           "LOT": "2712",
-          "TỒN ĐẦU KỲ": 1265,
-          "CLOSING STOCK/": 538,
+          "TỒN ĐẦU KỲ": 96,
+          "CLOSING STOCK/": 0,
           "% Còn lại": 65.9,
           "Ngày hết hạn": "31/12/2027"
         },
@@ -4339,7 +4263,7 @@
           "Mã": 1,
           "PRODUCTS": "Bột Khử Mùi Tủ Lạnh Baking Soda 396,8g - Fridge-N-Freezer (0204)",
           "LOT": "2806",
-          "TỒN ĐẦU KỲ": 458,
+          "TỒN ĐẦU KỲ": 199,
           "CLOSING STOCK/": 199,
           "% Còn lại": 82.6,
           "Ngày hết hạn": "30/06/2028"
@@ -4365,24 +4289,6 @@
         {
           "Mã": 1,
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
-          "LOT": "2401",
-          "TỒN ĐẦU KỲ": 495,
-          "CLOSING STOCK/": 495,
-          "% Còn lại": 0,
-          "Ngày hết hạn": "31/01/2024"
-        },
-        {
-          "Mã": 2,
-          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
-          "LOT": "2312",
-          "TỒN ĐẦU KỲ": 489,
-          "CLOSING STOCK/": 489,
-          "% Còn lại": 0,
-          "Ngày hết hạn": "31/12/2023"
-        },
-        {
-          "Mã": 3,
-          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "2402",
           "TỒN ĐẦU KỲ": 544,
           "CLOSING STOCK/": 544,
@@ -4390,7 +4296,7 @@
           "Ngày hết hạn": "29/02/2024"
         },
         {
-          "Mã": 4,
+          "Mã": 2,
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 7,
@@ -4399,25 +4305,43 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 5,
+          "Mã": 3,
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "2609",
-          "TỒN ĐẦU KỲ": 240,
-          "CLOSING STOCK/": 211,
+          "TỒN ĐẦU KỲ": 211,
+          "CLOSING STOCK/": 209,
           "% Còn lại": 24.2,
           "Ngày hết hạn": "30/09/2026"
+        },
+        {
+          "Mã": 4,
+          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
+          "LOT": "2401",
+          "TỒN ĐẦU KỲ": 495,
+          "CLOSING STOCK/": 495,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/01/2024"
+        },
+        {
+          "Mã": 5,
+          "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
+          "LOT": "2312",
+          "TỒN ĐẦU KỲ": 489,
+          "CLOSING STOCK/": 489,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/12/2023"
         },
         {
           "Mã": 6,
           "PRODUCTS": "Bột Khử Mùi Baking Soda 340g - Fresh-N-Natural (4604)",
           "LOT": "2802",
-          "TỒN ĐẦU KỲ": 463,
-          "CLOSING STOCK/": 209,
+          "TỒN ĐẦU KỲ": 161,
+          "CLOSING STOCK/": 89,
           "% Còn lại": 71.4,
           "Ngày hết hạn": "29/02/2028"
         }
       ],
-      "total_products": 31,
+      "total_products": 27,
       "columns": [
         "Mã",
         "PRODUCTS",
@@ -4492,8 +4416,8 @@
           "Ngày hết hạn": "30/09/2029"
         },
         {
-          "Mã": 1,
-          "PRODUCTS": "Pin Fujitsu - LR6(4B) FU-W-FI  - AA       (3005)",
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - LR6(2B) FU-W-FI  - AA       (2404)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 1,
           "CLOSING STOCK/": 1,
@@ -4503,10 +4427,20 @@
         },
         {
           "Mã": 1,
+          "PRODUCTS": "Pin Fujitsu - LR6(4B) FU-W-FI  - AA       (3005)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 2,
+          "CLOSING STOCK/": 2,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
+          "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - LR03(2B) FU-W- FI - AAA     (3500)",
           "LOT": "2909",
-          "TỒN ĐẦU KỲ": 20312,
-          "CLOSING STOCK/": 18921,
+          "TỒN ĐẦU KỲ": 19059,
+          "CLOSING STOCK/": 18749,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 124.3,
           "Ngày hết hạn": "30/09/2029"
@@ -4515,8 +4449,8 @@
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - LR03(4B) FU-W-FI - AAA    (5504)",
           "LOT": "1907",
-          "TỒN ĐẦU KỲ": 90,
-          "CLOSING STOCK/": 90,
+          "TỒN ĐẦU KỲ": 102,
+          "CLOSING STOCK/": 102,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
@@ -4535,8 +4469,8 @@
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - 6LF22(1B) - FU - A-G - 9V   (6600)",
           "LOT": "1907",
-          "TỒN ĐẦU KỲ": null,
-          "CLOSING STOCK/": null,
+          "TỒN ĐẦU KỲ": 4,
+          "CLOSING STOCK/": 4,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
@@ -4565,8 +4499,8 @@
           "Mã": 2,
           "PRODUCTS": "Pin Fujitsu - LR03(6B) FU-W-FI - AAA    (5807)",
           "LOT": "2904",
-          "TỒN ĐẦU KỲ": 171,
-          "CLOSING STOCK/": 155,
+          "TỒN ĐẦU KỲ": 155,
+          "CLOSING STOCK/": 125,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 110.3,
           "Ngày hết hạn": "30/04/2029"
@@ -4574,22 +4508,22 @@
         {
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - LR6(8B) FU-W-FI  - AA       (9907)",
+          "LOT": "2909",
+          "TỒN ĐẦU KỲ": 424,
+          "CLOSING STOCK/": 424,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 124.3,
+          "Ngày hết hạn": "30/09/2029"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - LR6(8B) FU-W-FI  - AA       (9907)",
           "LOT": "2609",
           "TỒN ĐẦU KỲ": 6,
           "CLOSING STOCK/": 6,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 24.2,
           "Ngày hết hạn": "30/09/2026"
-        },
-        {
-          "Mã": 2,
-          "PRODUCTS": "Pin Fujitsu - LR6(8B) FU-W-FI  - AA       (9907)",
-          "LOT": "2909",
-          "TỒN ĐẦU KỲ": 426,
-          "CLOSING STOCK/": 424,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 124.3,
-          "Ngày hết hạn": "30/09/2029"
         },
         {
           "Mã": 1,
@@ -4604,25 +4538,15 @@
         {
           "Mã": 2,
           "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
-          "LOT": "2712",
-          "TỒN ĐẦU KỲ": 19,
-          "CLOSING STOCK/": 19,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 65.9,
-          "Ngày hết hạn": "31/12/2027"
-        },
-        {
-          "Mã": 3,
-          "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
           "LOT": "2904",
-          "TỒN ĐẦU KỲ": 324,
+          "TỒN ĐẦU KỲ": 304,
           "CLOSING STOCK/": 304,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 110.3,
           "Ngày hết hạn": "30/04/2029"
         },
         {
-          "Mã": 4,
+          "Mã": 3,
           "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
           "LOT": "2906",
           "TỒN ĐẦU KỲ": 400,
@@ -4632,11 +4556,21 @@
           "Ngày hết hạn": "30/06/2029"
         },
         {
+          "Mã": 4,
+          "PRODUCTS": "Pin Fujitsu - LR03(8B) FU-W-FI - AAA    (3901)",
+          "LOT": "2712",
+          "TỒN ĐẦU KỲ": 19,
+          "CLOSING STOCK/": 19,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 65.9,
+          "Ngày hết hạn": "31/12/2027"
+        },
+        {
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - LR03(4B+2B) FU-W-FI - AAA    (5504)",
           "LOT": "1907",
-          "TỒN ĐẦU KỲ": 24,
-          "CLOSING STOCK/": -564,
+          "TỒN ĐẦU KỲ": -709,
+          "CLOSING STOCK/": -966,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
@@ -4650,16 +4584,6 @@
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
-        },
-        {
-          "Mã": 2,
-          "PRODUCTS": "Pin Fujitsu Premium - LR6(2B) FP-W-FI - AA      (2804)",
-          "LOT": "3209",
-          "TỒN ĐẦU KỲ": null,
-          "CLOSING STOCK/": null,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 224.4,
-          "Ngày hết hạn": "30/09/2032"
         },
         {
           "Mã": 1,
@@ -4685,8 +4609,8 @@
           "Mã": 2,
           "PRODUCTS": "Pin Fujitsu Premium - LR03(2B) FP-W-FI  - AAA    (0501)",
           "LOT": "3209",
-          "TỒN ĐẦU KỲ": 228,
-          "CLOSING STOCK/": 186,
+          "TỒN ĐẦU KỲ": 186,
+          "CLOSING STOCK/": 151,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 224.4,
           "Ngày hết hạn": "30/09/2032"
@@ -4714,22 +4638,22 @@
         {
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - R6N/2300(SP4) - 3N(4S)FJ-EUNAB - AA   (1309)",
-          "LOT": "2902",
-          "TỒN ĐẦU KỲ": 22800,
-          "CLOSING STOCK/": 22800,
-          "Thời hạn (tháng)": 40,
-          "% Còn lại": 94.2,
-          "Ngày hết hạn": "28/02/2029"
-        },
-        {
-          "Mã": 2,
-          "PRODUCTS": "Pin Fujitsu - R6N/2300(SP4) - 3N(4S)FJ-EUNAB - AA   (1309)",
           "LOT": "2712",
-          "TỒN ĐẦU KỲ": 215,
+          "TỒN ĐẦU KỲ": 200,
           "CLOSING STOCK/": 200,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 65.9,
           "Ngày hết hạn": "31/12/2027"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R6N/2300(SP4) - 3N(4S)FJ-EUNAB - AA   (1309)",
+          "LOT": "2902",
+          "TỒN ĐẦU KỲ": 22800,
+          "CLOSING STOCK/": 22800,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 104.7,
+          "Ngày hết hạn": "28/02/2029"
         },
         {
           "Mã": 3,
@@ -4745,7 +4669,7 @@
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - R03N/2400(SP2) - R03N(2S)FJEUNIC -  AAA   (1408)",
           "LOT": "2807",
-          "TỒN ĐẦU KỲ": 52780,
+          "TỒN ĐẦU KỲ": 52760,
           "CLOSING STOCK/": 52760,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 85.4,
@@ -4753,16 +4677,6 @@
         },
         {
           "Mã": 2,
-          "PRODUCTS": "Pin Fujitsu - R03N/2400(SP2) - R03N(2S)FJEUNIC -  AAA   (1408)",
-          "LOT": "2810",
-          "TỒN ĐẦU KỲ": 0,
-          "CLOSING STOCK/": 0,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 93.8,
-          "Ngày hết hạn": "31/10/2028"
-        },
-        {
-          "Mã": 3,
           "PRODUCTS": "Pin Fujitsu - R03N/2400(SP2) - R03N(2S)FJEUNIC -  AAA   (1408)",
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 52800,
@@ -4804,32 +4718,32 @@
         {
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
-          "LOT": "2804",
-          "TỒN ĐẦU KỲ": 6400,
-          "CLOSING STOCK/": 2326,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 77.0,
-          "Ngày hết hạn": "30/04/2028"
-        },
-        {
-          "Mã": 2,
-          "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
-          "LOT": "2710",
-          "TỒN ĐẦU KỲ": 2767,
-          "CLOSING STOCK/": 13,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 60.4,
-          "Ngày hết hạn": "31/10/2027"
-        },
-        {
-          "Mã": 3,
-          "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 6400,
           "CLOSING STOCK/": 6400,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 85.4,
           "Ngày hết hạn": "31/07/2028"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
+          "LOT": "2804",
+          "TỒN ĐẦU KỲ": 1721,
+          "CLOSING STOCK/": 1371,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 77.0,
+          "Ngày hết hạn": "30/04/2028"
+        },
+        {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R6/2300(BP4) - 3N(4B)FJ-EUNAB - AA   (2306)",
+          "LOT": "2710",
+          "TỒN ĐẦU KỲ": 3,
+          "CLOSING STOCK/": 0,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 60.4,
+          "Ngày hết hạn": "31/10/2027"
         },
         {
           "Mã": 1,
@@ -4845,8 +4759,8 @@
           "Mã": 2,
           "PRODUCTS": "Pin Fujitsu - R03/2400(BP4) - R03N(4B)FJEUNIC -  AAA   (3402)",
           "LOT": "2804",
-          "TỒN ĐẦU KỲ": 10200,
-          "CLOSING STOCK/": 10200,
+          "TỒN ĐẦU KỲ": 10190,
+          "CLOSING STOCK/": 10190,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 77.0,
           "Ngày hết hạn": "30/04/2028"
@@ -4855,8 +4769,8 @@
           "Mã": 3,
           "PRODUCTS": "Pin Fujitsu - R03/2400(BP4) - R03N(4B)FJEUNIC -  AAA   (3402)",
           "LOT": "2709",
-          "TỒN ĐẦU KỲ": 11999,
-          "CLOSING STOCK/": 11177,
+          "TỒN ĐẦU KỲ": 10553,
+          "CLOSING STOCK/": 10272,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 57.5,
           "Ngày hết hạn": "30/09/2027"
@@ -4864,25 +4778,15 @@
         {
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
-          "LOT": "1907",
-          "TỒN ĐẦU KỲ": 9,
-          "CLOSING STOCK/": 9,
+          "LOT": "2807",
+          "TỒN ĐẦU KỲ": 2726,
+          "CLOSING STOCK/": 2277,
           "Thời hạn (tháng)": 36,
-          "% Còn lại": 0,
-          "Ngày hết hạn": "31/07/2019"
+          "% Còn lại": 85.4,
+          "Ngày hết hạn": "31/07/2028"
         },
         {
           "Mã": 2,
-          "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
-          "LOT": "2804",
-          "TỒN ĐẦU KỲ": 0,
-          "CLOSING STOCK/": 0,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 77.0,
-          "Ngày hết hạn": "30/04/2028"
-        },
-        {
-          "Mã": 3,
           "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
           "LOT": "2810",
           "TỒN ĐẦU KỲ": 8760,
@@ -4892,17 +4796,7 @@
           "Ngày hết hạn": "31/10/2028"
         },
         {
-          "Mã": 4,
-          "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
-          "LOT": "2807",
-          "TỒN ĐẦU KỲ": 5069,
-          "CLOSING STOCK/": 3060,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 85.4,
-          "Ngày hết hạn": "31/07/2028"
-        },
-        {
-          "Mã": 5,
+          "Mã": 3,
           "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 26880,
@@ -4912,11 +4806,21 @@
           "Ngày hết hạn": "28/02/2029"
         },
         {
+          "Mã": 4,
+          "PRODUCTS": "Pin Fujitsu - R6(4B) F-GP - AA    (2115)",
+          "LOT": "1907",
+          "TỒN ĐẦU KỲ": 9,
+          "CLOSING STOCK/": 9,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 0,
+          "Ngày hết hạn": "31/07/2019"
+        },
+        {
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - R03(4B) F-GP - AAA     (3112)",
           "LOT": "2902",
-          "TỒN ĐẦU KỲ": 31332,
-          "CLOSING STOCK/": 24797,
+          "TỒN ĐẦU KỲ": 23513,
+          "CLOSING STOCK/": 22501,
           "Thời hạn (tháng)": 40,
           "% Còn lại": 94.2,
           "Ngày hết hạn": "28/02/2029"
@@ -4934,16 +4838,6 @@
         {
           "Mã": 2,
           "PRODUCTS": "Pin Fujitsu - R14(2B) F-GP - C       (1118)",
-          "LOT": "2612",
-          "TỒN ĐẦU KỲ": 396,
-          "CLOSING STOCK/": 396,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 32.6,
-          "Ngày hết hạn": "31/12/2026"
-        },
-        {
-          "Mã": 3,
-          "PRODUCTS": "Pin Fujitsu - R14(2B) F-GP - C       (1118)",
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 12,
           "CLOSING STOCK/": 12,
@@ -4952,17 +4846,17 @@
           "Ngày hết hạn": "31/07/2019"
         },
         {
-          "Mã": 1,
-          "PRODUCTS": "Pin Fujitsu - R20(2B) F-GP - D      (0111)",
-          "LOT": "2602",
-          "TỒN ĐẦU KỲ": 836,
-          "CLOSING STOCK/": 836,
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R14(2B) F-GP - C       (1118)",
+          "LOT": "2612",
+          "TỒN ĐẦU KỲ": 396,
+          "CLOSING STOCK/": 396,
           "Thời hạn (tháng)": 36,
-          "% Còn lại": 4.7,
-          "Ngày hết hạn": "28/02/2026"
+          "% Còn lại": 32.6,
+          "Ngày hết hạn": "31/12/2026"
         },
         {
-          "Mã": 2,
+          "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - R20(2B) F-GP - D      (0111)",
           "LOT": "2502",
           "TỒN ĐẦU KỲ": 123,
@@ -4970,6 +4864,16 @@
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "28/02/2025"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R20(2B) F-GP - D      (0111)",
+          "LOT": "2602",
+          "TỒN ĐẦU KỲ": 841,
+          "CLOSING STOCK/": 841,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 4.7,
+          "Ngày hết hạn": "28/02/2026"
         },
         {
           "Mã": 1,
@@ -4984,6 +4888,16 @@
         {
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
+          "LOT": "2612",
+          "TỒN ĐẦU KỲ": 5519,
+          "CLOSING STOCK/": 5519,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 32.6,
+          "Ngày hết hạn": "31/12/2026"
+        },
+        {
+          "Mã": 2,
+          "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
           "LOT": "2201",
           "TỒN ĐẦU KỲ": 2086,
           "CLOSING STOCK/": 2086,
@@ -4992,7 +4906,7 @@
           "Ngày hết hạn": "31/01/2022"
         },
         {
-          "Mã": 2,
+          "Mã": 3,
           "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
           "LOT": "2208",
           "TỒN ĐẦU KỲ": 2904,
@@ -5000,16 +4914,6 @@
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/08/2022"
-        },
-        {
-          "Mã": 3,
-          "PRODUCTS": "Pin Fujitsu - R6(4S) F-GP - AA       (8117)",
-          "LOT": "2612",
-          "TỒN ĐẦU KỲ": 11119,
-          "CLOSING STOCK/": 5519,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 32.6,
-          "Ngày hết hạn": "31/12/2026"
         },
         {
           "Mã": 4,
@@ -5034,16 +4938,6 @@
         {
           "Mã": 2,
           "PRODUCTS": "Pin Fujitsu - R03(2S) F-GP - AAA      (9169)",
-          "LOT": "2612",
-          "TỒN ĐẦU KỲ": 18950,
-          "CLOSING STOCK/": 18350,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 32.6,
-          "Ngày hết hạn": "31/12/2026"
-        },
-        {
-          "Mã": 3,
-          "PRODUCTS": "Pin Fujitsu - R03(2S) F-GP - AAA      (9169)",
           "LOT": "2604",
           "TỒN ĐẦU KỲ": 1128,
           "CLOSING STOCK/": 1128,
@@ -5052,10 +4946,20 @@
           "Ngày hết hạn": "30/04/2026"
         },
         {
+          "Mã": 3,
+          "PRODUCTS": "Pin Fujitsu - R03(2S) F-GP - AAA      (9169)",
+          "LOT": "2612",
+          "TỒN ĐẦU KỲ": 12350,
+          "CLOSING STOCK/": 12350,
+          "Thời hạn (tháng)": 36,
+          "% Còn lại": 32.6,
+          "Ngày hết hạn": "31/12/2026"
+        },
+        {
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - R14(2S) F-GP - C       (7110)",
           "LOT": "2612",
-          "TỒN ĐẦU KỲ": 2241,
+          "TỒN ĐẦU KỲ": 2041,
           "CLOSING STOCK/": 2041,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 32.6,
@@ -5075,7 +4979,7 @@
           "Mã": 1,
           "PRODUCTS": "Pin Fujitsu - R20(2S) F-GP - D         (6113)",
           "LOT": "2612",
-          "TỒN ĐẦU KỲ": 4893,
+          "TỒN ĐẦU KỲ": 4293,
           "CLOSING STOCK/": 4293,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 32.6,
@@ -5095,8 +4999,8 @@
           "Mã": 1,
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTCEX (2B) - AA - 1900mAh  (6148)",
           "LOT": "0000",
-          "TỒN ĐẦU KỲ": 89,
-          "CLOSING STOCK/": 72,
+          "TỒN ĐẦU KỲ": 70,
+          "CLOSING STOCK/": 70,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
@@ -5135,8 +5039,8 @@
           "Mã": 1,
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-4UTHCEX(2B) - AAA - 900mAh   (6124)",
           "LOT": "0000",
-          "TỒN ĐẦU KỲ": 58,
-          "CLOSING STOCK/": 40,
+          "TỒN ĐẦU KỲ": 38,
+          "CLOSING STOCK/": 38,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
@@ -5145,7 +5049,7 @@
           "Mã": 1,
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-4UTHCEX(4B) - AAA - 900mAh    (6131)",
           "LOT": "0000",
-          "TỒN ĐẦU KỲ": 236,
+          "TỒN ĐẦU KỲ": 222,
           "CLOSING STOCK/": 222,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
@@ -5155,8 +5059,8 @@
           "Mã": 1,
           "PRODUCTS": "Pin  Sạc Fujitsu - HR-3UTLA (4B) - AA - 1000mAh  (6711)",
           "LOT": "0000",
-          "TỒN ĐẦU KỲ": 110,
-          "CLOSING STOCK/": 108,
+          "TỒN ĐẦU KỲ": 108,
+          "CLOSING STOCK/": 107,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
@@ -5195,14 +5099,14 @@
           "Mã": 1,
           "PRODUCTS": "Máy Sạc Fujitsu - FCT 345FXEST(B) - 6hr - 4xAA-  2000mAh (6582)",
           "LOT": "0000",
-          "TỒN ĐẦU KỲ": 3,
+          "TỒN ĐẦU KỲ": 2,
           "CLOSING STOCK/": 2,
           "Thời hạn (tháng)": 36,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         }
       ],
-      "total_products": 77,
+      "total_products": 75,
       "columns": [
         "Mã",
         "PRODUCTS",
