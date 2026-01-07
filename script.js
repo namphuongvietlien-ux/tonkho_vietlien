@@ -123,12 +123,12 @@ async function loadInventoryData(preserveCurrentSheet = false) {
         switchToSheet(savedSheetIndex);
         
         // Ẩn thông báo không có dữ liệu
-        document.getElementById('no-data').style.display = 'none';
+        document.getElementById('no-data').classList.add('hidden');
         
     } catch (error) {
         console.error('Lỗi khi load dữ liệu:', error);
-        document.getElementById('no-data').style.display = 'block';
-        document.getElementById('sheet-contents').style.display = 'none';
+        document.getElementById('no-data').classList.remove('hidden');
+        document.getElementById('sheet-contents').classList.add('hidden');
     }
 }
 
@@ -257,8 +257,7 @@ function displayTableBody() {
         const cell = document.createElement('td');
         cell.colSpan = Object.keys(currentSheetProducts[0] || {}).length;
         cell.textContent = '⚠️ Không tìm thấy sản phẩm phù hợp';
-        cell.style.textAlign = 'center';
-        cell.style.padding = '30px';
+        cell.className = 'no-results-cell';
         row.appendChild(cell);
         tbody.appendChild(row);
         return;

@@ -16,7 +16,7 @@
             <div class="upload-section">
                 <label for="file-upload" class="upload-btn">
                     📂 Chọn File Excel
-                    <input type="file" id="file-upload" accept=".xlsx,.xls" style="display: none;">
+                    <input type="file" id="file-upload" accept=".xlsx,.xls" class="hidden">
                 </label>
                 <span id="file-name" class="file-name">Chưa chọn file</span>
                 <button id="process-btn" class="btn-process" disabled>⚡ Xử Lý File</button>
@@ -63,7 +63,7 @@
             <!-- Nội dung các sheet sẽ được tạo động -->
         </div>
 
-        <div id="no-data" class="no-data" style="display: none;">
+        <div id="no-data" class="no-data hidden">
             <p>⚠️ Không tìm thấy dữ liệu. Vui lòng chạy script convert_to_json.py trước.</p>
         </div>
 
