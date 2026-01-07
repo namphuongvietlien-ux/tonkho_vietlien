@@ -81,7 +81,10 @@ function setupFileUpload() {
                 
                 if (allSheets.length > 0) {
                     currentSheetIndex = 0;
-                    displayInventoryData();
+                    displayMetadata();
+                    createTabs();
+                    switchToSheet(0);
+                    document.getElementById('no-data').classList.add('hidden');
                 }
                 
                 alert('✓ Xử lý thành công!');
