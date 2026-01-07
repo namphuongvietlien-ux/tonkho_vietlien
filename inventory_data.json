@@ -2,7 +2,7 @@
   "metadata": {
     "date_ton_kho": "07/01/2026",
     "source_file": "01.Inventory 06.01_1767753081.xlsx",
-    "last_updated": "07/01/2026 11:46:15",
+    "last_updated": "07/01/2026 13:36:41",
     "total_sheets": 5,
     "total_products": 882
   },
@@ -4441,8 +4441,8 @@
           "LOT": "2909",
           "TỒN ĐẦU KỲ": 19059,
           "CLOSING STOCK/": 18749,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 124.3,
+          "Thời hạn (tháng)": 84,
+          "% Còn lại": 53.2,
           "Ngày hết hạn": "30/09/2029"
         },
         {
@@ -4451,7 +4451,7 @@
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 102,
           "CLOSING STOCK/": 102,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 84,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -4461,8 +4461,8 @@
           "LOT": "2904",
           "TỒN ĐẦU KỲ": 53,
           "CLOSING STOCK/": 53,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 110.3,
+          "Thời hạn (tháng)": 84,
+          "% Còn lại": 47.3,
           "Ngày hết hạn": "30/04/2029"
         },
         {
@@ -4471,7 +4471,7 @@
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 4,
           "CLOSING STOCK/": 4,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 84,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -4481,8 +4481,8 @@
           "LOT": "2909",
           "TỒN ĐẦU KỲ": 291,
           "CLOSING STOCK/": 291,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 124.3,
+          "Thời hạn (tháng)": 84,
+          "% Còn lại": 53.2,
           "Ngày hết hạn": "30/09/2029"
         },
         {
@@ -4491,8 +4491,8 @@
           "LOT": "2909",
           "TỒN ĐẦU KỲ": 2400,
           "CLOSING STOCK/": 2400,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 124.3,
+          "Thời hạn (tháng)": 84,
+          "% Còn lại": 53.2,
           "Ngày hết hạn": "30/09/2029"
         },
         {
@@ -4501,8 +4501,8 @@
           "LOT": "2904",
           "TỒN ĐẦU KỲ": 155,
           "CLOSING STOCK/": 125,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 110.3,
+          "Thời hạn (tháng)": 84,
+          "% Còn lại": 47.3,
           "Ngày hết hạn": "30/04/2029"
         },
         {
@@ -4511,8 +4511,8 @@
           "LOT": "2909",
           "TỒN ĐẦU KỲ": 424,
           "CLOSING STOCK/": 424,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 124.3,
+          "Thời hạn (tháng)": 84,
+          "% Còn lại": 53.2,
           "Ngày hết hạn": "30/09/2029"
         },
         {
@@ -4711,8 +4711,8 @@
           "LOT": "2612",
           "TỒN ĐẦU KỲ": 10,
           "CLOSING STOCK/": 10,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 32.6,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 29.3,
           "Ngày hết hạn": "31/12/2026"
         },
         {
@@ -4721,8 +4721,8 @@
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 6400,
           "CLOSING STOCK/": 6400,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 85.4,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 76.8,
           "Ngày hết hạn": "31/07/2028"
         },
         {
@@ -4731,8 +4731,8 @@
           "LOT": "2804",
           "TỒN ĐẦU KỲ": 1721,
           "CLOSING STOCK/": 1371,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 77.0,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 69.3,
           "Ngày hết hạn": "30/04/2028"
         },
         {
@@ -4741,8 +4741,8 @@
           "LOT": "2710",
           "TỒN ĐẦU KỲ": 3,
           "CLOSING STOCK/": 0,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 60.4,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 54.3,
           "Ngày hết hạn": "31/10/2027"
         },
         {
@@ -4751,8 +4751,8 @@
           "LOT": "2710",
           "TỒN ĐẦU KỲ": 30600,
           "CLOSING STOCK/": 30600,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 60.4,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 54.3,
           "Ngày hết hạn": "31/10/2027"
         },
         {
@@ -4761,8 +4761,8 @@
           "LOT": "2804",
           "TỒN ĐẦU KỲ": 10190,
           "CLOSING STOCK/": 10190,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 77.0,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 69.3,
           "Ngày hết hạn": "30/04/2028"
         },
         {
@@ -4771,8 +4771,8 @@
           "LOT": "2709",
           "TỒN ĐẦU KỲ": 10553,
           "CLOSING STOCK/": 10272,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 57.5,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 51.8,
           "Ngày hết hạn": "30/09/2027"
         },
         {
@@ -4781,8 +4781,8 @@
           "LOT": "2807",
           "TỒN ĐẦU KỲ": 2726,
           "CLOSING STOCK/": 2277,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 85.4,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 76.8,
           "Ngày hết hạn": "31/07/2028"
         },
         {
@@ -4791,8 +4791,8 @@
           "LOT": "2810",
           "TỒN ĐẦU KỲ": 8760,
           "CLOSING STOCK/": 8760,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 93.8,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 84.4,
           "Ngày hết hạn": "31/10/2028"
         },
         {
@@ -4801,8 +4801,8 @@
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 26880,
           "CLOSING STOCK/": 26880,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 104.7,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 94.2,
           "Ngày hết hạn": "28/02/2029"
         },
         {
@@ -4811,7 +4811,7 @@
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 9,
           "CLOSING STOCK/": 9,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 40,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -4821,8 +4821,8 @@
           "LOT": "2902",
           "TỒN ĐẦU KỲ": 23513,
           "CLOSING STOCK/": 22501,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 104.7,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 94.2,
           "Ngày hết hạn": "28/02/2029"
         },
         {
@@ -4831,8 +4831,8 @@
           "LOT": "2710",
           "TỒN ĐẦU KỲ": 238,
           "CLOSING STOCK/": 238,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 60.4,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 54.3,
           "Ngày hết hạn": "31/10/2027"
         },
         {
@@ -4841,7 +4841,7 @@
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 12,
           "CLOSING STOCK/": 12,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 40,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -4851,8 +4851,8 @@
           "LOT": "2612",
           "TỒN ĐẦU KỲ": 396,
           "CLOSING STOCK/": 396,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 32.6,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 29.3,
           "Ngày hết hạn": "31/12/2026"
         },
         {
@@ -4861,7 +4861,7 @@
           "LOT": "2502",
           "TỒN ĐẦU KỲ": 123,
           "CLOSING STOCK/": 123,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 40,
           "% Còn lại": 0,
           "Ngày hết hạn": "28/02/2025"
         },
@@ -4871,8 +4871,8 @@
           "LOT": "2602",
           "TỒN ĐẦU KỲ": 841,
           "CLOSING STOCK/": 841,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 4.7,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 4.2,
           "Ngày hết hạn": "28/02/2026"
         },
         {
@@ -4881,7 +4881,7 @@
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 87,
           "CLOSING STOCK/": 87,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 40,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -4891,8 +4891,8 @@
           "LOT": "2612",
           "TỒN ĐẦU KỲ": 5519,
           "CLOSING STOCK/": 5519,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 32.6,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 29.3,
           "Ngày hết hạn": "31/12/2026"
         },
         {
@@ -4901,7 +4901,7 @@
           "LOT": "2201",
           "TỒN ĐẦU KỲ": 2086,
           "CLOSING STOCK/": 2086,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 40,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/01/2022"
         },
@@ -4911,7 +4911,7 @@
           "LOT": "2208",
           "TỒN ĐẦU KỲ": 2904,
           "CLOSING STOCK/": 2904,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 40,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/08/2022"
         },
@@ -4921,8 +4921,8 @@
           "LOT": "2906",
           "TỒN ĐẦU KỲ": 15760,
           "CLOSING STOCK/": 15760,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 115.9,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 104.3,
           "Ngày hết hạn": "30/06/2029"
         },
         {
@@ -4931,8 +4931,8 @@
           "LOT": "2906",
           "TỒN ĐẦU KỲ": 11819,
           "CLOSING STOCK/": 11819,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 115.9,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 104.3,
           "Ngày hết hạn": "30/06/2029"
         },
         {
@@ -4941,8 +4941,8 @@
           "LOT": "2604",
           "TỒN ĐẦU KỲ": 1128,
           "CLOSING STOCK/": 1128,
-          "Thời hạn (tháng)": 36,
-          "% Còn lại": 10.2,
+          "Thời hạn (tháng)": 40,
+          "% Còn lại": 9.2,
           "Ngày hết hạn": "30/04/2026"
         },
         {
@@ -5001,7 +5001,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 70,
           "CLOSING STOCK/": 70,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 120,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         },
@@ -5011,7 +5011,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 62,
           "CLOSING STOCK/": 62,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 120,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         },
@@ -5021,7 +5021,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 88,
           "CLOSING STOCK/": 88,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 120,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         },
@@ -5031,7 +5031,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 129,
           "CLOSING STOCK/": 129,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 120,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         },
@@ -5041,7 +5041,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 38,
           "CLOSING STOCK/": 38,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 120,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         },
@@ -5051,7 +5051,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 222,
           "CLOSING STOCK/": 222,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 120,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         },
@@ -5061,7 +5061,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 108,
           "CLOSING STOCK/": 107,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 120,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         },
@@ -5071,7 +5071,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 1,
           "CLOSING STOCK/": 1,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 999,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         },
@@ -5081,7 +5081,7 @@
           "LOT": "1907",
           "TỒN ĐẦU KỲ": 66,
           "CLOSING STOCK/": 66,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 999,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/07/2019"
         },
@@ -5091,7 +5091,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 117,
           "CLOSING STOCK/": 117,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 999,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         },
@@ -5101,7 +5101,7 @@
           "LOT": "0000",
           "TỒN ĐẦU KỲ": 2,
           "CLOSING STOCK/": 2,
-          "Thời hạn (tháng)": 36,
+          "Thời hạn (tháng)": 999,
           "% Còn lại": 0,
           "Ngày hết hạn": "31/12/1999"
         }
