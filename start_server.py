@@ -113,46 +113,62 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         
         elif parsed_path.path == '/save_shelf_life':
             # Đọc dữ liệu từ request
-            content_length = int(self.headers['Content-Length'])
-            post_data = self.rfile.read(content_length)
-            data = json.loads(post_data.decode('utf-8'))
-            
-            product_code = data.get('product_code')
-            lot_number = data.get('lot_number', '')
-            shelf_life_months = data.get('shelf_life_months')
-            
-            # Tạo unique key từ product_code + lot_number
-            unique_key = f"{product_code}_{lot_number}" if lot_number else str(product_code)
-            
-            # Load config
             try:
-                with open('product_config.json', 'r', encoding='utf-8') as f:
-                    config = json.load(f)
-            except:
-                config = {
-                    "shelf_life_months": {
-                        "BAKING SODA": 36,
-                        "AZARINE": 36,
-                        "PIN FUJITSU": {}
-                    },
-                    "product_specific_shelf_life": {}
-                }
-            
-            # Lưu thời hạn cho sản phẩm với unique key
-            config['product_specific_shelf_life'][unique_key] = shelf_life_months
-            
-            # Ghi vào file
-            with open('product_config.json', 'w', encoding='utf-8') as f:
-                json.dump(config, f, ensure_ascii=False, indent=2)
-            
-            # Trả về response ngay lập tức (không chạy conversion)
-            self.send_response(200)
-            self.send_header('Content-type', 'application/json')
-            self.end_headers()
-            self.wfile.write(json.dumps({
-                'status': 'success',
-                'message': 'Đã lưu thời hạn thành công'
-            }).encode())
+                content_length = int(self.headers['Content-Length'])
+                post_data = self.rfile.read(content_length)
+                data = json.loads(post_data.decode('utf-8'))
+                
+                product_code = data.get('product_code')
+                lot_number = data.get('lot_number', '')
+                shelf_life_months = data.get('shelf_life_months')
+                
+                print(f"📝 Nhận request lưu: {product_code} | LOT: {lot_number} | Thời hạn: {shelf_life_months}")
+                
+                # Tạo unique key từ product_code + lot_number
+                unique_key = f"{product_code}_{lot_number}" if lot_number else str(product_code)
+                
+                # Load config
+                try:
+                    with open('product_config.json', 'r', encoding='utf-8') as f:
+                        config = json.load(f)
+                except:
+                    config = {
+                        "shelf_life_months": {
+                            "BAKING SODA": 36,
+                            "AZARINE": 36,
+                            "PIN FUJITSU": {}
+                        },
+                        "product_specific_shelf_life": {}
+                    }
+                
+                # Lưu thời hạn cho sản phẩm với unique key
+                config['product_specific_shelf_life'][unique_key] = shelf_life_months
+                
+                # Ghi vào file
+                with open('product_config.json', 'w', encoding='utf-8') as f:
+                    json.dump(config, f, ensure_ascii=False, indent=2)
+                
+                print(f"✓ Đã lưu {unique_key} = {shelf_life_months} tháng")
+                
+                # Trả về response ngay lập tức (không chạy conversion)
+                self.send_response(200)
+                self.send_header('Content-type', 'application/json')
+                self.end_headers()
+                self.wfile.write(json.dumps({
+                    'status': 'success',
+                    'message': 'Đã lưu thời hạn thành công'
+                }).encode())
+            except Exception as e:
+                print(f"❌ Lỗi khi lưu thời hạn: {e}")
+                import traceback
+                traceback.print_exc()
+                self.send_response(500)
+                self.send_header('Content-type', 'application/json')
+                self.end_headers()
+                self.wfile.write(json.dumps({
+                    'status': 'error',
+                    'message': str(e)
+                }).encode())
         
         elif parsed_path.path == '/recalculate':
             # Tính lại phần trăm còn lại
