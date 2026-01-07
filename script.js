@@ -378,6 +378,7 @@ function displayTableBody() {
                 });
                 
                 cell.appendChild(select);
+                }
             }
             else {
                 cell.textContent = value !== null && value !== undefined ? value : '--';
