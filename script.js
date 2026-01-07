@@ -296,11 +296,21 @@ function displayTableBody() {
             else if (key === 'Thời hạn (tháng)' && allSheets[currentSheetIndex].sheet_name === 'PIN FUJITSU') {
                 const select = document.createElement('select');
                 select.className = 'shelf-life-selector';
-                [36, 40, 120].forEach(months => {
+                
+                // Danh sách thời hạn: 36, 40, 84 (7 năm), 120 (10 năm), 999 (vô thời hạn)
+                const shelfLifeOptions = [
+                    { value: 36, label: '36 tháng (3 năm)' },
+                    { value: 40, label: '40 tháng' },
+                    { value: 84, label: '84 tháng (7 năm)' },
+                    { value: 120, label: '120 tháng (10 năm)' },
+                    { value: 999, label: 'Vô thời hạn' }
+                ];
+                
+                shelfLifeOptions.forEach(opt => {
                     const option = document.createElement('option');
-                    option.value = months;
-                    option.textContent = months + ' tháng';
-                    if (value === months) option.selected = true;
+                    option.value = opt.value;
+                    option.textContent = opt.label;
+                    if (value === opt.value) option.selected = true;
                     select.appendChild(option);
                 });
                 
