@@ -6,8 +6,21 @@ let currentSheetProducts = [];
 let filteredProducts = [];
 let selectedFile = null;
 
+// Kiểm tra xem có đang chạy trên production (Vercel) hay không
+function isProduction() {
+    return window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
+}
+
 // Load dữ liệu khi trang được tải
 document.addEventListener('DOMContentLoaded', () => {
+    // Ẩn upload section nếu đang ở production
+    if (isProduction()) {
+        const uploadSection = document.querySelector('.upload-section');
+        if (uploadSection) {
+            uploadSection.style.display = 'none';
+        }
+    }
+    
     loadInventoryData();
     setupEventListeners();
     setupFileUpload();
@@ -292,30 +305,44 @@ function displayTableBody() {
                     cell.classList.add('medium-shelf-life');  // Dưới 70% - vàng
                 }
             }
-            // Xử lý cột Thời hạn (tháng) cho PIN FUJITSU - dropdown
+            // Xử lý cột Thời hạn (tháng) cho PIN FUJITSU - dropdown hoặc text
             else if (key === 'Thời hạn (tháng)' && allSheets[currentSheetIndex].sheet_name === 'PIN FUJITSU') {
-                const select = document.createElement('select');
-                select.className = 'shelf-life-selector';
-                
-                // Danh sách thời hạn: 36, 40, 84 (7 năm), 120 (10 năm), 999 (vô thời hạn)
-                const shelfLifeOptions = [
-                    { value: 36, label: '36 tháng (3 năm)' },
-                    { value: 40, label: '40 tháng' },
-                    { value: 84, label: '84 tháng (7 năm)' },
-                    { value: 120, label: '120 tháng (10 năm)' },
-                    { value: 999, label: 'Vô thời hạn' }
-                ];
-                
-                shelfLifeOptions.forEach(opt => {
-                    const option = document.createElement('option');
-                    option.value = opt.value;
-                    option.textContent = opt.label;
-                    if (value === opt.value) option.selected = true;
-                    select.appendChild(option);
-                });
-                
-                // Lưu thời hạn khi thay đổi
-                select.addEventListener('change', async (e) => {
+                // Nếu production (Vercel), chỉ hiển thị text (read-only)
+                if (isProduction()) {
+                    // Hiển thị text với nhãn rõ ràng
+                    const shelfLifeLabels = {
+                        36: '36 tháng (3 năm)',
+                        40: '40 tháng',
+                        84: '84 tháng (7 năm)',
+                        120: '120 tháng (10 năm)',
+                        999: 'Vô thời hạn'
+                    };
+                    cell.textContent = shelfLifeLabels[value] || value + ' tháng';
+                    cell.style.fontWeight = '500';
+                } else {
+                    // Local: Dropdown cho phép chỉnh sửa
+                    const select = document.createElement('select');
+                    select.className = 'shelf-life-selector';
+                    
+                    // Danh sách thời hạn: 36, 40, 84 (7 năm), 120 (10 năm), 999 (vô thời hạn)
+                    const shelfLifeOptions = [
+                        { value: 36, label: '36 tháng (3 năm)' },
+                        { value: 40, label: '40 tháng' },
+                        { value: 84, label: '84 tháng (7 năm)' },
+                        { value: 120, label: '120 tháng (10 năm)' },
+                        { value: 999, label: 'Vô thời hạn' }
+                    ];
+                    
+                    shelfLifeOptions.forEach(opt => {
+                        const option = document.createElement('option');
+                        option.value = opt.value;
+                        option.textContent = opt.label;
+                        if (value === opt.value) option.selected = true;
+                        select.appendChild(option);
+                    });
+                    
+                    // Lưu thời hạn khi thay đổi
+                    select.addEventListener('change', async (e) => {
                     const newShelfLife = parseInt(e.target.value);
                     // Hỗ trợ cả "Mã" (COLEMAN) và "Item Code" (các sheet khác)
                     const productCode = product['Item Code'] || product['Mã'];
@@ -452,6 +479,9 @@ function updateColumnFilter(columns) {
 
 // Hiển thị nút tính lại %
 function showRecalculateButton() {
+    // Nếu là production (Vercel), không hiển thị nút tính lại
+    if (isProduction()) return;
+    
     // Kiểm tra xem nút đã tồn tại chưa
     if (document.getElementById('recalculate-btn')) return;
     
